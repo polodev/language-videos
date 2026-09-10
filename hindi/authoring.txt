@@ -1,0 +1,275 @@
+# Greetings and introductions | A1 | A friendly adult arriving at a casual neighborhood meetup in India.
+Say Your Name|मेरा नाम आशा है।|तुम्हारा नाम क्या है?
+Nice to Meet You|तुमसे मिलकर अच्छा लगा।|तुम कैसी हो?
+Say How You Feel|मैं ठीक हूँ।|आज मैं खुश हूँ।
+Where You Come From|मैं बांग्लादेश से हूँ।|तुम कहाँ से हो?
+Where You Live|मैं दिल्ली में रहती हूँ।|तुम कहाँ रहते हो?
+Tell Your Age|मेरी उम्र तीस साल है।|तुम्हारी उम्र क्या है?
+Meet a New Neighbor|मैं यहाँ नई हूँ।|मैं पड़ोस में रहती हूँ।
+Use Polite Introductions|आपका नाम क्या है?|मेरा नाम करीम है।
+Introduce a Friend|यह मेरा दोस्त है।|उसका नाम राहुल है।
+Say Goodbye|अब मुझे जाना है।|कल फिर मिलेंगे।
+# Learning Hindi | A1 | An adult learner practicing Hindi at a quiet desk with a notebook.
+Say You Are Learning|मैं हिंदी सीख रही हूँ।|मैं थोड़ी हिंदी बोलती हूँ।
+Ask for Repetition|मुझे यह समझ नहीं आया।|क्या आप फिर से कहेंगे?
+Ask Someone to Slow Down|कृपया धीरे बोलिए।|मैं सब समझना चाहती हूँ।
+Ask What a Word Means|इस शब्द का मतलब क्या है?|क्या आप एक उदाहरण देंगे?
+Ask How to Say It|इसे हिंदी में क्या कहते हैं?|कृपया इसे लिख दीजिए।
+Ask About Spelling|आपका नाम कैसे लिखते हैं?|क्या आप इसके अक्षर बताएँगे?
+Check Your Pronunciation|क्या मैं सही बोल रही हूँ?|कृपया मेरी मदद कीजिए।
+Ask About Languages|क्या आप अंग्रेज़ी बोलते हैं?|मेरी मातृभाषा बांग्ला है।
+Learn a Little Every Day|मैं रोज़ अभ्यास करती हूँ।|आज मैं नए शब्द सीख रही हूँ।
+Ask One More Question|मेरा एक सवाल है।|क्या आप मुझे यह समझाएँगे?
+# Family and friends | A1 | An adult introducing family and friends at a relaxed home gathering.
+Introduce Your Family|यह मेरा परिवार है।|हम साथ रहते हैं।
+Talk About Your Mother|मेरी माँ का नाम मीरा है।|वह अस्पताल में काम करती हैं।
+Talk About Your Father|मेरे पिता शिक्षक हैं।|उन्हें पढ़ना बहुत पसंद है।
+Talk About Siblings|मेरी एक बहन है।|वह मुझसे छोटी है।
+Describe Your Brother|मेरा भाई मुंबई में रहता है।|वह वहाँ विश्वविद्यालय में पढ़ता है।
+Talk About Children|हमारे दो बच्चे हैं।|वे स्कूल जाते हैं।
+Say You Are Married|मैं शादीशुदा हूँ।|मेरे पति आज काम कर रहे हैं।
+Talk About Your Partner|मेरे पति हिंदी बोलते हैं।|हम साथ सीखते हैं।
+Introduce Your Best Friend|मेरी सबसे अच्छी सहेली सारा है।|हम अक्सर मिलते हैं।
+Visit Your Grandparents|मेरे दादा-दादी गाँव में रहते हैं।|मैं रविवार को उनसे मिलने जाती हूँ।
+# Home and everyday objects | A1 | An adult showing everyday objects inside a modest Hindi apartment.
+Describe Your Apartment|मेरा घर छोटा है।|इसमें दो कमरे हैं।
+Show Your Kitchen|यह रसोई है।|मैं यहाँ रोज़ खाना बनाती हूँ।
+Show Your Bedroom|मेरा बिस्तर खिड़की के पास है।|मैं यहाँ सोती हूँ।
+Find Your Keys|मेरी चाबी कहाँ है?|वह मेज़ पर है।
+Find Your Phone|मैं अपना फ़ोन ढूँढ़ रही हूँ।|वह मेरे बैग में है।
+Open the Window|कृपया खिड़की खोल दो।|यहाँ गर्मी है।
+Close the Door|कृपया दरवाज़ा बंद कर दो।|बाहर ठंड है।
+Switch On the Light|क्या तुम बत्ती जला दोगे?|मैं पढ़ना चाहती हूँ।
+Offer Someone a Seat|यह कुर्सी खाली है।|तुम बैठ सकते हो।
+Find the Bathroom|बाथरूम कहाँ है?|वह बाईं ओर है।
+# Morning and evening routines | A1 | An adult demonstrating a simple daily routine at home.
+Wake Up in Hindi|मैं सात बजे उठती हूँ।|फिर मैं नहाती हूँ।
+Get Ready for the Day|मैं अपने दाँत साफ़ करती हूँ।|उसके बाद कपड़े पहनती हूँ।
+Eat Breakfast|मैं घर पर नाश्ता करती हूँ।|मैं पनीर के साथ रोटी खाती हूँ।
+Leave for Work|मैं अब काम पर जा रही हूँ।|मैं बस से जाती हूँ।
+Start the Working Day|मेरा काम नौ बजे शुरू होता है।|मैं समय पर पहुँचती हूँ।
+Take a Lunch Break|अब मैं थोड़ा आराम कर रही हूँ।|मैं कुछ खाती हूँ।
+Come Home|मैं छह बजे घर आती हूँ।|फिर रात का खाना बनाती हूँ।
+Relax in the Evening|शाम को मैं गाने सुनती हूँ।|कभी-कभी टीवी देखती हूँ।
+Get Ready for Bed|मैं थकी हुई हूँ।|मैं अब सोने जा रही हूँ।
+Talk About Sleep|मैं आठ घंटे सोती हूँ।|सुबह फिर तरोताज़ा महसूस करती हूँ।
+# Food and drinks | A1 | An adult preparing and choosing everyday food in a home kitchen.
+Say You Are Hungry|मुझे भूख लगी है।|मैं कुछ खाना चाहती हूँ।
+Ask for Water|मुझे प्यास लगी है।|मुझे एक गिलास पानी चाहिए।
+Choose Tea or Coffee|मुझे चाय पीना पसंद है।|मुझे कॉफ़ी पसंद नहीं है।
+Ask for Milk|क्या आपके पास दूध है?|मैं दूध वाली कॉफ़ी लेती हूँ।
+Choose Still Water|मुझे सादा पानी चाहिए।|यह पानी मेरे लिए है।
+Talk About Fruit|मुझे सेब खाना पसंद है।|मुझे केले भी पसंद हैं।
+Choose Vegetables|मुझे टमाटर और आलू चाहिए।|गाजर पहले से हैं।
+Describe Your Lunch|आज चावल बने हैं।|हम साथ में सब्ज़ी खाते हैं।
+Say You Are Full|खाना स्वादिष्ट है।|अब मेरा पेट भर गया है।
+Ask for More Bread|क्या मुझे थोड़ी और रोटी मिलेगी?|मैं थोड़ा मक्खन भी लूँगी।
+# Café and restaurant | A1 | An adult customer at a small Hindi café or casual restaurant; staff stay silent.
+Ask for a Table|क्या दो लोगों के लिए मेज़ है?|हम यहाँ खाना चाहते हैं।
+Ask for the Menu|क्या मुझे मेन्यू मिलेगा?|मैं कुछ मँगवाना चाहती हूँ।
+Order a Coffee|मुझे एक कॉफ़ी दीजिए।|मैं बिना चीनी के लूँगी।
+Order a Simple Meal|मैं सूप लूँगी।|साथ में एक सलाद चाहिए।
+Ask for Vegetarian Food|क्या शाकाहारी खाना है?|मैं मांस नहीं खाती।
+Ask About Pork|क्या इसमें सूअर का मांस है?|मैं सूअर का मांस नहीं खाती।
+Ask for a Spoon|मुझे एक चम्मच चाहिए।|क्या आप एक ला देंगे?
+Ask About a Free Seat|क्या यह जगह खाली है?|क्या मैं यहाँ बैठ सकती हूँ?
+Pay at a Restaurant|मुझे बिल चुकाना है।|क्या मैं कार्ड से दे सकती हूँ?
+Order Food to Go|मुझे यह साथ ले जाना है।|क्या आप इसे पैक कर देंगे?
+# Shopping and prices | A1 | An adult shopping in a neighborhood supermarket or small shop in India.
+Ask the Price|यह कितने का है?|मुझे ऐसे दो चाहिए।
+Find Bread in a Shop|ब्रेड कहाँ मिलेगी?|मुझे अंडे भी चाहिए।
+Buy Some Apples|मुझे एक किलो सेब दीजिए।|लाल वाले अच्छे लग रहे हैं।
+Ask for a Bag|मुझे एक थैला चाहिए।|मेरा बैग बहुत छोटा है।
+Pay in Cash|मैं नकद दूँगी।|ये बीस रुपये हैं।
+Ask for a Receipt|क्या मुझे रसीद मिलेगी?|मैं इसे साथ ले जाना चाहती हूँ।
+Say Something Costs Too Much|यह बहुत महँगा है।|क्या कुछ सस्ता है?
+Choose What to Buy|मुझे यह पसंद है।|मैं इसे लूँगी।
+Say You Are Just Looking|मैं बस देख रही हूँ।|अभी मुझे मदद नहीं चाहिए।
+Check Opening Hours|आप कल कब खोलेंगे?|आज कब बंद करेंगे?
+# Time and dates | A1 | An adult checking a clock and planning a simple day with a calendar.
+Ask the Time|अभी कितने बजे हैं?|मेरी घड़ी नहीं चल रही।
+Say the Time|साढ़े सात बजे हैं।|हमें अब निकलना है।
+Choose a Meeting Time|क्या तुम तीन बजे खाली हो?|हम तब मिल सकते हैं।
+Talk About Today and Tomorrow|आज सोमवार है।|कल मंगलवार है।
+Say Your Birthday|मेरा जन्मदिन मई में है।|तुम्हारा जन्मदिन कब है?
+Talk About the Weekend|शनिवार को मेरी छुट्टी है।|रविवार को दोस्तों से मिलती हूँ।
+Say You Have Time|आज मेरे पास समय है।|हम टहलने जा सकते हैं।
+Say You Are in a Hurry|मेरे पास समय कम है।|मुझे अभी जाना है।
+Say You Are Early|मैं जल्दी आ गई हूँ।|मैं दस मिनट और इंतज़ार करूँगी।
+Apologize for Being Late|मैं थोड़ी देर से आऊँगी।|मुझे माफ़ कीजिए।
+# Directions and transport | A1 | An adult traveler navigating a Hindi street or public transport stop.
+Find the Station|रेलवे स्टेशन कहाँ है?|क्या वह बहुत दूर है?
+Ask for Directions|नगर निगम का दफ़्तर कैसे जाऊँ?|क्या मैं पैदल जा सकती हूँ?
+Give Simple Directions|आप सीधे जाइए।|फिर दाएँ मुड़िए।
+Find the Bus Stop|बस स्टॉप कहाँ है?|मुझे शहर के केंद्र वाली बस चाहिए।
+Buy a Ticket|मुझे जयपुर का टिकट चाहिए।|किराया कितना है?
+Check the Train Platform|ट्रेन किस प्लेटफ़ॉर्म से जाएगी?|मैं पुणे जा रही हूँ।
+Check the Bus Route|क्या यह बस स्टेशन जाती है?|मैं यह रास्ता नहीं जानती।
+Find a Seat on the Train|क्या आपके पास वाली सीट खाली है?|मैं बैठना चाहूँगी।
+Know When to Get Off|मुझे यहाँ उतरना है।|अगला स्टॉप मेरा है।
+Ask for Travel Help|मैं रास्ता भूल गई हूँ।|क्या आप मुझे रास्ता बताएँगे?
+# Clothes and personal shopping | A2 | An adult browsing clothing and trying items in front of a shop mirror.
+Ask for Your Size|क्या यह जैकेट मध्यम साइज़ में है?|मैं इसे पहनकर देखना चाहती हूँ।
+Find the Fitting Room|कपड़े बदलने का कमरा कहाँ है?|मेरे पास दो पैंट हैं।
+Ask for a Larger Size|यह पैंट बहुत तंग है।|क्या एक साइज़ बड़ी मिलेगी?
+Ask for a Smaller Size|यह स्वेटर बहुत बड़ा है।|मुझे छोटा साइज़ चाहिए।
+Choose a Color|क्या यह नीले रंग में भी है?|नीला मेरा पसंदीदा रंग है।
+Check the Fit|जूते ठीक आ रहे हैं।|मैं यह जोड़ी लूँगी।
+Shop for Winter|मैं एक गर्म कोट ढूँढ़ रही हूँ।|सर्दियाँ जल्दी आने वाली हैं।
+Return an Item|मैं यह कमीज़ वापस करना चाहती हूँ।|यह रही रसीद।
+Exchange Something Broken|इसकी ज़िप खराब है।|क्या मैं जैकेट बदल सकती हूँ?
+Ask About Material|क्या यह कमीज़ सूती है?|कपड़ा मुलायम लग रहा है।
+# Weather and seasons | A2 | An adult observing the weather from home or during a neighborhood walk.
+Talk About Sunshine|आज धूप निकली है।|हम बाहर बैठ सकते हैं।
+Get Ready for Rain|अभी बारिश हो रही है।|मैं छाता साथ ले जाऊँगी।
+Dress for Cold Weather|मुझे ठंड लग रही है।|मैं जैकेट पहनूँगी।
+Cool Down in Summer|आज बहुत गर्मी है।|मैं छाँव में ही रहूँगी।
+Talk About Snow|कल रात बर्फ़ पड़ी थी।|सड़कें बिल्कुल सफ़ेद हैं।
+Talk About Wind|बाहर तेज़ हवा चल रही है।|अपनी टोपी कसकर पकड़ो।
+Make Plans for Spring|वसंत में मौसम गर्म होता है।|तब मैं फिर साइकिल चलाती हूँ।
+Enjoy Autumn|पतझड़ में पत्ते गिरते हैं।|मुझे रंग-बिरंगे पत्ते पसंद हैं।
+Check Tomorrow's Weather|कल मौसम कैसा रहेगा?|हम घूमने जाने की योजना बना रहे हैं।
+Change Plans for a Storm|आज आँधी आने वाली है।|हम घर पर रहेंगे।
+# Health and appointments | A2 | An adult arranging a medical visit or describing discomfort calmly; show no treatment advice.
+Say You Feel Unwell|मेरी तबीयत ठीक नहीं है।|मुझे डॉक्टर चाहिए।
+Describe a Headache|मेरे सिर में दर्द है।|यह रोशनी मेरे लिए बहुत तेज़ है।
+Describe a Sore Throat|मेरे गले में दर्द है।|मैं मुश्किल से बोल पा रही हूँ।
+Talk About a Fever|मुझे कल से बुखार है।|आज मैं बिस्तर पर ही रहूँगी।
+Make a Doctor's Appointment|मुझे मिलने का समय चाहिए।|क्या आज कोई समय खाली है?
+Check In at the Doctor|मेरा दस बजे का अपॉइंटमेंट है।|यह मेरा बीमा कार्ड है।
+Describe an Allergy|मुझे बादाम से एलर्जी है।|क्या इस खाने में बादाम हैं?
+Visit a Pharmacy|पास की दवा की दुकान कहाँ है?|मुझे पर्चे की दवाएँ चाहिए।
+Ask About Medicine Instructions|यह दवा कितनी बार लेनी है?|क्या आप मुझे लिखकर देंगे?
+Explain Where It Hurts|मेरी पीठ में दर्द है।|दर्द यहाँ नीचे है।
+# Housing and chores | A2 | An adult managing chores or a maintenance issue in a rented apartment.
+Look for an Apartment|मुझे एक घर चाहिए।|उसमें दो कमरे होने चाहिए।
+Ask About the Rent|घर का किराया कितना है?|क्या बाकी खर्च भी इसमें शामिल हैं?
+Arrange a Viewing|क्या मैं घर देख सकती हूँ?|शुक्रवार को मेरे पास समय है।
+Report a Broken Heater|हीटर काम नहीं कर रहा है।|घर के अंदर ठंड है।
+Report a Water Problem|नल से पानी टपक रहा है।|क्या आप किसी को भेज सकते हैं?
+Talk About Cleaning|आज मैं रसोई साफ़ कर रही हूँ।|फिर बैठक में झाड़ू लगाऊँगी।
+Do the Laundry|मुझे कपड़े धोने हैं।|वॉशिंग मशीन अभी खाली है।
+Take Out the Rubbish|मैं कचरा बाहर ले जा रही हूँ।|कागज़ वाला कूड़ादान कहाँ है?
+Ask for Quiet|गाने की आवाज़ बहुत तेज़ है।|क्या आप इसे थोड़ा कम करेंगे?
+Ask a Neighbor for Help|क्या आप मेरा पार्सल ले लेंगे?|कल मैं घर पर नहीं रहूँगी।
+# Work and colleagues | A2 | An adult communicating with silent colleagues in a calm workplace.
+Describe Your Job|मैं दफ़्तर में काम करती हूँ।|मेरे काम अलग-अलग तरह के हैं।
+Start a New Job|आज नौकरी का मेरा पहला दिन है।|साथ काम करके मुझे खुशी हो रही है।
+Ask About a Task|पहले मुझे क्या करना है?|क्या आप मुझे काम दिखाएँगे?
+Ask for Help at Work|मुझे तुम्हारी थोड़ी मदद चाहिए।|मेरा कंप्यूटर चालू नहीं हो रहा।
+Arrange a Meeting|बैठक कब शुरू होगी?|मैं समय पर आना चाहती हूँ।
+Say a Task Is Finished|मेरा काम पूरा हो गया है।|मैं तुम्हें फ़ाइल भेज रही हूँ।
+Ask for More Time|मुझे थोड़ा और समय चाहिए।|कल सब तैयार हो जाएगा।
+Take a Break Together|क्या हम थोड़ा आराम करें?|मैं अपने लिए कॉफ़ी लाती हूँ।
+Call In Sick|आज मैं बीमार हूँ।|मैं काम पर नहीं आ सकती।
+Ask for a Day Off|मैं शुक्रवार को छुट्टी लेना चाहती हूँ।|क्या यह संभव है?
+# Courses and studying | A2 | An adult learner attending a language course or studying at a library.
+Join a Hindi Course|मैं हिंदी की कक्षा में दाखिला लेना चाहती हूँ।|अगला कोर्स कब शुरू होगा?
+Ask About Course Times|क्या कक्षा शाम को होती है?|दिन में मुझे काम करना होता है।
+Ask About Course Fees|कोर्स की फ़ीस कितनी है?|क्या किताबों का खर्च भी शामिल है?
+Find Your Classroom|कक्षा किस कमरे में है?|मैं यहाँ पहली बार आई हूँ।
+Ask About Homework|हमें घर पर क्या करना है?|मैं पन्ने का नंबर नहीं सुन पाई।
+Borrow a Pen|क्या तुम मुझे एक कलम उधार दोगे?|मेरी कलम अब नहीं लिखती।
+Study for an Exam|अगले हफ़्ते मेरी परीक्षा है।|इसलिए मैं हर शाम पढ़ती हूँ।
+Practice with a Classmate|क्या तुम मेरे साथ अभ्यास करोगे?|हम साथ हिंदी बोल सकते हैं।
+Borrow a Library Book|मैं यह किताब उधार लेना चाहती हूँ।|इसे कितने दिन रख सकती हूँ?
+Talk About Learning Progress|अब मुझे बहुत ज़्यादा समझ आता है।|बोलना अभी भी मुश्किल लगता है।
+# Phone and internet | A2 | An adult using a phone or laptop at home; screens remain incidental and unreadable.
+Start a Phone Call|क्या शर्मा जी से बात हो सकती है?|मैं आशा सेन बोल रही हूँ।
+Say You Cannot Hear|मुझे आपकी आवाज़ साफ़ नहीं आ रही।|नेटवर्क बहुत खराब है।
+Ask for a Call Back|क्या आप मुझे बाद में फ़ोन करेंगे?|मैं अभी रास्ते में हूँ।
+Leave a Message|क्या मैं कोई संदेश छोड़ सकती हूँ?|यह मेरे अपॉइंटमेंट के बारे में है।
+Ask for Wi-Fi|क्या यहाँ वाई-फ़ाई है?|इसका पासवर्ड क्या है?
+Report an Internet Problem|मेरा इंटरनेट नहीं चल रहा है।|मैंने राउटर फिर चालू किया है।
+Ask to Charge Your Phone|मेरी बैटरी लगभग खत्म है।|क्या मैं यहाँ फ़ोन चार्ज कर सकती हूँ?
+Send a Photo|मैं तुम्हें फ़ोटो भेज रही हूँ।|तुम्हें अभी मिल जाएगी।
+Check an Email Address|क्या यह ईमेल पता सही है?|मेरा संदेश नहीं पहुँच रहा।
+Arrange a Video Call|क्या आज शाम फ़ोन पर बात करें?|वीडियो कॉल भी अच्छा रहेगा।
+# Travel and accommodation | A2 | An adult traveler with a small suitcase at a hotel or transport terminal.
+Check In at a Hotel|मैंने एक कमरा बुक किया है।|बुकिंग मेरे नाम से है।
+Ask About Breakfast|क्या नाश्ता किराए में शामिल है?|यह कितने बजे शुरू होता है?
+Ask About Checkout|मुझे कितने बजे तक कमरा छोड़ना है?|क्या मैं सूटकेस यहाँ छोड़ सकती हूँ?
+Report a Room Problem|मेरे कमरे में तौलिया नहीं है।|क्या आप मुझे एक तौलिया देंगे?
+Ask for a Quiet Room|मेरे कमरे में बहुत शोर है।|क्या कोई शांत कमरा है?
+Ask for a City Map|क्या आपके पास शहर का नक्शा है?|मैं पुराना शहर देखना चाहती हूँ।
+Buy an Entrance Ticket|मुझे एक प्रवेश टिकट चाहिए।|क्या छात्रों के लिए छूट है?
+Ask About a Delay|क्या हमारी उड़ान में देरी है?|हम कब चढ़ सकते हैं?
+Find Missing Luggage|मेरा सूटकेस नहीं आया है।|वह काला और काफ़ी बड़ा है।
+Describe Your Holiday|हम एक हफ़्ता समुद्र के पास थे।|मौसम बहुत अच्छा था।
+# Appointments and public services | A2 | An adult organizing documents at a public service desk or at home.
+Make an Appointment Online|मैं ऑनलाइन समय बुक करना चाहती हूँ।|मुझे कौन से कागज़ चाहिए?
+Change an Appointment|मुझे अपना अपॉइंटमेंट बदलना है।|क्या अगला हफ़्ता आपके लिए ठीक है?
+Cancel an Appointment|मैं अपना अपॉइंटमेंट रद्द करना चाहती हूँ।|माफ़ कीजिए, मैं कल नहीं आ सकती।
+Register Your Address|मुझे अपना नया पता दर्ज करवाना है।|मैंने अभी घर बदला है।
+Ask for a Form|मुझे एक फ़ॉर्म चाहिए।|यह कहाँ मिलेगा?
+Ask Where to Sign|मुझे कहाँ हस्ताक्षर करने हैं?|मैंने सब भर दिया है।
+Ask About Missing Documents|क्या कोई कागज़ बाकी है?|मैं इसे कल ला सकती हूँ।
+Ask About Waiting Time|कितनी देर इंतज़ार करना होगा?|मैंने एक टोकन लिया है।
+Ask for Written Confirmation|क्या मुझे लिखित पुष्टि मिलेगी?|कृपया इसे ईमेल से भेजिए।
+Check Your Personal Details|मेरा पता बदल गया है।|मैं आपको नया पता देती हूँ।
+# Money, post and everyday problems | A2 | An adult handling a routine errand at a bank, post office or service counter.
+Open a Bank Account|मैं बैंक खाता खोलना चाहती हूँ।|आपको कौन से दस्तावेज़ चाहिए?
+Find a Cash Machine|पास का एटीएम कहाँ है?|मुझे पैसे निकालने हैं।
+Report a Lost Bank Card|मेरा बैंक कार्ड खो गया है।|कृपया कार्ड बंद कर दीजिए।
+Ask About a Charge|मुझे यह कटौती समझ नहीं आ रही।|क्या आप इसकी जाँच करेंगे?
+Send a Parcel|मैं यह पार्सल भेजना चाहती हूँ।|इसे मुंबई जाना है।
+Buy a Stamp|मुझे एक डाक टिकट चाहिए।|यह चिट्ठी फ़्रांस जाएगी।
+Collect a Parcel|मैं अपना पार्सल लेने आई हूँ।|यह मेरा पहचान पत्र है।
+Report a Missing Delivery|मेरा पार्सल अभी तक नहीं आया।|क्या आप पार्सल का पता लगाएँगे?
+Return a Wrong Order|मुझे गलत सामान मिला है।|मैं इसे वापस भेजना चाहती हूँ।
+Report a Lost Bag|मेरा बैग खो गया है।|खोया-पाया दफ़्तर कहाँ है?
+# Invitations and social plans | B1 | An adult making friendly plans by phone or with a silent friend at a café.
+Invite Someone to Dinner|क्या तुम हमारे साथ खाना खाओगे?|आज शाम हम साथ खाना बनाएँगे।
+Accept an Invitation|मैं खुशी से तुम्हारी पार्टी में आऊँगी।|क्या मैं कुछ साथ लाऊँ?
+Decline Politely|मैं आना तो चाहती हूँ।|लेकिन पहले से कुछ और तय है।
+Suggest Another Day|आज मैं नहीं आ पाऊँगी।|कल मिलें तो कैसा रहेगा?
+Arrange a Meeting Place|चलो सिनेमाघर के सामने मिलते हैं।|वहाँ एक-दूसरे का इंतज़ार कर सकते हैं।
+Ask to Bring a Friend|क्या मैं एक दोस्त को साथ लाऊँ?|वह अभी मिलने आया है।
+Offer Help at a Party|क्या मैं खाना बनाने में मदद करूँ?|मैं सब्ज़ी काट सकती हूँ।
+Thank Your Host|मुझे बुलाने के लिए धन्यवाद।|शाम सचमुच बहुत अच्छी थी।
+Explain a Changed Plan|हमें मिलने का दिन बदलना होगा।|एक दोस्त बीमार पड़ गया है।
+Keep in Touch|समय मिले तो फ़ोन करना।|मुझे बहुत खुशी होगी।
+# Reasons and preferences | B1 | An adult explaining a simple everyday choice in a relaxed personal vlog.
+Give a Simple Reason|मैं थकी हूँ, इसलिए घर पर रहूँगी।|कल फिर बाहर जाऊँगी।
+Explain Why You Learn Hindi|काम के लिए मैं हिंदी सीख रही हूँ।|मैं सहकर्मियों की बात बेहतर समझना चाहती हूँ।
+Choose Public Transport|मुझे ट्रेन से जाना ज़्यादा पसंद है।|इस तरह रास्ते में पढ़ सकती हूँ।
+Explain a Food Preference|मुझे खुद खाना बनाना पसंद है।|तब खाने की चीज़ों का पता रहता है।
+Say What Matters to You|मेरे लिए शांत घर ज़रूरी है।|मैं अक्सर घर से काम करती हूँ।
+Compare Two Choices|यह घर दूसरे से सस्ता है।|लेकिन यह थोड़ा छोटा है।
+Share Your Opinion|मुझे यह सुझाव अच्छा लगा।|हमें कोशिश करके देखना चाहिए।
+Disagree Politely|मैं इसे थोड़ा अलग तरह से देखती हूँ।|क्या हम फिर इस पर बात करें?
+Say You Are Unsure|मैं अभी तय नहीं कर पाई हूँ।|मैं इस बारे में सोचना चाहती हूँ।
+Make a Fair Suggestion|हम खर्च बाँट सकते हैं।|फिर सबका खर्च कम होगा।
+# Past experiences | B1 | An adult sharing a short personal story with simple matching visual actions.
+Talk About Yesterday|कल मैंने देर तक काम किया।|फिर मैं जल्दी सो गई।
+Describe a Missed Bus|मेरी बस छूट गई।|इसलिए मुझे देर हो गई।
+Talk About Your First Day|शुरू में मैं बहुत घबराई हुई थी।|मेरे सहकर्मियों ने मेरी मदद की।
+Describe a Successful Errand|आखिर मुझे एक घर मिल गया।|अगले महीने वहाँ रहने जाऊँगी।
+Talk About a Recent Purchase|मैंने अपने लिए एक साइकिल खरीदी है।|अब मैं उससे काम पर जाती हूँ।
+Describe a Small Mistake|मैंने गलत पता भर दिया था।|अच्छा हुआ, समय पर ध्यान आ गया।
+Talk About Meeting a Friend|छुट्टी के दिन मैं सारा से मिली।|हमने बहुत देर तक बात की।
+Describe a New Experience|मैं पहली बार हवाई जहाज़ में गई।|यह उम्मीद से ज़्यादा रोमांचक था।
+Talk About a Finished Course|मैंने अपना हिंदी कोर्स पूरा कर लिया।|अब मैं और सीखना चाहती हूँ।
+Say What You Learned|पहले मुझे गलतियों से डर लगता था।|अब मैं फिर भी हिंदी बोलती हूँ।
+# Plans, wishes and conditions | B1 | An adult planning everyday goals with a notebook in a bright quiet room.
+Talk About Next Week|अगले हफ़्ते मैं नई नौकरी शुरू करूँगी।|मुझे इसका बेसब्री से इंतज़ार है।
+Share a Learning Goal|मैं रोज़ दस मिनट अभ्यास करना चाहती हूँ।|इससे सीखना लगातार चलता रहता है।
+Make a Weather-Dependent Plan|कल धूप हुई तो पैदल घूमने जाएँगे।|नहीं तो शहर में ही रहेंगे।
+Plan Around Your Schedule|काम जल्दी पूरा हुआ तो फ़ोन करूँगी।|तब हम मिल पाएँगे।
+Ask for a Recommendation|क्या तुम कोई अच्छी किताब सुझाओगे?|वह पढ़ने में आसान होनी चाहिए।
+Express a Travel Wish|मैं एक बार वियना जाना चाहती हूँ।|उसके लिए हर महीने पैसे बचाती हूँ।
+Explain a Practical Goal|मैं दफ़्तर के पास रहना चाहती हूँ।|फिर सुबह कम समय लगेगा।
+Make a Promise|मैं कल इसका ध्यान रखूँगी।|पूरा होते ही बता दूँगी।
+Offer a Backup Plan|ट्रेन रद्द हुई तो बस ले लेंगे।|हम फिर भी समय पर पहुँचेंगे।
+Share a Long-Term Wish|बाद में मैं व्यावसायिक प्रशिक्षण लेना चाहती हूँ।|पहले मुझे अपनी हिंदी बेहतर करनी है।
+# Problems, help and solutions | B1 | An adult calmly asking for assistance or resolving an everyday difficulty.
+Ask for Urgent Help|कृपया एम्बुलेंस बुलाइए।|यहाँ किसी को तुरंत मदद चाहिए।
+Report a Theft|मेरी साइकिल चोरी हो गई है।|मैं चोरी की शिकायत करना चाहती हूँ।
+Explain a Reservation Problem|सिस्टम में मेरी बुकिंग नहीं है।|लेकिन मुझे पुष्टि का संदेश मिला था।
+Ask for a Refund|सामान टूटा हुआ आया है।|मुझे मेरे पैसे वापस चाहिए।
+Clarify a Misunderstanding|मैंने इसका अलग मतलब समझा था।|क्या आप और साफ़ समझाएँगे?
+Apologize for a Mistake|मैंने गलती से आपका बैग ले लिया।|मैंने यह जानबूझकर नहीं किया।
+Ask Someone to Check|मुझे लगता है कि बिल गलत है।|क्या आप फिर से हिसाब करेंगे?
+Explain What You Have Tried|मैंने पहले ही दो बार कोशिश की।|अफ़सोस, यह अभी भी नहीं चल रहा।
+Suggest Solving It Together|हमें ज़रूर कोई हल मिलेगा।|आइए, दूसरे तरीके देखते हैं।
+Thank Someone for Their Help|आपकी मदद मेरे लिए बहुत कीमती थी।|अब मुझे पता है कि आगे क्या करूँ।

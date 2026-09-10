@@ -1,0 +1,14 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
+
+# Rendered media is separate from the versioned prompts and captions.
+*.mp4
+*.mov
+*.webm
+*.wav
+*.mp3

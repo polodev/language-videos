@@ -1,0 +1,25 @@
+{
+  "name": "German",
+  "directory_language": "german",
+  "locale": "de",
+  "language_tag": "de-DE",
+  "script": "Latn",
+  "target_direction": "ltr",
+  "variety": "Standard German, Germany reference variety",
+  "audience": "Bangla-speaking adults; no English or target-script literacy assumed",
+  "source_directory": "/Users/polodev/sites/language-ebooks-standalone/language-ebook-standalone-german",
+  "status": "authored",
+  "sentence_count": 500,
+  "video_count": 250,
+  "instruction_language": "bn-BD",
+  "target_video_duration_seconds": 10,
+  "sentences_per_video": 2,
+  "caption_fields": [
+    "original_target_language",
+    "bangla_pronunciation",
+    "bangla_meaning"
+  ],
+  "presenter": "Exceptionally beautiful, smart, confident adult female teacher; photorealistic appearance, elegant professional clothing, fluent Bangla and accurate target-language speech",
+  "spoken_language": "de-DE",
+  "bangla_support_mode": "Simultaneous on-screen pronunciation and meaning; original sentence spoken once"
+}

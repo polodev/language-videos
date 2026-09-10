@@ -1,0 +1,25 @@
+{
+  "name": "Hindi",
+  "directory_language": "hindi",
+  "locale": "hi",
+  "language_tag": "hi-IN",
+  "script": "Deva",
+  "target_direction": "ltr",
+  "variety": "Standard Hindi, Devanagari",
+  "audience": "Bangla-speaking adults; no English or target-script literacy assumed",
+  "source_directory": "/Users/polodev/sites/language-ebooks-standalone/language-ebook-standalone-hindi",
+  "status": "authored",
+  "sentence_count": 500,
+  "video_count": 250,
+  "instruction_language": "bn-BD",
+  "target_video_duration_seconds": 10,
+  "sentences_per_video": 2,
+  "caption_fields": [
+    "original_target_language",
+    "bangla_pronunciation",
+    "bangla_meaning"
+  ],
+  "presenter": "Exceptionally beautiful, smart, confident adult female teacher; photorealistic appearance, elegant professional clothing, fluent Bangla and accurate target-language speech",
+  "spoken_language": "hi-IN",
+  "bangla_support_mode": "Simultaneous on-screen pronunciation and meaning; original sentence spoken once"
+}

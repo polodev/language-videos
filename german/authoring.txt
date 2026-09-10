@@ -1,0 +1,275 @@
+# Greetings and introductions | A1 | A friendly adult arriving at a casual neighborhood meetup in Germany.
+Say Your Name|Ich heiße Anna.|Wie heißt du?
+Nice to Meet You|Es freut mich, dich kennenzulernen.|Wie geht es dir?
+Say How You Feel|Mir geht es gut.|Ich bin heute glücklich.
+Where You Come From|Ich komme aus Bangladesch.|Woher kommst du?
+Where You Live|Ich wohne in Berlin.|Wo wohnst du?
+Tell Your Age|Ich bin dreißig Jahre alt.|Wie alt bist du?
+Meet a New Neighbor|Ich bin neu hier.|Ich wohne nebenan.
+Use Polite Introductions|Wie heißen Sie?|Mein Name ist Karim.
+Introduce a Friend|Das ist mein Freund.|Er heißt Lukas.
+Say Goodbye|Ich muss jetzt gehen.|Wir sehen uns morgen.
+# Learning German | A1 | An adult learner practicing German at a quiet desk with a notebook.
+Say You Are Learning|Ich lerne Deutsch.|Ich spreche ein bisschen Deutsch.
+Ask for Repetition|Ich verstehe das nicht.|Können Sie das bitte wiederholen?
+Ask Someone to Slow Down|Bitte sprechen Sie langsam.|Ich möchte alles verstehen.
+Ask What a Word Means|Was bedeutet dieses Wort?|Können Sie ein Beispiel geben?
+Ask How to Say It|Wie sagt man das auf Deutsch?|Bitte schreiben Sie es auf.
+Ask About Spelling|Wie schreibt man Ihren Namen?|Können Sie ihn bitte buchstabieren?
+Check Your Pronunciation|Spreche ich das richtig aus?|Bitte helfen Sie mir.
+Ask About Languages|Sprechen Sie Englisch?|Meine Muttersprache ist Bengali.
+Learn a Little Every Day|Ich übe jeden Tag.|Heute lerne ich neue Wörter.
+Ask One More Question|Ich habe eine Frage.|Können Sie mir das erklären?
+# Family and friends | A1 | An adult introducing family and friends at a relaxed home gathering.
+Introduce Your Family|Das ist meine Familie.|Wir wohnen zusammen.
+Talk About Your Mother|Meine Mutter heißt Maria.|Sie arbeitet im Krankenhaus.
+Talk About Your Father|Mein Vater ist Lehrer.|Er liest sehr gern.
+Talk About Siblings|Ich habe eine Schwester.|Sie ist jünger als ich.
+Describe Your Brother|Mein Bruder wohnt in Hamburg.|Er studiert dort.
+Talk About Children|Wir haben zwei Kinder.|Sie gehen zur Schule.
+Say You Are Married|Ich bin verheiratet.|Mein Mann arbeitet heute.
+Talk About Your Partner|Meine Frau spricht Deutsch.|Wir lernen zusammen.
+Introduce Your Best Friend|Meine beste Freundin heißt Sara.|Wir treffen uns oft.
+Visit Your Grandparents|Meine Großeltern wohnen auf dem Land.|Ich besuche sie am Sonntag.
+# Home and everyday objects | A1 | An adult showing everyday objects inside a modest German apartment.
+Describe Your Apartment|Meine Wohnung ist klein.|Sie hat zwei Zimmer.
+Show Your Kitchen|Das ist die Küche.|Hier koche ich jeden Tag.
+Show Your Bedroom|Mein Bett steht am Fenster.|Hier schlafe ich.
+Find Your Keys|Wo ist mein Schlüssel?|Er liegt auf dem Tisch.
+Find Your Phone|Ich suche mein Handy.|Es ist in meiner Tasche.
+Open the Window|Bitte öffne das Fenster.|Es ist hier warm.
+Close the Door|Bitte mach die Tür zu.|Draußen ist es kalt.
+Switch On the Light|Kannst du das Licht anmachen?|Ich möchte lesen.
+Offer Someone a Seat|Der Stuhl ist frei.|Du kannst dich setzen.
+Find the Bathroom|Wo ist das Badezimmer?|Es ist gleich links.
+# Morning and evening routines | A1 | An adult demonstrating a simple daily routine at home.
+Wake Up in German|Ich stehe um sieben Uhr auf.|Dann dusche ich.
+Get Ready for the Day|Ich putze meine Zähne.|Danach ziehe ich mich an.
+Eat Breakfast|Ich frühstücke zu Hause.|Ich esse Brot mit Käse.
+Leave for Work|Ich gehe jetzt zur Arbeit.|Ich nehme den Bus.
+Start the Working Day|Meine Arbeit beginnt um neun.|Ich bin pünktlich da.
+Take a Lunch Break|Jetzt mache ich eine Pause.|Ich esse etwas.
+Come Home|Ich komme um sechs nach Hause.|Dann koche ich Abendessen.
+Relax in the Evening|Abends höre ich Musik.|Manchmal sehe ich fern.
+Get Ready for Bed|Ich bin müde.|Ich gehe jetzt ins Bett.
+Talk About Sleep|Ich schlafe acht Stunden.|Morgens bin ich wieder fit.
+# Food and drinks | A1 | An adult preparing and choosing everyday food in a home kitchen.
+Say You Are Hungry|Ich habe Hunger.|Ich möchte etwas essen.
+Ask for Water|Ich habe Durst.|Ich möchte ein Glas Wasser.
+Choose Tea or Coffee|Ich trinke gern Tee.|Kaffee mag ich nicht.
+Ask for Milk|Haben Sie Milch?|Ich nehme meinen Kaffee mit Milch.
+Choose Still Water|Ich möchte Wasser ohne Kohlensäure.|Das Wasser ist für mich.
+Talk About Fruit|Ich esse gern Äpfel.|Bananen mag ich auch.
+Choose Vegetables|Ich brauche Tomaten und Kartoffeln.|Die Karotten sind schon da.
+Describe Your Lunch|Heute gibt es Reis.|Dazu essen wir Gemüse.
+Say You Are Full|Das Essen schmeckt gut.|Ich bin jetzt satt.
+Ask for More Bread|Kann ich noch etwas Brot haben?|Ich nehme auch etwas Butter.
+# Café and restaurant | A1 | An adult customer at a small German café or casual restaurant; staff stay silent.
+Ask for a Table|Haben Sie einen Tisch für zwei?|Wir möchten hier essen.
+Ask for the Menu|Kann ich die Speisekarte haben?|Ich möchte etwas bestellen.
+Order a Coffee|Ich hätte gern einen Kaffee.|Ich nehme ihn ohne Zucker.
+Order a Simple Meal|Ich nehme die Suppe.|Dazu möchte ich einen Salat.
+Ask for Vegetarian Food|Haben Sie vegetarische Gerichte?|Ich esse kein Fleisch.
+Ask About Pork|Ist da Schweinefleisch drin?|Ich esse kein Schweinefleisch.
+Ask for a Spoon|Ich brauche einen Löffel.|Können Sie mir einen bringen?
+Ask About a Free Seat|Ist dieser Platz noch frei?|Darf ich hier sitzen?
+Pay at a Restaurant|Ich möchte bitte bezahlen.|Kann ich mit Karte zahlen?
+Order Food to Go|Ich möchte das zum Mitnehmen.|Können Sie es bitte einpacken?
+# Shopping and prices | A1 | An adult shopping in a neighborhood supermarket or small shop in Germany.
+Ask the Price|Wie viel kostet das?|Ich möchte zwei davon.
+Find Bread in a Shop|Wo finde ich das Brot?|Ich brauche auch Eier.
+Buy Some Apples|Ich hätte gern ein Kilo Äpfel.|Die roten sehen gut aus.
+Ask for a Bag|Ich brauche eine Tasche.|Meine Tasche ist zu klein.
+Pay in Cash|Ich bezahle bar.|Hier sind zwanzig Euro.
+Ask for a Receipt|Kann ich den Kassenbon haben?|Ich möchte ihn mitnehmen.
+Say Something Costs Too Much|Das ist zu teuer.|Haben Sie etwas Günstigeres?
+Choose What to Buy|Das gefällt mir.|Ich nehme es.
+Say You Are Just Looking|Ich schaue mich nur um.|Ich brauche gerade keine Hilfe.
+Check Opening Hours|Wann öffnen Sie morgen?|Wann schließen Sie heute?
+# Time and dates | A1 | An adult checking a clock and planning a simple day with a calendar.
+Ask the Time|Wie spät ist es?|Meine Uhr geht nicht.
+Say the Time|Es ist halb acht.|Wir müssen jetzt los.
+Choose a Meeting Time|Hast du um drei Zeit?|Wir können uns dann treffen.
+Talk About Today and Tomorrow|Heute ist Montag.|Morgen ist Dienstag.
+Say Your Birthday|Mein Geburtstag ist im Mai.|Wann hast du Geburtstag?
+Talk About the Weekend|Am Samstag habe ich frei.|Am Sonntag besuche ich Freunde.
+Say You Have Time|Ich habe heute Zeit.|Wir können spazieren gehen.
+Say You Are in a Hurry|Ich habe wenig Zeit.|Ich muss gleich gehen.
+Say You Are Early|Ich bin zu früh.|Ich warte noch zehn Minuten.
+Apologize for Being Late|Ich komme etwas später.|Es tut mir leid.
+# Directions and transport | A1 | An adult traveler navigating a German street or public transport stop.
+Find the Station|Wo ist der Bahnhof?|Ist er weit weg?
+Ask for Directions|Wie komme ich zum Rathaus?|Kann ich zu Fuß gehen?
+Give Simple Directions|Gehen Sie geradeaus.|Dann biegen Sie rechts ab.
+Find the Bus Stop|Wo ist die Bushaltestelle?|Ich suche den Bus zum Zentrum.
+Buy a Ticket|Ich brauche eine Fahrkarte nach Bonn.|Was kostet die Fahrt?
+Check the Train Platform|Von welchem Gleis fährt der Zug?|Ich fahre nach München.
+Check the Bus Route|Fährt dieser Bus zum Bahnhof?|Ich kenne die Strecke nicht.
+Find a Seat on the Train|Ist der Sitz neben Ihnen frei?|Ich würde mich gern setzen.
+Know When to Get Off|Ich muss hier aussteigen.|Die nächste Haltestelle ist meine.
+Ask for Travel Help|Ich habe mich verlaufen.|Können Sie mir den Weg zeigen?
+# Clothes and personal shopping | A2 | An adult browsing clothing and trying items in front of a shop mirror.
+Ask for Your Size|Haben Sie diese Jacke in Größe M?|Ich möchte sie anprobieren.
+Find the Fitting Room|Wo sind die Umkleidekabinen?|Ich habe zwei Hosen dabei.
+Ask for a Larger Size|Diese Hose ist zu eng.|Haben Sie sie eine Nummer größer?
+Ask for a Smaller Size|Der Pullover ist zu groß.|Ich brauche eine kleinere Größe.
+Choose a Color|Gibt es das auch in Blau?|Blau ist meine Lieblingsfarbe.
+Check the Fit|Die Schuhe passen gut.|Ich nehme dieses Paar.
+Shop for Winter|Ich suche einen warmen Mantel.|Der Winter kommt bald.
+Return an Item|Ich möchte dieses Hemd zurückgeben.|Hier ist der Kassenbon.
+Exchange Something Broken|Der Reißverschluss ist kaputt.|Kann ich die Jacke umtauschen?
+Ask About Material|Ist dieses T-Shirt aus Baumwolle?|Das Material fühlt sich weich an.
+# Weather and seasons | A2 | An adult observing the weather from home or during a neighborhood walk.
+Talk About Sunshine|Heute scheint die Sonne.|Wir können draußen sitzen.
+Get Ready for Rain|Es regnet gerade.|Ich nehme einen Regenschirm mit.
+Dress for Cold Weather|Mir ist kalt.|Ich ziehe eine Jacke an.
+Cool Down in Summer|Heute ist es sehr heiß.|Ich bleibe lieber im Schatten.
+Talk About Snow|Es hat heute Nacht geschneit.|Die Straßen sind ganz weiß.
+Talk About Wind|Draußen ist es windig.|Halte deine Mütze fest.
+Make Plans for Spring|Im Frühling wird es wärmer.|Dann fahre ich wieder Fahrrad.
+Enjoy Autumn|Im Herbst fallen die Blätter.|Ich mag die bunten Farben.
+Check Tomorrow's Weather|Wie wird das Wetter morgen?|Wir planen einen Ausflug.
+Change Plans for a Storm|Es gibt heute ein Gewitter.|Wir bleiben zu Hause.
+# Health and appointments | A2 | An adult arranging a medical visit or describing discomfort calmly; show no treatment advice.
+Say You Feel Unwell|Mir geht es nicht gut.|Ich brauche einen Arzt.
+Describe a Headache|Ich habe Kopfschmerzen.|Das Licht ist mir zu hell.
+Describe a Sore Throat|Mein Hals tut weh.|Ich kann kaum sprechen.
+Talk About a Fever|Ich habe seit gestern Fieber.|Ich bleibe heute im Bett.
+Make a Doctor's Appointment|Ich möchte einen Termin vereinbaren.|Haben Sie heute noch etwas frei?
+Check In at the Doctor|Ich habe einen Termin um zehn.|Hier ist meine Versichertenkarte.
+Describe an Allergy|Ich bin gegen Nüsse allergisch.|Sind in diesem Essen Nüsse?
+Visit a Pharmacy|Wo ist die nächste Apotheke?|Ich möchte mein Rezept einlösen.
+Ask About Medicine Instructions|Wie oft soll ich das nehmen?|Können Sie mir das aufschreiben?
+Explain Where It Hurts|Mein Rücken tut weh.|Der Schmerz ist hier unten.
+# Housing and chores | A2 | An adult managing chores or a maintenance issue in a rented apartment.
+Look for an Apartment|Ich suche eine Wohnung.|Sie sollte zwei Zimmer haben.
+Ask About the Rent|Wie hoch ist die Miete?|Sind die Nebenkosten dabei?
+Arrange a Viewing|Kann ich die Wohnung besichtigen?|Am Freitag habe ich Zeit.
+Report a Broken Heater|Die Heizung funktioniert nicht.|In der Wohnung ist es kalt.
+Report a Water Problem|Der Wasserhahn tropft.|Können Sie jemanden schicken?
+Talk About Cleaning|Ich putze heute die Küche.|Danach sauge ich das Wohnzimmer.
+Do the Laundry|Ich muss Wäsche waschen.|Die Waschmaschine ist gerade frei.
+Take Out the Rubbish|Ich bringe den Müll raus.|Wo ist die Papiertonne?
+Ask for Quiet|Die Musik ist sehr laut.|Könnten Sie sie bitte leiser machen?
+Ask a Neighbor for Help|Können Sie mein Paket annehmen?|Ich bin morgen nicht zu Hause.
+# Work and colleagues | A2 | An adult communicating with silent colleagues in a calm workplace.
+Describe Your Job|Ich arbeite in einem Büro.|Meine Aufgaben sind sehr verschieden.
+Start a New Job|Heute ist mein erster Arbeitstag.|Ich freue mich auf die Zusammenarbeit.
+Ask About a Task|Was soll ich zuerst machen?|Können Sie mir die Aufgabe zeigen?
+Ask for Help at Work|Ich brauche kurz deine Hilfe.|Mein Computer startet nicht.
+Arrange a Meeting|Wann beginnt die Besprechung?|Ich möchte pünktlich sein.
+Say a Task Is Finished|Ich bin mit der Aufgabe fertig.|Ich schicke dir die Datei.
+Ask for More Time|Ich brauche noch etwas Zeit.|Morgen ist alles fertig.
+Take a Break Together|Wollen wir eine Pause machen?|Ich hole mir einen Kaffee.
+Call In Sick|Ich bin heute krank.|Ich kann nicht zur Arbeit kommen.
+Ask for a Day Off|Ich möchte am Freitag freinehmen.|Ist das möglich?
+# Courses and studying | A2 | An adult learner attending a language course or studying at a library.
+Join a German Course|Ich möchte mich für den Deutschkurs anmelden.|Wann beginnt der nächste Kurs?
+Ask About Course Times|Findet der Kurs am Abend statt?|Tagsüber muss ich arbeiten.
+Ask About Course Fees|Wie viel kostet der Kurs?|Sind die Bücher im Preis enthalten?
+Find Your Classroom|In welchem Raum ist der Unterricht?|Ich bin zum ersten Mal hier.
+Ask About Homework|Welche Hausaufgaben haben wir?|Ich habe die Seite nicht gehört.
+Borrow a Pen|Kannst du mir einen Stift leihen?|Meiner schreibt nicht mehr.
+Study for an Exam|Ich habe nächste Woche eine Prüfung.|Deshalb lerne ich jeden Abend.
+Practice with a Classmate|Möchtest du mit mir üben?|Wir können zusammen Deutsch sprechen.
+Borrow a Library Book|Ich möchte dieses Buch ausleihen.|Wie lange darf ich es behalten?
+Talk About Learning Progress|Ich verstehe jetzt viel mehr.|Das Sprechen fällt mir noch schwer.
+# Phone and internet | A2 | An adult using a phone or laptop at home; screens remain incidental and unreadable.
+Start a Phone Call|Kann ich bitte mit Frau Müller sprechen?|Hier spricht Anna Weber.
+Say You Cannot Hear|Ich kann Sie schlecht hören.|Die Verbindung ist sehr schlecht.
+Ask for a Call Back|Können Sie mich später zurückrufen?|Ich bin gerade unterwegs.
+Leave a Message|Kann ich eine Nachricht hinterlassen?|Es geht um meinen Termin.
+Ask for Wi-Fi|Gibt es hier WLAN?|Wie lautet das Passwort?
+Report an Internet Problem|Mein Internet funktioniert nicht.|Ich habe den Router neu gestartet.
+Ask to Charge Your Phone|Mein Akku ist fast leer.|Darf ich mein Handy hier laden?
+Send a Photo|Ich schicke dir das Foto.|Du bekommst es gleich.
+Check an Email Address|Ist diese E-Mail-Adresse richtig?|Meine Nachricht kommt nicht an.
+Arrange a Video Call|Können wir heute Abend telefonieren?|Ein Videoanruf wäre auch gut.
+# Travel and accommodation | A2 | An adult traveler with a small suitcase at a hotel or transport terminal.
+Check In at a Hotel|Ich habe ein Zimmer reserviert.|Die Buchung läuft auf meinen Namen.
+Ask About Breakfast|Ist das Frühstück im Preis enthalten?|Um wie viel Uhr beginnt es?
+Ask About Checkout|Bis wann muss ich auschecken?|Kann ich meinen Koffer hier lassen?
+Report a Room Problem|In meinem Zimmer fehlt ein Handtuch.|Können Sie mir eins bringen?
+Ask for a Quiet Room|Mein Zimmer ist sehr laut.|Haben Sie ein ruhigeres Zimmer?
+Ask for a City Map|Haben Sie einen Stadtplan?|Ich möchte die Altstadt besuchen.
+Buy an Entrance Ticket|Ich hätte gern eine Eintrittskarte.|Gibt es einen Rabatt für Studierende?
+Ask About a Delay|Hat unser Flug Verspätung?|Wann können wir einsteigen?
+Find Missing Luggage|Mein Koffer ist nicht angekommen.|Er ist schwarz und ziemlich groß.
+Describe Your Holiday|Wir waren eine Woche am Meer.|Das Wetter war wunderbar.
+# Appointments and public services | A2 | An adult organizing documents at a public service desk or at home.
+Make an Appointment Online|Ich möchte online einen Termin buchen.|Welche Unterlagen brauche ich?
+Change an Appointment|Ich muss meinen Termin verschieben.|Passt Ihnen nächste Woche?
+Cancel an Appointment|Ich möchte meinen Termin absagen.|Ich kann morgen leider nicht kommen.
+Register Your Address|Ich möchte meinen Wohnsitz anmelden.|Ich bin gerade umgezogen.
+Ask for a Form|Ich brauche ein Formular.|Wo kann ich es bekommen?
+Ask Where to Sign|Wo muss ich unterschreiben?|Ich habe alles ausgefüllt.
+Ask About Missing Documents|Fehlt noch ein Dokument?|Ich kann es morgen bringen.
+Ask About Waiting Time|Wie lange muss ich warten?|Ich habe eine Nummer gezogen.
+Ask for Written Confirmation|Kann ich eine schriftliche Bestätigung bekommen?|Bitte schicken Sie sie per E-Mail.
+Check Your Personal Details|Meine Adresse hat sich geändert.|Ich gebe Ihnen die neue Adresse.
+# Money, post and everyday problems | A2 | An adult handling a routine errand at a bank, post office or service counter.
+Open a Bank Account|Ich möchte ein Konto eröffnen.|Welche Dokumente benötigen Sie?
+Find a Cash Machine|Wo ist der nächste Geldautomat?|Ich muss Geld abheben.
+Report a Lost Bank Card|Ich habe meine Bankkarte verloren.|Bitte sperren Sie die Karte.
+Ask About a Charge|Ich verstehe diese Abbuchung nicht.|Können Sie das bitte prüfen?
+Send a Parcel|Ich möchte dieses Paket verschicken.|Es soll nach Hamburg gehen.
+Buy a Stamp|Ich brauche eine Briefmarke.|Der Brief geht nach Frankreich.
+Collect a Parcel|Ich möchte mein Paket abholen.|Hier ist mein Ausweis.
+Report a Missing Delivery|Mein Paket ist noch nicht angekommen.|Können Sie die Sendung prüfen?
+Return a Wrong Order|Ich habe den falschen Artikel bekommen.|Ich möchte ihn zurückschicken.
+Report a Lost Bag|Ich habe meine Tasche verloren.|Wo ist das Fundbüro?
+# Invitations and social plans | B1 | An adult making friendly plans by phone or with a silent friend at a café.
+Invite Someone to Dinner|Hast du Lust, mit uns zu essen?|Wir kochen heute Abend zusammen.
+Accept an Invitation|Ich komme gern zu deiner Feier.|Soll ich etwas mitbringen?
+Decline Politely|Ich würde gern kommen.|Leider habe ich schon etwas vor.
+Suggest Another Day|Heute schaffe ich es leider nicht.|Wie wäre es mit morgen?
+Arrange a Meeting Place|Lass uns vor dem Kino treffen.|Dort können wir aufeinander warten.
+Ask to Bring a Friend|Darf ich einen Freund mitbringen?|Er ist gerade zu Besuch.
+Offer Help at a Party|Kann ich dir beim Kochen helfen?|Ich könnte das Gemüse schneiden.
+Thank Your Host|Danke, dass du mich eingeladen hast.|Der Abend war wirklich schön.
+Explain a Changed Plan|Wir müssen das Treffen verschieben.|Ein Freund ist krank geworden.
+Keep in Touch|Melde dich, wenn du Zeit hast.|Ich würde mich sehr freuen.
+# Reasons and preferences | B1 | An adult explaining a simple everyday choice in a relaxed personal vlog.
+Give a Simple Reason|Ich bleibe zu Hause, weil ich müde bin.|Morgen gehe ich wieder raus.
+Explain Why You Learn German|Ich lerne Deutsch, weil ich hier arbeite.|Ich möchte meine Kollegen besser verstehen.
+Choose Public Transport|Ich fahre lieber mit dem Zug.|So kann ich unterwegs lesen.
+Explain a Food Preference|Ich koche gern selbst.|Dann weiß ich, was im Essen ist.
+Say What Matters to You|Mir ist eine ruhige Wohnung wichtig.|Ich arbeite oft von zu Hause.
+Compare Two Choices|Diese Wohnung ist günstiger als die andere.|Dafür ist sie etwas kleiner.
+Share Your Opinion|Ich finde den Vorschlag gut.|Wir sollten es einfach versuchen.
+Disagree Politely|Ich sehe das etwas anders.|Können wir noch einmal darüber sprechen?
+Say You Are Unsure|Ich bin mir noch nicht sicher.|Ich möchte darüber nachdenken.
+Make a Fair Suggestion|Wir können uns die Kosten teilen.|Dann wird es für alle günstiger.
+# Past experiences | B1 | An adult sharing a short personal story with simple matching visual actions.
+Talk About Yesterday|Gestern habe ich lange gearbeitet.|Danach bin ich früh eingeschlafen.
+Describe a Missed Bus|Ich habe den Bus verpasst.|Deshalb bin ich zu spät gekommen.
+Talk About Your First Day|Am Anfang war ich sehr nervös.|Meine Kollegen haben mir geholfen.
+Describe a Successful Errand|Ich habe endlich eine Wohnung gefunden.|Nächsten Monat ziehe ich ein.
+Talk About a Recent Purchase|Ich habe mir ein Fahrrad gekauft.|Damit fahre ich jetzt zur Arbeit.
+Describe a Small Mistake|Ich habe die falsche Adresse eingegeben.|Zum Glück habe ich es rechtzeitig bemerkt.
+Talk About Meeting a Friend|Am Wochenende habe ich Sara getroffen.|Wir haben lange miteinander gesprochen.
+Describe a New Experience|Ich bin zum ersten Mal geflogen.|Es war aufregender als erwartet.
+Talk About a Finished Course|Ich habe meinen Deutschkurs abgeschlossen.|Jetzt möchte ich weiterlernen.
+Say What You Learned|Früher hatte ich Angst vor Fehlern.|Heute spreche ich trotzdem Deutsch.
+# Plans, wishes and conditions | B1 | An adult planning everyday goals with a notebook in a bright quiet room.
+Talk About Next Week|Nächste Woche fange ich einen neuen Job an.|Ich bin schon sehr gespannt.
+Share a Learning Goal|Ich möchte jeden Tag zehn Minuten üben.|So bleibe ich beim Lernen dran.
+Make a Weather-Dependent Plan|Wenn es morgen sonnig ist, gehen wir wandern.|Sonst bleiben wir in der Stadt.
+Plan Around Your Schedule|Wenn ich früher fertig bin, rufe ich an.|Dann können wir uns treffen.
+Ask for a Recommendation|Könntest du mir ein gutes Buch empfehlen?|Es sollte leicht zu lesen sein.
+Express a Travel Wish|Ich würde gern einmal nach Wien reisen.|Dafür spare ich jeden Monat Geld.
+Explain a Practical Goal|Ich möchte näher bei meiner Arbeit wohnen.|Dann brauche ich morgens weniger Zeit.
+Make a Promise|Ich kümmere mich morgen darum.|Sobald ich fertig bin, melde ich mich.
+Offer a Backup Plan|Falls der Zug ausfällt, nehmen wir den Bus.|Wir kommen trotzdem rechtzeitig an.
+Share a Long-Term Wish|Später möchte ich eine Ausbildung machen.|Zuerst muss ich mein Deutsch verbessern.
+# Problems, help and solutions | B1 | An adult calmly asking for assistance or resolving an everyday difficulty.
+Ask for Urgent Help|Bitte rufen Sie einen Krankenwagen.|Hier braucht jemand dringend Hilfe.
+Report a Theft|Mein Fahrrad wurde gestohlen.|Ich möchte den Diebstahl melden.
+Explain a Reservation Problem|Meine Reservierung ist nicht im System.|Ich habe aber eine Bestätigung bekommen.
+Ask for a Refund|Der Artikel ist beschädigt angekommen.|Ich möchte mein Geld zurückbekommen.
+Clarify a Misunderstanding|Das habe ich anders verstanden.|Können Sie es genauer erklären?
+Apologize for a Mistake|Ich habe versehentlich Ihre Tasche genommen.|Das war keine Absicht.
+Ask Someone to Check|Ich glaube, die Rechnung stimmt nicht.|Könnten Sie bitte noch einmal nachrechnen?
+Explain What You Have Tried|Ich habe es schon zweimal versucht.|Leider funktioniert es immer noch nicht.
+Suggest Solving It Together|Wir finden bestimmt eine Lösung.|Lassen Sie uns die Möglichkeiten ansehen.
+Thank Someone for Their Help|Ihre Hilfe hat mir viel bedeutet.|Jetzt weiß ich, wie es weitergeht.

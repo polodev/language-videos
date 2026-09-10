@@ -1,0 +1,25 @@
+{
+  "name": "Arabic",
+  "directory_language": "arabic",
+  "locale": "ar",
+  "language_tag": "ar",
+  "script": "Arab",
+  "target_direction": "rtl",
+  "variety": "Modern Standard Arabic; dialect examples explicitly labelled, never silently mixed",
+  "audience": "Bangla-speaking adults; no English or target-script literacy assumed",
+  "source_directory": "/Users/polodev/sites/language-ebooks-standalone/language-ebook-standalone-arabic",
+  "status": "planned",
+  "sentence_count": 0,
+  "video_count": 0,
+  "instruction_language": "bn-BD",
+  "target_video_duration_seconds": 10,
+  "sentences_per_video": 2,
+  "caption_fields": [
+    "original_target_language",
+    "bangla_pronunciation",
+    "bangla_meaning"
+  ],
+  "presenter": "Exceptionally beautiful, smart, confident adult female teacher; photorealistic appearance, elegant professional clothing, fluent Bangla and accurate target-language speech",
+  "spoken_language": "ar",
+  "bangla_support_mode": "Simultaneous on-screen pronunciation and meaning; original sentence spoken once"
+}
