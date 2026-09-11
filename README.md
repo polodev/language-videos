@@ -85,3 +85,7 @@ python3 scripts/build_german.py
 ```
 
 The scripts regenerate the sentence array, video records, JSON prompts, two Markdown prompt batches. Validation covers unique sentences, counts, sequential keys, source agreement, the no-text instruction and exact equality between the main JSON and all five split JSON files. The two five-second periods are teaching beats within a single complete video; all prompts request a maximum of ten seconds.
+
+## Local Hindi video sorting
+
+See [Hindi sorting instructions](hindi/SORTING.md). Imported videos live in `hindi/Videos/`, and the local mapping database is `hindi/library.sqlite3`; both are excluded from Git. Matching uses cached offline Whisper small. Current work is sorting only; HyperFrames and actual regeneration are deferred.
