@@ -1,5 +1,20 @@
 """Shared concise 10-second prompt and caption format."""
 
+import json
+
+
+def write_prompt_batches(folder, prompts):
+    """Export five JSON objects of 50 prompts without renumbering their keys."""
+    assert list(prompts) == [f"prompt_{i}" for i in range(1, 251)]
+    destination = folder / "json-prompts"
+    destination.mkdir(exist_ok=True)
+    items = list(prompts.items())
+    for start in range(0, 250, 50):
+        batch = dict(items[start:start + 50])
+        path = destination / f"prompts-{start + 1:03d}-{start + 50:03d}.json"
+        path.write_text(json.dumps(batch, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+        assert json.loads(path.read_text(encoding="utf-8")) == batch
+
 
 def full_prompt(lesson, language, field):
     caption_rules = ""

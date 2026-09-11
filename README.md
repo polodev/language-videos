@@ -18,6 +18,16 @@
 | শিরোনাম, বাক্য, অর্থ ও উচ্চারণ | [videos.json](hindi/videos.json) | [videos.json](german/videos.json) |
 | সম্পাদনাযোগ্য ভাষা সহায়িকা | [bangla-support.txt](hindi/bangla-support.txt) | [bangla-support.txt](german/bangla-support.txt) |
 
+Each language also has a `json-prompts/` folder containing five smaller JSON files, with **50 complete prompts per file**. Open the [Hindi batches](hindi/json-prompts) or [German batches](german/json-prompts).
+
+- `prompts-001-050.json`: `prompt_1`–`prompt_50`
+- `prompts-051-100.json`: `prompt_51`–`prompt_100`
+- `prompts-101-150.json`: `prompt_101`–`prompt_150`
+- `prompts-151-200.json`: `prompt_151`–`prompt_200`
+- `prompts-201-250.json`: `prompt_201`–`prompt_250`
+
+The full JSON remains available. Rebuilding automatically regenerates all five batches with the same prompt text and original key numbering.
+
 JSON keys are exactly `"prompt_1"` through `"prompt_250"`, each with a complete prompt string. Decode the value before pasting into Flow; do not paste the key, surrounding JSON quotes or literal newline escapes. Markdown code blocks already contain decoded text.
 
 ```python

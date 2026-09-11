@@ -63,7 +63,7 @@ def load_lessons():
     return lessons, all_sentences
 
 
-from prompt_format import full_prompt as format_prompt, captions_markdown
+from prompt_format import full_prompt as format_prompt, captions_markdown, write_prompt_batches
 
 
 def full_prompt(lesson):
@@ -77,6 +77,7 @@ def main():
     write_json(GERMAN / "sentences.json", sentences)
     write_json(GERMAN / "videos.json", lessons)
     write_json(GERMAN / "flow-prompts.json", prompts)
+    write_prompt_batches(GERMAN, prompts)
 
     for batch, start in enumerate((0, 125), 1):
         subset = lessons[start:start + 125]
