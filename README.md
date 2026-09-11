@@ -45,19 +45,19 @@ Hindi Prompt 1, 00–05 seconds:
 
 ```text
 मेरा नाम आशा है।
-উচ্চারণ: মেরা নাম আশা হ্যায়।
-অর্থ: আমার নাম আশা।
+মেরা নাম আশা হ্যায়।
+আমার নাম আশা।
 ```
 
 At 05–10 seconds, replace that group with:
 
 ```text
 तुम्हारा नाम क्या है?
-উচ্চারণ: তুমহারা নাম ক্যা হ্যায়?
-অর্থ: তোমার নাম কী?
+তুমহারা নাম ক্যা হ্যায়?
+তোমার নাম কী?
 ```
 
-Show all three lines together in large, high-contrast text below the face and clear of bottom/right platform controls. Wrap long lines neatly. Preserve Devanagari vowel signs and conjuncts, German special letters and Bangla glyphs. Hindi audio follows this order: Hindi sentence 1, Bangla meaning 1, Hindi sentence 2, Bangla meaning 2. Pronunciation guides and caption labels are visual support and are not read aloud. Hindi caption prompts explicitly require Devanagari only in the original line and Bangla script only in the other two lines; generated text still needs review. Caption windows are planned; review actual speech, spelling and readability before upload. Videos have not been generated, timed or visually verified.
+Hindi captions must have exactly three single-line rows: original Hindi, its pronunciation in pure Bangla, and its meaning in pure Bangla. No labels, numbering, duplicated pronunciation, fourth row, automatic subtitle track or row wrapping. Fit each row within the safe width using readable text below the face and clear of bottom/right controls. The pronunciation row is never spoken; audio is Hindi followed by the spoken Bangla meaning for each sentence. Preserve Devanagari vowel signs and conjuncts, German special letters and Bangla glyphs. Hindi audio follows this order: Hindi sentence 1, Bangla meaning 1, Hindi sentence 2, Bangla meaning 2. Pronunciation guides and caption labels are visual support and are not read aloud. Hindi caption prompts explicitly require Devanagari only in the original line and Bangla script only in the other two lines; generated text still needs review. Caption windows are planned; review actual speech, spelling and readability before upload. Videos have not been generated, timed or visually verified.
 
 ## Content notes
 
@@ -97,4 +97,4 @@ python3 scripts/build_hindi.py
 python3 scripts/build_german.py
 ```
 
-The scripts regenerate the sentence array, video records, JSON prompts, two Markdown prompt batches and `captions.md`. Validation covers unique sentences, counts, sequential keys, source agreement and caption coverage. The two five-second periods are teaching beats within a single complete video; all prompts request a maximum of ten seconds.
+The scripts regenerate the sentence array, video records, JSON prompts, two Markdown prompt batches and `captions.md`. Validation covers unique sentences, counts, sequential keys, source agreement, three distinct caption rows and exact equality between the main JSON and all five split JSON files. The two five-second periods are teaching beats within a single complete video; all prompts request a maximum of ten seconds.

@@ -13,21 +13,25 @@
 **JSON key:** `prompt_126`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: ডাক্তারের কাছে পৌঁছে বলুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: ডাক্তারের কাছে পৌঁছে বলুন
 
-00–05s — say Hindi: “मेरा दस बजे का अपॉइंटमेंट है।” THEN say its meaning in Bangla: “দশটায় আমার অ্যাপয়েন্টমেন্ট আছে।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मेरा दस बजे का अपॉइंटमेंट है।” Then say its Bangla meaning once: “দশটায় আমার অ্যাপয়েন্টমেন্ট আছে।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मेरा दस बजे का अपॉइंटमेंट है।
-উচ্চারণ: মেরা দস বজে কা অপয়েন্টমেন্ট হ্যায়।
-অর্থ: দশটায় আমার অ্যাপয়েন্টমেন্ট আছে।
-05–10s — say Hindi: “यह मेरा बीमा कार्ड है।” THEN say its meaning in Bangla: “এই নিন স্বাস্থ্যবিমার কার্ড।”; display all three caption lines:
+মেরা দস বজে কা অপয়েন্টমেন্ট হ্যায়।
+দশটায় আমার অ্যাপয়েন্টমেন্ট আছে।
+05–10s
+AUDIO: Say Hindi once: “यह मेरा बीमा कार्ड है।” Then say its Bangla meaning once: “এই নিন স্বাস্থ্যবিমার কার্ড।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 यह मेरा बीमा कार्ड है।
-উচ্চারণ: ইয়হ মেরা বীমা কার্ড হ্যায়।
-অর্থ: এই নিন স্বাস্থ্যবিমার কার্ড।
+ইয়হ মেরা বীমা কার্ড হ্যায়।
+এই নিন স্বাস্থ্যবিমার কার্ড।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 127
@@ -37,21 +41,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_127`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: অ্যালার্জির কথা বলুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: অ্যালার্জির কথা বলুন
 
-00–05s — say Hindi: “मुझे बादाम से एलर्जी है।” THEN say its meaning in Bangla: “আমার কাঠবাদামে অ্যালার্জি আছে।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मुझे बादाम से एलर्जी है।” Then say its Bangla meaning once: “আমার কাঠবাদামে অ্যালার্জি আছে।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मुझे बादाम से एलर्जी है।
-উচ্চারণ: মুঝে বাদাম সে এলর্জী হ্যায়।
-অর্থ: আমার কাঠবাদামে অ্যালার্জি আছে।
-05–10s — say Hindi: “क्या इस खाने में बादाम हैं?” THEN say its meaning in Bangla: “এই খাবারে কাঠবাদাম আছে?”; display all three caption lines:
+মুঝে বাদাম সে এলর্জী হ্যায়।
+আমার কাঠবাদামে অ্যালার্জি আছে।
+05–10s
+AUDIO: Say Hindi once: “क्या इस खाने में बादाम हैं?” Then say its Bangla meaning once: “এই খাবারে কাঠবাদাম আছে?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 क्या इस खाने में बादाम हैं?
-উচ্চারণ: ক্যা ইস খানে মেঁ বাদাম হ্যাঁয়?
-অর্থ: এই খাবারে কাঠবাদাম আছে?
+ক্যা ইস খানে মেঁ বাদাম হ্যাঁয়?
+এই খাবারে কাঠবাদাম আছে?
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 128
@@ -61,21 +69,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_128`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: ওষুধের দোকান খুঁজুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: ওষুধের দোকান খুঁজুন
 
-00–05s — say Hindi: “पास की दवा की दुकान कहाँ है?” THEN say its meaning in Bangla: “কাছের ওষুধের দোকান কোথায়?”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “पास की दवा की दुकान कहाँ है?” Then say its Bangla meaning once: “কাছের ওষুধের দোকান কোথায়?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 पास की दवा की दुकान कहाँ है?
-উচ্চারণ: পাস কী দবা কী দুকান কহাঁ হ্যায়?
-অর্থ: কাছের ওষুধের দোকান কোথায়?
-05–10s — say Hindi: “मुझे पर्चे की दवाएँ चाहिए।” THEN say its meaning in Bangla: “আমি প্রেসক্রিপশনের ওষুধ নিতে চাই।”; display all three caption lines:
+পাস কী দবা কী দুকান কহাঁ হ্যায়?
+কাছের ওষুধের দোকান কোথায়?
+05–10s
+AUDIO: Say Hindi once: “मुझे पर्चे की दवाएँ चाहिए।” Then say its Bangla meaning once: “আমি প্রেসক্রিপশনের ওষুধ নিতে চাই।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मुझे पर्चे की दवाएँ चाहिए।
-উচ্চারণ: মুঝে পর্চে কী দবাএঁ চাহিয়ে।
-অর্থ: আমি প্রেসক্রিপশনের ওষুধ নিতে চাই।
+মুঝে পর্চে কী দবাএঁ চাহিয়ে।
+আমি প্রেসক্রিপশনের ওষুধ নিতে চাই।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 129
@@ -85,21 +97,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_129`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: ওষুধ খাওয়ার নিয়ম জানুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: ওষুধ খাওয়ার নিয়ম জানুন
 
-00–05s — say Hindi: “यह दवा कितनी बार लेनी है?” THEN say its meaning in Bangla: “এটা কতবার খাব?”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “यह दवा कितनी बार लेनी है?” Then say its Bangla meaning once: “এটা কতবার খাব?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 यह दवा कितनी बार लेनी है?
-উচ্চারণ: ইয়হ দবা কিতনী বার লেনী হ্যায়?
-অর্থ: এটা কতবার খাব?
-05–10s — say Hindi: “क्या आप मुझे लिखकर देंगे?” THEN say its meaning in Bangla: “আমাকে লিখে দেবেন?”; display all three caption lines:
+ইয়হ দবা কিতনী বার লেনী হ্যায়?
+এটা কতবার খাব?
+05–10s
+AUDIO: Say Hindi once: “क्या आप मुझे लिखकर देंगे?” Then say its Bangla meaning once: “আমাকে লিখে দেবেন?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 क्या आप मुझे लिखकर देंगे?
-উচ্চারণ: ক্যা আপ মুঝে লিখকর দেঙ্গে?
-অর্থ: আমাকে লিখে দেবেন?
+ক্যা আপ মুঝে লিখকর দেঙ্গে?
+আমাকে লিখে দেবেন?
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 130
@@ -109,21 +125,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_130`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: কোথায় ব্যথা দেখান
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: কোথায় ব্যথা দেখান
 
-00–05s — say Hindi: “मेरी पीठ में दर्द है।” THEN say its meaning in Bangla: “আমার পিঠে ব্যথা।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मेरी पीठ में दर्द है।” Then say its Bangla meaning once: “আমার পিঠে ব্যথা।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मेरी पीठ में दर्द है।
-উচ্চারণ: মেরী পীঠ মেঁ দর্দ হ্যায়।
-অর্থ: আমার পিঠে ব্যথা।
-05–10s — say Hindi: “दर्द यहाँ नीचे है।” THEN say its meaning in Bangla: “ব্যথাটা এই নিচের দিকে।”; display all three caption lines:
+মেরী পীঠ মেঁ দর্দ হ্যায়।
+আমার পিঠে ব্যথা।
+05–10s
+AUDIO: Say Hindi once: “दर्द यहाँ नीचे है।” Then say its Bangla meaning once: “ব্যথাটা এই নিচের দিকে।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 दर्द यहाँ नीचे है।
-উচ্চারণ: দর্দ ইয়হাঁ নীচে হ্যায়।
-অর্থ: ব্যথাটা এই নিচের দিকে।
+দর্দ ইয়হাঁ নীচে হ্যায়।
+ব্যথাটা এই নিচের দিকে।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 131
@@ -133,21 +153,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_131`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: বাসা খুঁজতে বলুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: বাসা খুঁজতে বলুন
 
-00–05s — say Hindi: “मुझे एक घर चाहिए।” THEN say its meaning in Bangla: “আমার একটা বাসা দরকার।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मुझे एक घर चाहिए।” Then say its Bangla meaning once: “আমার একটা বাসা দরকার।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मुझे एक घर चाहिए।
-উচ্চারণ: মুঝে এক ঘর চাহিয়ে।
-অর্থ: আমার একটা বাসা দরকার।
-05–10s — say Hindi: “उसमें दो कमरे होने चाहिए।” THEN say its meaning in Bangla: “দুটি ঘর থাকলে ভালো হয়।”; display all three caption lines:
+মুঝে এক ঘর চাহিয়ে।
+আমার একটা বাসা দরকার।
+05–10s
+AUDIO: Say Hindi once: “उसमें दो कमरे होने चाहिए।” Then say its Bangla meaning once: “দুটি ঘর থাকলে ভালো হয়।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 उसमें दो कमरे होने चाहिए।
-উচ্চারণ: উসমেঁ দো কমরে হোনে চাহিয়ে।
-অর্থ: দুটি ঘর থাকলে ভালো হয়।
+উসমেঁ দো কমরে হোনে চাহিয়ে।
+দুটি ঘর থাকলে ভালো হয়।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 132
@@ -157,21 +181,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_132`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: বাসাভাড়া জিজ্ঞেস করুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: বাসাভাড়া জিজ্ঞেস করুন
 
-00–05s — say Hindi: “घर का किराया कितना है?” THEN say its meaning in Bangla: “ভাড়া কত?”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “घर का किराया कितना है?” Then say its Bangla meaning once: “ভাড়া কত?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 घर का किराया कितना है?
-উচ্চারণ: ঘর কা কিরায়া কিতনা হ্যায়?
-অর্থ: ভাড়া কত?
-05–10s — say Hindi: “क्या बाकी खर्च भी इसमें शामिल हैं?” THEN say its meaning in Bangla: “বাড়তি খরচ কি এর মধ্যে আছে?”; display all three caption lines:
+ঘর কা কিরায়া কিতনা হ্যায়?
+ভাড়া কত?
+05–10s
+AUDIO: Say Hindi once: “क्या बाकी खर्च भी इसमें शामिल हैं?” Then say its Bangla meaning once: “বাড়তি খরচ কি এর মধ্যে আছে?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 क्या बाकी खर्च भी इसमें शामिल हैं?
-উচ্চারণ: ক্যা বাকী খর্চ ভী ইসমেঁ শামিল হ্যাঁয়?
-অর্থ: বাড়তি খরচ কি এর মধ্যে আছে?
+ক্যা বাকী খর্চ ভী ইসমেঁ শামিল হ্যাঁয়?
+বাড়তি খরচ কি এর মধ্যে আছে?
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 133
@@ -181,21 +209,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_133`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: বাসা দেখতে সময় নিন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: বাসা দেখতে সময় নিন
 
-00–05s — say Hindi: “क्या मैं घर देख सकती हूँ?” THEN say its meaning in Bangla: “আমি কি বাসাটা দেখতে পারি?”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “क्या मैं घर देख सकती हूँ?” Then say its Bangla meaning once: “আমি কি বাসাটা দেখতে পারি?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 क्या मैं घर देख सकती हूँ?
-উচ্চারণ: ক্যা ম্যাঁ ঘর দেখ সকতী হুঁ?
-অর্থ: আমি কি বাসাটা দেখতে পারি?
-05–10s — say Hindi: “शुक्रवार को मेरे पास समय है।” THEN say its meaning in Bangla: “শুক্রবার আমার সময় আছে।”; display all three caption lines:
+ক্যা ম্যাঁ ঘর দেখ সকতী হুঁ?
+আমি কি বাসাটা দেখতে পারি?
+05–10s
+AUDIO: Say Hindi once: “शुक्रवार को मेरे पास समय है।” Then say its Bangla meaning once: “শুক্রবার আমার সময় আছে।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 शुक्रवार को मेरे पास समय है।
-উচ্চারণ: শুক্রবার কো মেরে পাস সময় হ্যায়।
-অর্থ: শুক্রবার আমার সময় আছে।
+শুক্রবার কো মেরে পাস সময় হ্যায়।
+শুক্রবার আমার সময় আছে।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 134
@@ -205,21 +237,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_134`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: হিটার নষ্ট হলে বলুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: হিটার নষ্ট হলে বলুন
 
-00–05s — say Hindi: “हीटर काम नहीं कर रहा है।” THEN say its meaning in Bangla: “হিটার কাজ করছে না।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “हीटर काम नहीं कर रहा है।” Then say its Bangla meaning once: “হিটার কাজ করছে না।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 हीटर काम नहीं कर रहा है।
-উচ্চারণ: হীটর কাম নহীঁ কর রহা হ্যায়।
-অর্থ: হিটার কাজ করছে না।
-05–10s — say Hindi: “घर के अंदर ठंड है।” THEN say its meaning in Bangla: “বাসার ভেতরে ঠান্ডা।”; display all three caption lines:
+হীটর কাম নহীঁ কর রহা হ্যায়।
+হিটার কাজ করছে না।
+05–10s
+AUDIO: Say Hindi once: “घर के अंदर ठंड है।” Then say its Bangla meaning once: “বাসার ভেতরে ঠান্ডা।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 घर के अंदर ठंड है।
-উচ্চারণ: ঘর কে অন্দর ঠন্ড হ্যায়।
-অর্থ: বাসার ভেতরে ঠান্ডা।
+ঘর কে অন্দর ঠন্ড হ্যায়।
+বাসার ভেতরে ঠান্ডা।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 135
@@ -229,21 +265,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_135`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: পানির সমস্যার কথা বলুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: পানির সমস্যার কথা বলুন
 
-00–05s — say Hindi: “नल से पानी टपक रहा है।” THEN say its meaning in Bangla: “কল থেকে পানি পড়ছে।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “नल से पानी टपक रहा है।” Then say its Bangla meaning once: “কল থেকে পানি পড়ছে।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 नल से पानी टपक रहा है।
-উচ্চারণ: নল সে পানী টপক রহা হ্যায়।
-অর্থ: কল থেকে পানি পড়ছে।
-05–10s — say Hindi: “क्या आप किसी को भेज सकते हैं?” THEN say its meaning in Bangla: “কাউকে পাঠাতে পারবেন?”; display all three caption lines:
+নল সে পানী টপক রহা হ্যায়।
+কল থেকে পানি পড়ছে।
+05–10s
+AUDIO: Say Hindi once: “क्या आप किसी को भेज सकते हैं?” Then say its Bangla meaning once: “কাউকে পাঠাতে পারবেন?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 क्या आप किसी को भेज सकते हैं?
-উচ্চারণ: ক্যা আপ কিসী কো ভেজ সকতে হ্যাঁয়?
-অর্থ: কাউকে পাঠাতে পারবেন?
+ক্যা আপ কিসী কো ভেজ সকতে হ্যাঁয়?
+কাউকে পাঠাতে পারবেন?
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 136
@@ -253,21 +293,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_136`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: ঘর পরিষ্কারের কথা বলুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: ঘর পরিষ্কারের কথা বলুন
 
-00–05s — say Hindi: “आज मैं रसोई साफ़ कर रही हूँ।” THEN say its meaning in Bangla: “আজ রান্নাঘর পরিষ্কার করছি।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “आज मैं रसोई साफ़ कर रही हूँ।” Then say its Bangla meaning once: “আজ রান্নাঘর পরিষ্কার করছি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 आज मैं रसोई साफ़ कर रही हूँ।
-উচ্চারণ: আজ ম্যাঁ রসোঈ সাফ কর রহী হুঁ।
-অর্থ: আজ রান্নাঘর পরিষ্কার করছি।
-05–10s — say Hindi: “फिर बैठक में झाड़ू लगाऊँगी।” THEN say its meaning in Bangla: “তারপর বসার ঘরে ঝাড়ু দেব।”; display all three caption lines:
+আজ ম্যাঁ রসোঈ সাফ কর রহী হুঁ।
+আজ রান্নাঘর পরিষ্কার করছি।
+05–10s
+AUDIO: Say Hindi once: “फिर बैठक में झाड़ू लगाऊँगी।” Then say its Bangla meaning once: “তারপর বসার ঘরে ঝাড়ু দেব।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 फिर बैठक में झाड़ू लगाऊँगी।
-উচ্চারণ: ফির বৈঠক মেঁ ঝাড়ু লগাউঁগী।
-অর্থ: তারপর বসার ঘরে ঝাড়ু দেব।
+ফির বৈঠক মেঁ ঝাড়ু লগাউঁগী।
+তারপর বসার ঘরে ঝাড়ু দেব।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 137
@@ -277,21 +321,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_137`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: কাপড় ধোয়ার কথা বলুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: কাপড় ধোয়ার কথা বলুন
 
-00–05s — say Hindi: “मुझे कपड़े धोने हैं।” THEN say its meaning in Bangla: “আমাকে কাপড় ধুতে হবে।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मुझे कपड़े धोने हैं।” Then say its Bangla meaning once: “আমাকে কাপড় ধুতে হবে।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मुझे कपड़े धोने हैं।
-উচ্চারণ: মুঝে কপড়ে ধোনে হ্যাঁয়।
-অর্থ: আমাকে কাপড় ধুতে হবে।
-05–10s — say Hindi: “वॉशिंग मशीन अभी खाली है।” THEN say its meaning in Bangla: “ওয়াশিং মেশিন এখন খালি।”; display all three caption lines:
+মুঝে কপড়ে ধোনে হ্যাঁয়।
+আমাকে কাপড় ধুতে হবে।
+05–10s
+AUDIO: Say Hindi once: “वॉशिंग मशीन अभी खाली है।” Then say its Bangla meaning once: “ওয়াশিং মেশিন এখন খালি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 वॉशिंग मशीन अभी खाली है।
-উচ্চারণ: ওয়াশিং মশীন অভী খালী হ্যায়।
-অর্থ: ওয়াশিং মেশিন এখন খালি।
+ওয়াশিং মশীন অভী খালী হ্যায়।
+ওয়াশিং মেশিন এখন খালি।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 138
@@ -301,21 +349,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_138`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: ময়লা ফেলতে বলুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: ময়লা ফেলতে বলুন
 
-00–05s — say Hindi: “मैं कचरा बाहर ले जा रही हूँ।” THEN say its meaning in Bangla: “আমি ময়লা বাইরে নিয়ে যাচ্ছি।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मैं कचरा बाहर ले जा रही हूँ।” Then say its Bangla meaning once: “আমি ময়লা বাইরে নিয়ে যাচ্ছি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मैं कचरा बाहर ले जा रही हूँ।
-উচ্চারণ: ম্যাঁ কচরা বাহর লে জা রহী হুঁ।
-অর্থ: আমি ময়লা বাইরে নিয়ে যাচ্ছি।
-05–10s — say Hindi: “कागज़ वाला कूड़ादान कहाँ है?” THEN say its meaning in Bangla: “কাগজের ময়লার পাত্র কোথায়?”; display all three caption lines:
+ম্যাঁ কচরা বাহর লে জা রহী হুঁ।
+আমি ময়লা বাইরে নিয়ে যাচ্ছি।
+05–10s
+AUDIO: Say Hindi once: “कागज़ वाला कूड़ादान कहाँ है?” Then say its Bangla meaning once: “কাগজের ময়লার পাত্র কোথায়?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 कागज़ वाला कूड़ादान कहाँ है?
-উচ্চারণ: কাগজ বালা কুড়াদান কহাঁ হ্যায়?
-অর্থ: কাগজের ময়লার পাত্র কোথায়?
+কাগজ বালা কুড়াদান কহাঁ হ্যায়?
+কাগজের ময়লার পাত্র কোথায়?
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 139
@@ -325,21 +377,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_139`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: শব্দ কমাতে বলুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: শব্দ কমাতে বলুন
 
-00–05s — say Hindi: “गाने की आवाज़ बहुत तेज़ है।” THEN say its meaning in Bangla: “গানের শব্দ খুব জোরে।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “गाने की आवाज़ बहुत तेज़ है।” Then say its Bangla meaning once: “গানের শব্দ খুব জোরে।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 गाने की आवाज़ बहुत तेज़ है।
-উচ্চারণ: গানে কী আওয়াজ বহুত তেজ হ্যায়।
-অর্থ: গানের শব্দ খুব জোরে।
-05–10s — say Hindi: “क्या आप इसे थोड़ा कम करेंगे?” THEN say its meaning in Bangla: “দয়া করে একটু কমাবেন?”; display all three caption lines:
+গানে কী আওয়াজ বহুত তেজ হ্যায়।
+গানের শব্দ খুব জোরে।
+05–10s
+AUDIO: Say Hindi once: “क्या आप इसे थोड़ा कम करेंगे?” Then say its Bangla meaning once: “দয়া করে একটু কমাবেন?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 क्या आप इसे थोड़ा कम करेंगे?
-উচ্চারণ: ক্যা আপ ইসে থোড়া কম করেঙ্গে?
-অর্থ: দয়া করে একটু কমাবেন?
+ক্যা আপ ইসে থোড়া কম করেঙ্গে?
+দয়া করে একটু কমাবেন?
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 140
@@ -349,21 +405,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_140`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: প্রতিবেশীর সাহায্য চান
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: প্রতিবেশীর সাহায্য চান
 
-00–05s — say Hindi: “क्या आप मेरा पार्सल ले लेंगे?” THEN say its meaning in Bangla: “আমার পার্সেলটা গ্রহণ করবেন?”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “क्या आप मेरा पार्सल ले लेंगे?” Then say its Bangla meaning once: “আমার পার্সেলটা গ্রহণ করবেন?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 क्या आप मेरा पार्सल ले लेंगे?
-উচ্চারণ: ক্যা আপ মেরা পার্সল লে লেঙ্গে?
-অর্থ: আমার পার্সেলটা গ্রহণ করবেন?
-05–10s — say Hindi: “कल मैं घर पर नहीं रहूँगी।” THEN say its meaning in Bangla: “কাল আমি বাসায় থাকব না।”; display all three caption lines:
+ক্যা আপ মেরা পার্সল লে লেঙ্গে?
+আমার পার্সেলটা গ্রহণ করবেন?
+05–10s
+AUDIO: Say Hindi once: “कल मैं घर पर नहीं रहूँगी।” Then say its Bangla meaning once: “কাল আমি বাসায় থাকব না।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 कल मैं घर पर नहीं रहूँगी।
-উচ্চারণ: কল ম্যাঁ ঘর পর নহীঁ রহুঙ্গী।
-অর্থ: কাল আমি বাসায় থাকব না।
+কল ম্যাঁ ঘর পর নহীঁ রহুঙ্গী।
+কাল আমি বাসায় থাকব না।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 141
@@ -373,21 +433,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_141`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: নিজের কাজের কথা বলুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: নিজের কাজের কথা বলুন
 
-00–05s — say Hindi: “मैं दफ़्तर में काम करती हूँ।” THEN say its meaning in Bangla: “আমি অফিসে কাজ করি।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मैं दफ़्तर में काम करती हूँ।” Then say its Bangla meaning once: “আমি অফিসে কাজ করি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मैं दफ़्तर में काम करती हूँ।
-উচ্চারণ: ম্যাঁ দফতর মেঁ কাম করতী হুঁ।
-অর্থ: আমি অফিসে কাজ করি।
-05–10s — say Hindi: “मेरे काम अलग-अलग तरह के हैं।” THEN say its meaning in Bangla: “আমার কাজগুলো নানা রকমের।”; display all three caption lines:
+ম্যাঁ দফতর মেঁ কাম করতী হুঁ।
+আমি অফিসে কাজ করি।
+05–10s
+AUDIO: Say Hindi once: “मेरे काम अलग-अलग तरह के हैं।” Then say its Bangla meaning once: “আমার কাজগুলো নানা রকমের।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मेरे काम अलग-अलग तरह के हैं।
-উচ্চারণ: মেরে কাম অলগ-অলগ তরহ কে হ্যাঁয়।
-অর্থ: আমার কাজগুলো নানা রকমের।
+মেরে কাম অলগ-অলগ তরহ কে হ্যাঁয়।
+আমার কাজগুলো নানা রকমের।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 142
@@ -397,21 +461,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_142`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: নতুন কাজে প্রথম দিন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: নতুন কাজে প্রথম দিন
 
-00–05s — say Hindi: “आज नौकरी का मेरा पहला दिन है।” THEN say its meaning in Bangla: “আজ আমার কাজের প্রথম দিন।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “आज नौकरी का मेरा पहला दिन है।” Then say its Bangla meaning once: “আজ আমার কাজের প্রথম দিন।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 आज नौकरी का मेरा पहला दिन है।
-উচ্চারণ: আজ নৌকরী কা মেরা পহলা দিন হ্যায়।
-অর্থ: আজ আমার কাজের প্রথম দিন।
-05–10s — say Hindi: “साथ काम करके मुझे खुशी हो रही है।” THEN say its meaning in Bangla: “একসঙ্গে কাজ করতে পেরে ভালো লাগছে।”; display all three caption lines:
+আজ নৌকরী কা মেরা পহলা দিন হ্যায়।
+আজ আমার কাজের প্রথম দিন।
+05–10s
+AUDIO: Say Hindi once: “साथ काम करके मुझे खुशी हो रही है।” Then say its Bangla meaning once: “একসঙ্গে কাজ করতে পেরে ভালো লাগছে।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 साथ काम करके मुझे खुशी हो रही है।
-উচ্চারণ: সাথ কাম করকে মুঝে খুশী হো রহী হ্যায়।
-অর্থ: একসঙ্গে কাজ করতে পেরে ভালো লাগছে।
+সাথ কাম করকে মুঝে খুশী হো রহী হ্যায়।
+একসঙ্গে কাজ করতে পেরে ভালো লাগছে।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 143
@@ -421,21 +489,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_143`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: কাজ বুঝে নিন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: কাজ বুঝে নিন
 
-00–05s — say Hindi: “पहले मुझे क्या करना है?” THEN say its meaning in Bangla: “প্রথমে কী করব?”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “पहले मुझे क्या करना है?” Then say its Bangla meaning once: “প্রথমে কী করব?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 पहले मुझे क्या करना है?
-উচ্চারণ: পহলে মুঝে ক্যা করনা হ্যায়?
-অর্থ: প্রথমে কী করব?
-05–10s — say Hindi: “क्या आप मुझे काम दिखाएँगे?” THEN say its meaning in Bangla: “কাজটা দেখিয়ে দেবেন?”; display all three caption lines:
+পহলে মুঝে ক্যা করনা হ্যায়?
+প্রথমে কী করব?
+05–10s
+AUDIO: Say Hindi once: “क्या आप मुझे काम दिखाएँगे?” Then say its Bangla meaning once: “কাজটা দেখিয়ে দেবেন?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 क्या आप मुझे काम दिखाएँगे?
-উচ্চারণ: ক্যা আপ মুঝে কাম দিখাএঁগে?
-অর্থ: কাজটা দেখিয়ে দেবেন?
+ক্যা আপ মুঝে কাম দিখাএঁগে?
+কাজটা দেখিয়ে দেবেন?
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 144
@@ -445,21 +517,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_144`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: অফিসে সাহায্য চান
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: অফিসে সাহায্য চান
 
-00–05s — say Hindi: “मुझे तुम्हारी थोड़ी मदद चाहिए।” THEN say its meaning in Bangla: “তোমার একটু সাহায্য লাগবে।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मुझे तुम्हारी थोड़ी मदद चाहिए।” Then say its Bangla meaning once: “তোমার একটু সাহায্য লাগবে।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मुझे तुम्हारी थोड़ी मदद चाहिए।
-উচ্চারণ: মুঝে তুমহারী থোড়ী মদদ চাহিয়ে।
-অর্থ: তোমার একটু সাহায্য লাগবে।
-05–10s — say Hindi: “मेरा कंप्यूटर चालू नहीं हो रहा।” THEN say its meaning in Bangla: “আমার কম্পিউটার চালু হচ্ছে না।”; display all three caption lines:
+মুঝে তুমহারী থোড়ী মদদ চাহিয়ে।
+তোমার একটু সাহায্য লাগবে।
+05–10s
+AUDIO: Say Hindi once: “मेरा कंप्यूटर चालू नहीं हो रहा।” Then say its Bangla meaning once: “আমার কম্পিউটার চালু হচ্ছে না।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मेरा कंप्यूटर चालू नहीं हो रहा।
-উচ্চারণ: মেরা কম্পিউটার চালু নহীঁ হো রহা।
-অর্থ: আমার কম্পিউটার চালু হচ্ছে না।
+মেরা কম্পিউটার চালু নহীঁ হো রহা।
+আমার কম্পিউটার চালু হচ্ছে না।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 145
@@ -469,21 +545,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_145`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: মিটিংয়ের সময় জানুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: মিটিংয়ের সময় জানুন
 
-00–05s — say Hindi: “बैठक कब शुरू होगी?” THEN say its meaning in Bangla: “মিটিং কখন শুরু হবে?”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “बैठक कब शुरू होगी?” Then say its Bangla meaning once: “মিটিং কখন শুরু হবে?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 बैठक कब शुरू होगी?
-উচ্চারণ: বৈঠক কব শুরু হোগী?
-অর্থ: মিটিং কখন শুরু হবে?
-05–10s — say Hindi: “मैं समय पर आना चाहती हूँ।” THEN say its meaning in Bangla: “আমি সময়মতো যেতে চাই।”; display all three caption lines:
+বৈঠক কব শুরু হোগী?
+মিটিং কখন শুরু হবে?
+05–10s
+AUDIO: Say Hindi once: “मैं समय पर आना चाहती हूँ।” Then say its Bangla meaning once: “আমি সময়মতো যেতে চাই।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मैं समय पर आना चाहती हूँ।
-উচ্চারণ: ম্যাঁ সময় পর আনা চাহতী হুঁ।
-অর্থ: আমি সময়মতো যেতে চাই।
+ম্যাঁ সময় পর আনা চাহতী হুঁ।
+আমি সময়মতো যেতে চাই।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 146
@@ -493,21 +573,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_146`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: কাজ শেষ হলে জানান
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: কাজ শেষ হলে জানান
 
-00–05s — say Hindi: “मेरा काम पूरा हो गया है।” THEN say its meaning in Bangla: “আমার কাজ শেষ।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मेरा काम पूरा हो गया है।” Then say its Bangla meaning once: “আমার কাজ শেষ।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मेरा काम पूरा हो गया है।
-উচ্চারণ: মেরা কাম পুরা হো গয়া হ্যায়।
-অর্থ: আমার কাজ শেষ।
-05–10s — say Hindi: “मैं तुम्हें फ़ाइल भेज रही हूँ।” THEN say its meaning in Bangla: “তোমাকে ফাইলটা পাঠাচ্ছি।”; display all three caption lines:
+মেরা কাম পুরা হো গয়া হ্যায়।
+আমার কাজ শেষ।
+05–10s
+AUDIO: Say Hindi once: “मैं तुम्हें फ़ाइल भेज रही हूँ।” Then say its Bangla meaning once: “তোমাকে ফাইলটা পাঠাচ্ছি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मैं तुम्हें फ़ाइल भेज रही हूँ।
-উচ্চারণ: ম্যাঁ তুমহেঁ ফাইল ভেজ রহী হুঁ।
-অর্থ: তোমাকে ফাইলটা পাঠাচ্ছি।
+ম্যাঁ তুমহেঁ ফাইল ভেজ রহী হুঁ।
+তোমাকে ফাইলটা পাঠাচ্ছি।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 147
@@ -517,21 +601,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_147`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: আরও সময় চান
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: আরও সময় চান
 
-00–05s — say Hindi: “मुझे थोड़ा और समय चाहिए।” THEN say its meaning in Bangla: “আমার আরও একটু সময় লাগবে।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मुझे थोड़ा और समय चाहिए।” Then say its Bangla meaning once: “আমার আরও একটু সময় লাগবে।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मुझे थोड़ा और समय चाहिए।
-উচ্চারণ: মুঝে থোড়া ঔর সময় চাহিয়ে।
-অর্থ: আমার আরও একটু সময় লাগবে।
-05–10s — say Hindi: “कल सब तैयार हो जाएगा।” THEN say its meaning in Bangla: “কাল সব শেষ হবে।”; display all three caption lines:
+মুঝে থোড়া ঔর সময় চাহিয়ে।
+আমার আরও একটু সময় লাগবে।
+05–10s
+AUDIO: Say Hindi once: “कल सब तैयार हो जाएगा।” Then say its Bangla meaning once: “কাল সব শেষ হবে।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 कल सब तैयार हो जाएगा।
-উচ্চারণ: কল সব ত্যায়য়ার হো জাএগা।
-অর্থ: কাল সব শেষ হবে।
+কল সব ত্যায়য়ার হো জাএগা।
+কাল সব শেষ হবে।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 148
@@ -541,21 +629,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_148`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: একসঙ্গে বিরতি নিন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: একসঙ্গে বিরতি নিন
 
-00–05s — say Hindi: “क्या हम थोड़ा आराम करें?” THEN say its meaning in Bangla: “আমরা কি একটু বিরতি নেব?”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “क्या हम थोड़ा आराम करें?” Then say its Bangla meaning once: “আমরা কি একটু বিরতি নেব?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 क्या हम थोड़ा आराम करें?
-উচ্চারণ: ক্যা হম থোড়া আরাম করেঁ?
-অর্থ: আমরা কি একটু বিরতি নেব?
-05–10s — say Hindi: “मैं अपने लिए कॉफ़ी लाती हूँ।” THEN say its meaning in Bangla: “আমি এক কাপ কফি আনছি।”; display all three caption lines:
+ক্যা হম থোড়া আরাম করেঁ?
+আমরা কি একটু বিরতি নেব?
+05–10s
+AUDIO: Say Hindi once: “मैं अपने लिए कॉफ़ी लाती हूँ।” Then say its Bangla meaning once: “আমি এক কাপ কফি আনছি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मैं अपने लिए कॉफ़ी लाती हूँ।
-উচ্চারণ: ম্যাঁ অপনে লিয়ে কফী লাতী হুঁ।
-অর্থ: আমি এক কাপ কফি আনছি।
+ম্যাঁ অপনে লিয়ে কফী লাতী হুঁ।
+আমি এক কাপ কফি আনছি।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 149
@@ -565,21 +657,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_149`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: অসুস্থতার ছুটি জানান
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: অসুস্থতার ছুটি জানান
 
-00–05s — say Hindi: “आज मैं बीमार हूँ।” THEN say its meaning in Bangla: “আজ আমি অসুস্থ।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “आज मैं बीमार हूँ।” Then say its Bangla meaning once: “আজ আমি অসুস্থ।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 आज मैं बीमार हूँ।
-উচ্চারণ: আজ ম্যাঁ বীমার হুঁ।
-অর্থ: আজ আমি অসুস্থ।
-05–10s — say Hindi: “मैं काम पर नहीं आ सकती।” THEN say its meaning in Bangla: “আমি কাজে আসতে পারব না।”; display all three caption lines:
+আজ ম্যাঁ বীমার হুঁ।
+আজ আমি অসুস্থ।
+05–10s
+AUDIO: Say Hindi once: “मैं काम पर नहीं आ सकती।” Then say its Bangla meaning once: “আমি কাজে আসতে পারব না।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मैं काम पर नहीं आ सकती।
-উচ্চারণ: ম্যাঁ কাম পর নহীঁ আ সকতী।
-অর্থ: আমি কাজে আসতে পারব না।
+ম্যাঁ কাম পর নহীঁ আ সকতী।
+আমি কাজে আসতে পারব না।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 150
@@ -589,21 +685,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_150`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: এক দিনের ছুটি চান
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: এক দিনের ছুটি চান
 
-00–05s — say Hindi: “मैं शुक्रवार को छुट्टी लेना चाहती हूँ।” THEN say its meaning in Bangla: “আমি শুক্রবার ছুটি নিতে চাই।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मैं शुक्रवार को छुट्टी लेना चाहती हूँ।” Then say its Bangla meaning once: “আমি শুক্রবার ছুটি নিতে চাই।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मैं शुक्रवार को छुट्टी लेना चाहती हूँ।
-উচ্চারণ: ম্যাঁ শুক্রবার কো ছুট্টী লেনা চাহতী হুঁ।
-অর্থ: আমি শুক্রবার ছুটি নিতে চাই।
-05–10s — say Hindi: “क्या यह संभव है?” THEN say its meaning in Bangla: “এটা কি সম্ভব?”; display all three caption lines:
+ম্যাঁ শুক্রবার কো ছুট্টী লেনা চাহতী হুঁ।
+আমি শুক্রবার ছুটি নিতে চাই।
+05–10s
+AUDIO: Say Hindi once: “क्या यह संभव है?” Then say its Bangla meaning once: “এটা কি সম্ভব?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 क्या यह संभव है?
-উচ্চারণ: ক্যা ইয়হ সম্ভব হ্যায়?
-অর্থ: এটা কি সম্ভব?
+ক্যা ইয়হ সম্ভব হ্যায়?
+এটা কি সম্ভব?
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 151
@@ -613,21 +713,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_151`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: হিন্দি কোর্সে ভর্তি হন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: হিন্দি কোর্সে ভর্তি হন
 
-00–05s — say Hindi: “मैं हिंदी की कक्षा में दाखिला लेना चाहती हूँ।” THEN say its meaning in Bangla: “আমি হিন্দি কোর্সে ভর্তি হতে চাই।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मैं हिंदी की कक्षा में दाखिला लेना चाहती हूँ।” Then say its Bangla meaning once: “আমি হিন্দি কোর্সে ভর্তি হতে চাই।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मैं हिंदी की कक्षा में दाखिला लेना चाहती हूँ।
-উচ্চারণ: ম্যাঁ হিন্দী কী কক্‌শা মেঁ দাখিলা লেনা চাহতী হুঁ।
-অর্থ: আমি হিন্দি কোর্সে ভর্তি হতে চাই।
-05–10s — say Hindi: “अगला कोर्स कब शुरू होगा?” THEN say its meaning in Bangla: “পরের কোর্স কবে শুরু?”; display all three caption lines:
+ম্যাঁ হিন্দী কী কক্‌শা মেঁ দাখিলা লেনা চাহতী হুঁ।
+আমি হিন্দি কোর্সে ভর্তি হতে চাই।
+05–10s
+AUDIO: Say Hindi once: “अगला कोर्स कब शुरू होगा?” Then say its Bangla meaning once: “পরের কোর্স কবে শুরু?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 अगला कोर्स कब शुरू होगा?
-উচ্চারণ: অগলা কোর্স কব শুরু হোগা?
-অর্থ: পরের কোর্স কবে শুরু?
+অগলা কোর্স কব শুরু হোগা?
+পরের কোর্স কবে শুরু?
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 152
@@ -637,21 +741,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_152`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: কোর্সের সময় জিজ্ঞেস করুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: কোর্সের সময় জিজ্ঞেস করুন
 
-00–05s — say Hindi: “क्या कक्षा शाम को होती है?” THEN say its meaning in Bangla: “কোর্স কি সন্ধ্যায় হয়?”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “क्या कक्षा शाम को होती है?” Then say its Bangla meaning once: “কোর্স কি সন্ধ্যায় হয়?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 क्या कक्षा शाम को होती है?
-উচ্চারণ: ক্যা কক্‌শা শাম কো হোতী হ্যায়?
-অর্থ: কোর্স কি সন্ধ্যায় হয়?
-05–10s — say Hindi: “दिन में मुझे काम करना होता है।” THEN say its meaning in Bangla: “দিনের বেলা আমাকে কাজ করতে হয়।”; display all three caption lines:
+ক্যা কক্‌শা শাম কো হোতী হ্যায়?
+কোর্স কি সন্ধ্যায় হয়?
+05–10s
+AUDIO: Say Hindi once: “दिन में मुझे काम करना होता है।” Then say its Bangla meaning once: “দিনের বেলা আমাকে কাজ করতে হয়।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 दिन में मुझे काम करना होता है।
-উচ্চারণ: দিন মেঁ মুঝে কাম করনা হোতা হ্যায়।
-অর্থ: দিনের বেলা আমাকে কাজ করতে হয়।
+দিন মেঁ মুঝে কাম করনা হোতা হ্যায়।
+দিনের বেলা আমাকে কাজ করতে হয়।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 153
@@ -661,21 +769,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_153`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: কোর্সের খরচ জানুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: কোর্সের খরচ জানুন
 
-00–05s — say Hindi: “कोर्स की फ़ीस कितनी है?” THEN say its meaning in Bangla: “কোর্সের খরচ কত?”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “कोर्स की फ़ीस कितनी है?” Then say its Bangla meaning once: “কোর্সের খরচ কত?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 कोर्स की फ़ीस कितनी है?
-উচ্চারণ: কোর্স কী ফীস কিতনী হ্যায়?
-অর্থ: কোর্সের খরচ কত?
-05–10s — say Hindi: “क्या किताबों का खर्च भी शामिल है?” THEN say its meaning in Bangla: “বইয়ের দামও কি এতে আছে?”; display all three caption lines:
+কোর্স কী ফীস কিতনী হ্যায়?
+কোর্সের খরচ কত?
+05–10s
+AUDIO: Say Hindi once: “क्या किताबों का खर्च भी शामिल है?” Then say its Bangla meaning once: “বইয়ের দামও কি এতে আছে?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 क्या किताबों का खर्च भी शामिल है?
-উচ্চারণ: ক্যা কিতাবোঁ কা খর্চ ভী শামিল হ্যায়?
-অর্থ: বইয়ের দামও কি এতে আছে?
+ক্যা কিতাবোঁ কা খর্চ ভী শামিল হ্যায়?
+বইয়ের দামও কি এতে আছে?
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 154
@@ -685,21 +797,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_154`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: ক্লাসের ঘর খুঁজুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: ক্লাসের ঘর খুঁজুন
 
-00–05s — say Hindi: “कक्षा किस कमरे में है?” THEN say its meaning in Bangla: “কোন ঘরে ক্লাস হবে?”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “कक्षा किस कमरे में है?” Then say its Bangla meaning once: “কোন ঘরে ক্লাস হবে?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 कक्षा किस कमरे में है?
-উচ্চারণ: কক্‌শা কিস কমরে মেঁ হ্যায়?
-অর্থ: কোন ঘরে ক্লাস হবে?
-05–10s — say Hindi: “मैं यहाँ पहली बार आई हूँ।” THEN say its meaning in Bangla: “আমি এখানে প্রথম এসেছি।”; display all three caption lines:
+কক্‌শা কিস কমরে মেঁ হ্যায়?
+কোন ঘরে ক্লাস হবে?
+05–10s
+AUDIO: Say Hindi once: “मैं यहाँ पहली बार आई हूँ।” Then say its Bangla meaning once: “আমি এখানে প্রথম এসেছি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मैं यहाँ पहली बार आई हूँ।
-উচ্চারণ: ম্যাঁ ইয়হাঁ পহলী বার আঈ হুঁ।
-অর্থ: আমি এখানে প্রথম এসেছি।
+ম্যাঁ ইয়হাঁ পহলী বার আঈ হুঁ।
+আমি এখানে প্রথম এসেছি।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 155
@@ -709,21 +825,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_155`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: বাড়ির কাজ বুঝে নিন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: বাড়ির কাজ বুঝে নিন
 
-00–05s — say Hindi: “हमें घर पर क्या करना है?” THEN say its meaning in Bangla: “আমাদের কী বাড়ির কাজ আছে?”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “हमें घर पर क्या करना है?” Then say its Bangla meaning once: “আমাদের কী বাড়ির কাজ আছে?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 हमें घर पर क्या करना है?
-উচ্চারণ: হমেঁ ঘর পর ক্যা করনা হ্যায়?
-অর্থ: আমাদের কী বাড়ির কাজ আছে?
-05–10s — say Hindi: “मैं पन्ने का नंबर नहीं सुन पाई।” THEN say its meaning in Bangla: “আমি পৃষ্ঠার নম্বর শুনতে পাইনি।”; display all three caption lines:
+হমেঁ ঘর পর ক্যা করনা হ্যায়?
+আমাদের কী বাড়ির কাজ আছে?
+05–10s
+AUDIO: Say Hindi once: “मैं पन्ने का नंबर नहीं सुन पाई।” Then say its Bangla meaning once: “আমি পৃষ্ঠার নম্বর শুনতে পাইনি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मैं पन्ने का नंबर नहीं सुन पाई।
-উচ্চারণ: ম্যাঁ পন্নে কা নম্বর নহীঁ সুন পাঈ।
-অর্থ: আমি পৃষ্ঠার নম্বর শুনতে পাইনি।
+ম্যাঁ পন্নে কা নম্বর নহীঁ সুন পাঈ।
+আমি পৃষ্ঠার নম্বর শুনতে পাইনি।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 156
@@ -733,21 +853,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_156`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: কলম ধার চান
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: কলম ধার চান
 
-00–05s — say Hindi: “क्या तुम मुझे एक कलम उधार दोगे?” THEN say its meaning in Bangla: “আমাকে একটা কলম ধার দেবে?”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “क्या तुम मुझे एक कलम उधार दोगे?” Then say its Bangla meaning once: “আমাকে একটা কলম ধার দেবে?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 क्या तुम मुझे एक कलम उधार दोगे?
-উচ্চারণ: ক্যা তুম মুঝে এক কলম উধার দোগে?
-অর্থ: আমাকে একটা কলম ধার দেবে?
-05–10s — say Hindi: “मेरी कलम अब नहीं लिखती।” THEN say its meaning in Bangla: “আমারটা আর লিখছে না।”; display all three caption lines:
+ক্যা তুম মুঝে এক কলম উধার দোগে?
+আমাকে একটা কলম ধার দেবে?
+05–10s
+AUDIO: Say Hindi once: “मेरी कलम अब नहीं लिखती।” Then say its Bangla meaning once: “আমারটা আর লিখছে না।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मेरी कलम अब नहीं लिखती।
-উচ্চারণ: মেরী কলম অব নহীঁ লিখতী।
-অর্থ: আমারটা আর লিখছে না।
+মেরী কলম অব নহীঁ লিখতী।
+আমারটা আর লিখছে না।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 157
@@ -757,21 +881,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_157`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: পরীক্ষার প্রস্তুতির কথা
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: পরীক্ষার প্রস্তুতির কথা
 
-00–05s — say Hindi: “अगले हफ़्ते मेरी परीक्षा है।” THEN say its meaning in Bangla: “আগামী সপ্তাহে আমার পরীক্ষা।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “अगले हफ़्ते मेरी परीक्षा है।” Then say its Bangla meaning once: “আগামী সপ্তাহে আমার পরীক্ষা।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 अगले हफ़्ते मेरी परीक्षा है।
-উচ্চারণ: অগলে হফতে মেরী পরীক্‌শা হ্যায়।
-অর্থ: আগামী সপ্তাহে আমার পরীক্ষা।
-05–10s — say Hindi: “इसलिए मैं हर शाम पढ़ती हूँ।” THEN say its meaning in Bangla: “তাই প্রতিদিন সন্ধ্যায় পড়ি।”; display all three caption lines:
+অগলে হফতে মেরী পরীক্‌শা হ্যায়।
+আগামী সপ্তাহে আমার পরীক্ষা।
+05–10s
+AUDIO: Say Hindi once: “इसलिए मैं हर शाम पढ़ती हूँ।” Then say its Bangla meaning once: “তাই প্রতিদিন সন্ধ্যায় পড়ি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 इसलिए मैं हर शाम पढ़ती हूँ।
-উচ্চারণ: ইসলিয়ে ম্যাঁ হর শাম পড়তী হুঁ।
-অর্থ: তাই প্রতিদিন সন্ধ্যায় পড়ি।
+ইসলিয়ে ম্যাঁ হর শাম পড়তী হুঁ।
+তাই প্রতিদিন সন্ধ্যায় পড়ি।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 158
@@ -781,21 +909,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_158`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: সহপাঠীর সঙ্গে অনুশীলন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: সহপাঠীর সঙ্গে অনুশীলন
 
-00–05s — say Hindi: “क्या तुम मेरे साथ अभ्यास करोगे?” THEN say its meaning in Bangla: “আমার সঙ্গে অনুশীলন করতে চাও?”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “क्या तुम मेरे साथ अभ्यास करोगे?” Then say its Bangla meaning once: “আমার সঙ্গে অনুশীলন করতে চাও?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 क्या तुम मेरे साथ अभ्यास करोगे?
-উচ্চারণ: ক্যা তুম মেরে সাথ অভ্যাস করোগে?
-অর্থ: আমার সঙ্গে অনুশীলন করতে চাও?
-05–10s — say Hindi: “हम साथ हिंदी बोल सकते हैं।” THEN say its meaning in Bangla: “আমরা একসঙ্গে হিন্দি বলতে পারি।”; display all three caption lines:
+ক্যা তুম মেরে সাথ অভ্যাস করোগে?
+আমার সঙ্গে অনুশীলন করতে চাও?
+05–10s
+AUDIO: Say Hindi once: “हम साथ हिंदी बोल सकते हैं।” Then say its Bangla meaning once: “আমরা একসঙ্গে হিন্দি বলতে পারি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 हम साथ हिंदी बोल सकते हैं।
-উচ্চারণ: হম সাথ হিন্দী বোল সকতে হ্যাঁয়।
-অর্থ: আমরা একসঙ্গে হিন্দি বলতে পারি।
+হম সাথ হিন্দী বোল সকতে হ্যাঁয়।
+আমরা একসঙ্গে হিন্দি বলতে পারি।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 159
@@ -805,21 +937,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_159`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: লাইব্রেরি থেকে বই নিন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: লাইব্রেরি থেকে বই নিন
 
-00–05s — say Hindi: “मैं यह किताब उधार लेना चाहती हूँ।” THEN say its meaning in Bangla: “আমি এই বই ধার নিতে চাই।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मैं यह किताब उधार लेना चाहती हूँ।” Then say its Bangla meaning once: “আমি এই বই ধার নিতে চাই।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मैं यह किताब उधार लेना चाहती हूँ।
-উচ্চারণ: ম্যাঁ ইয়হ কিতাব উধার লেনা চাহতী হুঁ।
-অর্থ: আমি এই বই ধার নিতে চাই।
-05–10s — say Hindi: “इसे कितने दिन रख सकती हूँ?” THEN say its meaning in Bangla: “কত দিন রাখতে পারব?”; display all three caption lines:
+ম্যাঁ ইয়হ কিতাব উধার লেনা চাহতী হুঁ।
+আমি এই বই ধার নিতে চাই।
+05–10s
+AUDIO: Say Hindi once: “इसे कितने दिन रख सकती हूँ?” Then say its Bangla meaning once: “কত দিন রাখতে পারব?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 इसे कितने दिन रख सकती हूँ?
-উচ্চারণ: ইসে কিতনে দিন রখ সকতী হুঁ?
-অর্থ: কত দিন রাখতে পারব?
+ইসে কিতনে দিন রখ সকতী হুঁ?
+কত দিন রাখতে পারব?
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 160
@@ -829,21 +965,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_160`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: শেখার অগ্রগতি বলুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: শেখার অগ্রগতি বলুন
 
-00–05s — say Hindi: “अब मुझे बहुत ज़्यादा समझ आता है।” THEN say its meaning in Bangla: “এখন অনেক বেশি বুঝি।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “अब मुझे बहुत ज़्यादा समझ आता है।” Then say its Bangla meaning once: “এখন অনেক বেশি বুঝি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 अब मुझे बहुत ज़्यादा समझ आता है।
-উচ্চারণ: অব মুঝে বহুত জ্যাদা সমঝ আতা হ্যায়।
-অর্থ: এখন অনেক বেশি বুঝি।
-05–10s — say Hindi: “बोलना अभी भी मुश्किल लगता है।” THEN say its meaning in Bangla: “কথা বলা এখনো কঠিন লাগে।”; display all three caption lines:
+অব মুঝে বহুত জ্যাদা সমঝ আতা হ্যায়।
+এখন অনেক বেশি বুঝি।
+05–10s
+AUDIO: Say Hindi once: “बोलना अभी भी मुश्किल लगता है।” Then say its Bangla meaning once: “কথা বলা এখনো কঠিন লাগে।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 बोलना अभी भी मुश्किल लगता है।
-উচ্চারণ: বোলনা অভী ভী মুশকিল লগতা হ্যায়।
-অর্থ: কথা বলা এখনো কঠিন লাগে।
+বোলনা অভী ভী মুশকিল লগতা হ্যায়।
+কথা বলা এখনো কঠিন লাগে।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 161
@@ -853,21 +993,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_161`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: ফোনে কথা শুরু করুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: ফোনে কথা শুরু করুন
 
-00–05s — say Hindi: “क्या शर्मा जी से बात हो सकती है?” THEN say its meaning in Bangla: “শর্মাজিের সঙ্গে কথা বলতে পারি?”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “क्या शर्मा जी से बात हो सकती है?” Then say its Bangla meaning once: “শর্মাজিের সঙ্গে কথা বলতে পারি?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 क्या शर्मा जी से बात हो सकती है?
-উচ্চারণ: ক্যা শর্মা জী সে বাত হো সকতী হ্যায়?
-অর্থ: শর্মাজিের সঙ্গে কথা বলতে পারি?
-05–10s — say Hindi: “मैं आशा सेन बोल रही हूँ।” THEN say its meaning in Bangla: “আমি আশা সেন বলছি।”; display all three caption lines:
+ক্যা শর্মা জী সে বাত হো সকতী হ্যায়?
+শর্মাজিের সঙ্গে কথা বলতে পারি?
+05–10s
+AUDIO: Say Hindi once: “मैं आशा सेन बोल रही हूँ।” Then say its Bangla meaning once: “আমি আশা সেন বলছি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मैं आशा सेन बोल रही हूँ।
-উচ্চারণ: ম্যাঁ আশা সেন বোল রহী হুঁ।
-অর্থ: আমি আশা সেন বলছি।
+ম্যাঁ আশা সেন বোল রহী হুঁ।
+আমি আশা সেন বলছি।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 162
@@ -877,21 +1021,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_162`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: ফোনে শুনতে না পেলে বলুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: ফোনে শুনতে না পেলে বলুন
 
-00–05s — say Hindi: “मुझे आपकी आवाज़ साफ़ नहीं आ रही।” THEN say its meaning in Bangla: “আপনার কথা ভালো শুনতে পাচ্ছি না।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मुझे आपकी आवाज़ साफ़ नहीं आ रही।” Then say its Bangla meaning once: “আপনার কথা ভালো শুনতে পাচ্ছি না।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मुझे आपकी आवाज़ साफ़ नहीं आ रही।
-উচ্চারণ: মুঝে আপকী আওয়াজ সাফ নহীঁ আ রহী।
-অর্থ: আপনার কথা ভালো শুনতে পাচ্ছি না।
-05–10s — say Hindi: “नेटवर्क बहुत खराब है।” THEN say its meaning in Bangla: “সংযোগ খুব খারাপ।”; display all three caption lines:
+মুঝে আপকী আওয়াজ সাফ নহীঁ আ রহী।
+আপনার কথা ভালো শুনতে পাচ্ছি না।
+05–10s
+AUDIO: Say Hindi once: “नेटवर्क बहुत खराब है।” Then say its Bangla meaning once: “সংযোগ খুব খারাপ।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 नेटवर्क बहुत खराब है।
-উচ্চারণ: নেটওয়ার্ক বহুত খরাব হ্যায়।
-অর্থ: সংযোগ খুব খারাপ।
+নেটওয়ার্ক বহুত খরাব হ্যায়।
+সংযোগ খুব খারাপ।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 163
@@ -901,21 +1049,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_163`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: পরে ফোন করতে বলুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: পরে ফোন করতে বলুন
 
-00–05s — say Hindi: “क्या आप मुझे बाद में फ़ोन करेंगे?” THEN say its meaning in Bangla: “আমাকে পরে ফোন করবেন?”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “क्या आप मुझे बाद में फ़ोन करेंगे?” Then say its Bangla meaning once: “আমাকে পরে ফোন করবেন?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 क्या आप मुझे बाद में फ़ोन करेंगे?
-উচ্চারণ: ক্যা আপ মুঝে বাদ মেঁ ফোন করেঙ্গে?
-অর্থ: আমাকে পরে ফোন করবেন?
-05–10s — say Hindi: “मैं अभी रास्ते में हूँ।” THEN say its meaning in Bangla: “আমি এখন পথে আছি।”; display all three caption lines:
+ক্যা আপ মুঝে বাদ মেঁ ফোন করেঙ্গে?
+আমাকে পরে ফোন করবেন?
+05–10s
+AUDIO: Say Hindi once: “मैं अभी रास्ते में हूँ।” Then say its Bangla meaning once: “আমি এখন পথে আছি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मैं अभी रास्ते में हूँ।
-উচ্চারণ: ম্যাঁ অভী রাসতে মেঁ হুঁ।
-অর্থ: আমি এখন পথে আছি।
+ম্যাঁ অভী রাসতে মেঁ হুঁ।
+আমি এখন পথে আছি।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 164
@@ -925,21 +1077,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_164`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: ফোনে বার্তা রেখে যান
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: ফোনে বার্তা রেখে যান
 
-00–05s — say Hindi: “क्या मैं कोई संदेश छोड़ सकती हूँ?” THEN say its meaning in Bangla: “আমি কি একটা বার্তা রাখতে পারি?”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “क्या मैं कोई संदेश छोड़ सकती हूँ?” Then say its Bangla meaning once: “আমি কি একটা বার্তা রাখতে পারি?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 क्या मैं कोई संदेश छोड़ सकती हूँ?
-উচ্চারণ: ক্যা ম্যাঁ কোঈ সন্দেশ ছোড় সকতী হুঁ?
-অর্থ: আমি কি একটা বার্তা রাখতে পারি?
-05–10s — say Hindi: “यह मेरे अपॉइंटमेंट के बारे में है।” THEN say its meaning in Bangla: “এটা আমার অ্যাপয়েন্টমেন্ট সম্পর্কে।”; display all three caption lines:
+ক্যা ম্যাঁ কোঈ সন্দেশ ছোড় সকতী হুঁ?
+আমি কি একটা বার্তা রাখতে পারি?
+05–10s
+AUDIO: Say Hindi once: “यह मेरे अपॉइंटमेंट के बारे में है।” Then say its Bangla meaning once: “এটা আমার অ্যাপয়েন্টমেন্ট সম্পর্কে।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 यह मेरे अपॉइंटमेंट के बारे में है।
-উচ্চারণ: ইয়হ মেরে অপয়েন্টমেন্ট কে বারে মেঁ হ্যায়।
-অর্থ: এটা আমার অ্যাপয়েন্টমেন্ট সম্পর্কে।
+ইয়হ মেরে অপয়েন্টমেন্ট কে বারে মেঁ হ্যায়।
+এটা আমার অ্যাপয়েন্টমেন্ট সম্পর্কে।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 165
@@ -949,21 +1105,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_165`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: ওয়াইফাই পাসওয়ার্ড চান
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: ওয়াইফাই পাসওয়ার্ড চান
 
-00–05s — say Hindi: “क्या यहाँ वाई-फ़ाई है?” THEN say its meaning in Bangla: “এখানে ওয়াইফাই আছে?”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “क्या यहाँ वाई-फ़ाई है?” Then say its Bangla meaning once: “এখানে ওয়াইফাই আছে?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 क्या यहाँ वाई-फ़ाई है?
-উচ্চারণ: ক্যা ইয়হাঁ ওয়াই-ফাই হ্যায়?
-অর্থ: এখানে ওয়াইফাই আছে?
-05–10s — say Hindi: “इसका पासवर्ड क्या है?” THEN say its meaning in Bangla: “পাসওয়ার্ড কী?”; display all three caption lines:
+ক্যা ইয়হাঁ ওয়াই-ফাই হ্যায়?
+এখানে ওয়াইফাই আছে?
+05–10s
+AUDIO: Say Hindi once: “इसका पासवर्ड क्या है?” Then say its Bangla meaning once: “পাসওয়ার্ড কী?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 इसका पासवर्ड क्या है?
-উচ্চারণ: ইসকা পাসওয়ার্ড ক্যা হ্যায়?
-অর্থ: পাসওয়ার্ড কী?
+ইসকা পাসওয়ার্ড ক্যা হ্যায়?
+পাসওয়ার্ড কী?
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 166
@@ -973,21 +1133,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_166`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: ইন্টারনেট সমস্যা জানান
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: ইন্টারনেট সমস্যা জানান
 
-00–05s — say Hindi: “मेरा इंटरनेट नहीं चल रहा है।” THEN say its meaning in Bangla: “আমার ইন্টারনেট কাজ করছে না।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मेरा इंटरनेट नहीं चल रहा है।” Then say its Bangla meaning once: “আমার ইন্টারনেট কাজ করছে না।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मेरा इंटरनेट नहीं चल रहा है।
-উচ্চারণ: মেরা ইনটারনেট নহীঁ চল রহা হ্যায়।
-অর্থ: আমার ইন্টারনেট কাজ করছে না।
-05–10s — say Hindi: “मैंने राउटर फिर चालू किया है।” THEN say its meaning in Bangla: “রাউটার আবার চালু করেছি।”; display all three caption lines:
+মেরা ইনটারনেট নহীঁ চল রহা হ্যায়।
+আমার ইন্টারনেট কাজ করছে না।
+05–10s
+AUDIO: Say Hindi once: “मैंने राउटर फिर चालू किया है।” Then say its Bangla meaning once: “রাউটার আবার চালু করেছি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मैंने राउटर फिर चालू किया है।
-উচ্চারণ: ম্যাঁনে রাউটার ফির চালু কিয়া হ্যায়।
-অর্থ: রাউটার আবার চালু করেছি।
+ম্যাঁনে রাউটার ফির চালু কিয়া হ্যায়।
+রাউটার আবার চালু করেছি।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 167
@@ -997,21 +1161,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_167`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: ফোন চার্জ করতে চান
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: ফোন চার্জ করতে চান
 
-00–05s — say Hindi: “मेरी बैटरी लगभग खत्म है।” THEN say its meaning in Bangla: “আমার ব্যাটারি প্রায় শেষ।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मेरी बैटरी लगभग खत्म है।” Then say its Bangla meaning once: “আমার ব্যাটারি প্রায় শেষ।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मेरी बैटरी लगभग खत्म है।
-উচ্চারণ: মেরী ব্যাটরী লগভগ খতম হ্যায়।
-অর্থ: আমার ব্যাটারি প্রায় শেষ।
-05–10s — say Hindi: “क्या मैं यहाँ फ़ोन चार्ज कर सकती हूँ?” THEN say its meaning in Bangla: “এখানে ফোন চার্জ দিতে পারি?”; display all three caption lines:
+মেরী ব্যাটরী লগভগ খতম হ্যায়।
+আমার ব্যাটারি প্রায় শেষ।
+05–10s
+AUDIO: Say Hindi once: “क्या मैं यहाँ फ़ोन चार्ज कर सकती हूँ?” Then say its Bangla meaning once: “এখানে ফোন চার্জ দিতে পারি?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 क्या मैं यहाँ फ़ोन चार्ज कर सकती हूँ?
-উচ্চারণ: ক্যা ম্যাঁ ইয়হাঁ ফোন চার্জ কর সকতী হুঁ?
-অর্থ: এখানে ফোন চার্জ দিতে পারি?
+ক্যা ম্যাঁ ইয়হাঁ ফোন চার্জ কর সকতী হুঁ?
+এখানে ফোন চার্জ দিতে পারি?
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 168
@@ -1021,21 +1189,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_168`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: ছবি পাঠানোর কথা বলুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: ছবি পাঠানোর কথা বলুন
 
-00–05s — say Hindi: “मैं तुम्हें फ़ोटो भेज रही हूँ।” THEN say its meaning in Bangla: “আমি তোমাকে ছবিটা পাঠাচ্ছি।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मैं तुम्हें फ़ोटो भेज रही हूँ।” Then say its Bangla meaning once: “আমি তোমাকে ছবিটা পাঠাচ্ছি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मैं तुम्हें फ़ोटो भेज रही हूँ।
-উচ্চারণ: ম্যাঁ তুমহেঁ ফোটো ভেজ রহী হুঁ।
-অর্থ: আমি তোমাকে ছবিটা পাঠাচ্ছি।
-05–10s — say Hindi: “तुम्हें अभी मिल जाएगी।” THEN say its meaning in Bangla: “তুমি এখনই পেয়ে যাবে।”; display all three caption lines:
+ম্যাঁ তুমহেঁ ফোটো ভেজ রহী হুঁ।
+আমি তোমাকে ছবিটা পাঠাচ্ছি।
+05–10s
+AUDIO: Say Hindi once: “तुम्हें अभी मिल जाएगी।” Then say its Bangla meaning once: “তুমি এখনই পেয়ে যাবে।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 तुम्हें अभी मिल जाएगी।
-উচ্চারণ: তুমহেঁ অভী মিল জাএগী।
-অর্থ: তুমি এখনই পেয়ে যাবে।
+তুমহেঁ অভী মিল জাএগী।
+তুমি এখনই পেয়ে যাবে।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 169
@@ -1045,21 +1217,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_169`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: ইমেইল ঠিকানা মিলিয়ে নিন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: ইমেইল ঠিকানা মিলিয়ে নিন
 
-00–05s — say Hindi: “क्या यह ईमेल पता सही है?” THEN say its meaning in Bangla: “এই ইমেইল ঠিকানা কি ঠিক?”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “क्या यह ईमेल पता सही है?” Then say its Bangla meaning once: “এই ইমেইল ঠিকানা কি ঠিক?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 क्या यह ईमेल पता सही है?
-উচ্চারণ: ক্যা ইয়হ ঈমেল পতা সহী হ্যায়?
-অর্থ: এই ইমেইল ঠিকানা কি ঠিক?
-05–10s — say Hindi: “मेरा संदेश नहीं पहुँच रहा।” THEN say its meaning in Bangla: “আমার বার্তা পৌঁছাচ্ছে না।”; display all three caption lines:
+ক্যা ইয়হ ঈমেল পতা সহী হ্যায়?
+এই ইমেইল ঠিকানা কি ঠিক?
+05–10s
+AUDIO: Say Hindi once: “मेरा संदेश नहीं पहुँच रहा।” Then say its Bangla meaning once: “আমার বার্তা পৌঁছাচ্ছে না।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मेरा संदेश नहीं पहुँच रहा।
-উচ্চারণ: মেরা সন্দেশ নহীঁ পহুঁচ রহা।
-অর্থ: আমার বার্তা পৌঁছাচ্ছে না।
+মেরা সন্দেশ নহীঁ পহুঁচ রহা।
+আমার বার্তা পৌঁছাচ্ছে না।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 170
@@ -1069,21 +1245,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_170`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: ভিডিও কলে কথা বলুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: ভিডিও কলে কথা বলুন
 
-00–05s — say Hindi: “क्या आज शाम फ़ोन पर बात करें?” THEN say its meaning in Bangla: “আজ সন্ধ্যায় ফোনে কথা বলতে পারি?”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “क्या आज शाम फ़ोन पर बात करें?” Then say its Bangla meaning once: “আজ সন্ধ্যায় ফোনে কথা বলতে পারি?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 क्या आज शाम फ़ोन पर बात करें?
-উচ্চারণ: ক্যা আজ শাম ফোন পর বাত করেঁ?
-অর্থ: আজ সন্ধ্যায় ফোনে কথা বলতে পারি?
-05–10s — say Hindi: “वीडियो कॉल भी अच्छा रहेगा।” THEN say its meaning in Bangla: “ভিডিও কলও ভালো হবে।”; display all three caption lines:
+ক্যা আজ শাম ফোন পর বাত করেঁ?
+আজ সন্ধ্যায় ফোনে কথা বলতে পারি?
+05–10s
+AUDIO: Say Hindi once: “वीडियो कॉल भी अच्छा रहेगा।” Then say its Bangla meaning once: “ভিডিও কলও ভালো হবে।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 वीडियो कॉल भी अच्छा रहेगा।
-উচ্চারণ: বীডিয়ো কল ভী অচ্ছা রহেগা।
-অর্থ: ভিডিও কলও ভালো হবে।
+বীডিয়ো কল ভী অচ্ছা রহেগা।
+ভিডিও কলও ভালো হবে।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 171
@@ -1093,21 +1273,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_171`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: হোটেলে পৌঁছে বলুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: হোটেলে পৌঁছে বলুন
 
-00–05s — say Hindi: “मैंने एक कमरा बुक किया है।” THEN say its meaning in Bangla: “আমি একটা ঘর বুক করেছি।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मैंने एक कमरा बुक किया है।” Then say its Bangla meaning once: “আমি একটা ঘর বুক করেছি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मैंने एक कमरा बुक किया है।
-উচ্চারণ: ম্যাঁনে এক কমরা বুক কিয়া হ্যায়।
-অর্থ: আমি একটা ঘর বুক করেছি।
-05–10s — say Hindi: “बुकिंग मेरे नाम से है।” THEN say its meaning in Bangla: “বুকিংটা আমার নামে।”; display all three caption lines:
+ম্যাঁনে এক কমরা বুক কিয়া হ্যায়।
+আমি একটা ঘর বুক করেছি।
+05–10s
+AUDIO: Say Hindi once: “बुकिंग मेरे नाम से है।” Then say its Bangla meaning once: “বুকিংটা আমার নামে।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 बुकिंग मेरे नाम से है।
-উচ্চারণ: বুকিং মেরে নাম সে হ্যায়।
-অর্থ: বুকিংটা আমার নামে।
+বুকিং মেরে নাম সে হ্যায়।
+বুকিংটা আমার নামে।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 172
@@ -1117,21 +1301,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_172`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: হোটেলের নাশতা সম্পর্কে জানুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: হোটেলের নাশতা সম্পর্কে জানুন
 
-00–05s — say Hindi: “क्या नाश्ता किराए में शामिल है?” THEN say its meaning in Bangla: “নাশতা কি ভাড়ার মধ্যে আছে?”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “क्या नाश्ता किराए में शामिल है?” Then say its Bangla meaning once: “নাশতা কি ভাড়ার মধ্যে আছে?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 क्या नाश्ता किराए में शामिल है?
-উচ্চারণ: ক্যা নাশ্তা কিরাএ মেঁ শামিল হ্যায়?
-অর্থ: নাশতা কি ভাড়ার মধ্যে আছে?
-05–10s — say Hindi: “यह कितने बजे शुरू होता है?” THEN say its meaning in Bangla: “কয়টায় শুরু হয়?”; display all three caption lines:
+ক্যা নাশ্তা কিরাএ মেঁ শামিল হ্যায়?
+নাশতা কি ভাড়ার মধ্যে আছে?
+05–10s
+AUDIO: Say Hindi once: “यह कितने बजे शुरू होता है?” Then say its Bangla meaning once: “কয়টায় শুরু হয়?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 यह कितने बजे शुरू होता है?
-উচ্চারণ: ইয়হ কিতনে বজে শুরু হোতা হ্যায়?
-অর্থ: কয়টায় শুরু হয়?
+ইয়হ কিতনে বজে শুরু হোতা হ্যায়?
+কয়টায় শুরু হয়?
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 173
@@ -1141,21 +1329,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_173`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: হোটেল ছাড়ার সময় জানুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: হোটেল ছাড়ার সময় জানুন
 
-00–05s — say Hindi: “मुझे कितने बजे तक कमरा छोड़ना है?” THEN say its meaning in Bangla: “কয়টার মধ্যে চেকআউট করতে হবে?”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मुझे कितने बजे तक कमरा छोड़ना है?” Then say its Bangla meaning once: “কয়টার মধ্যে চেকআউট করতে হবে?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मुझे कितने बजे तक कमरा छोड़ना है?
-উচ্চারণ: মুঝে কিতনে বজে তক কমরা ছোড়না হ্যায়?
-অর্থ: কয়টার মধ্যে চেকআউট করতে হবে?
-05–10s — say Hindi: “क्या मैं सूटकेस यहाँ छोड़ सकती हूँ?” THEN say its meaning in Bangla: “স্যুটকেস এখানে রেখে যেতে পারি?”; display all three caption lines:
+মুঝে কিতনে বজে তক কমরা ছোড়না হ্যায়?
+কয়টার মধ্যে চেকআউট করতে হবে?
+05–10s
+AUDIO: Say Hindi once: “क्या मैं सूटकेस यहाँ छोड़ सकती हूँ?” Then say its Bangla meaning once: “স্যুটকেস এখানে রেখে যেতে পারি?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 क्या मैं सूटकेस यहाँ छोड़ सकती हूँ?
-উচ্চারণ: ক্যা ম্যাঁ সুটকেস ইয়হাঁ ছোড় সকতী হুঁ?
-অর্থ: স্যুটকেস এখানে রেখে যেতে পারি?
+ক্যা ম্যাঁ সুটকেস ইয়হাঁ ছোড় সকতী হুঁ?
+স্যুটকেস এখানে রেখে যেতে পারি?
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 174
@@ -1165,21 +1357,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_174`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: হোটেলে তোয়ালে চান
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: হোটেলে তোয়ালে চান
 
-00–05s — say Hindi: “मेरे कमरे में तौलिया नहीं है।” THEN say its meaning in Bangla: “আমার ঘরে তোয়ালে নেই।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मेरे कमरे में तौलिया नहीं है।” Then say its Bangla meaning once: “আমার ঘরে তোয়ালে নেই।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मेरे कमरे में तौलिया नहीं है।
-উচ্চারণ: মেরে কমরে মেঁ তৌলিয়া নহীঁ হ্যায়।
-অর্থ: আমার ঘরে তোয়ালে নেই।
-05–10s — say Hindi: “क्या आप मुझे एक तौलिया देंगे?” THEN say its meaning in Bangla: “আমাকে একটা এনে দেবেন?”; display all three caption lines:
+মেরে কমরে মেঁ তৌলিয়া নহীঁ হ্যায়।
+আমার ঘরে তোয়ালে নেই।
+05–10s
+AUDIO: Say Hindi once: “क्या आप मुझे एक तौलिया देंगे?” Then say its Bangla meaning once: “আমাকে একটা এনে দেবেন?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 क्या आप मुझे एक तौलिया देंगे?
-উচ্চারণ: ক্যা আপ মুঝে এক তৌলিয়া দেঙ্গে?
-অর্থ: আমাকে একটা এনে দেবেন?
+ক্যা আপ মুঝে এক তৌলিয়া দেঙ্গে?
+আমাকে একটা এনে দেবেন?
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 175
@@ -1189,21 +1385,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_175`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: শান্ত ঘর চাইতে বলুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: শান্ত ঘর চাইতে বলুন
 
-00–05s — say Hindi: “मेरे कमरे में बहुत शोर है।” THEN say its meaning in Bangla: “আমার ঘরে খুব শব্দ হয়।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मेरे कमरे में बहुत शोर है।” Then say its Bangla meaning once: “আমার ঘরে খুব শব্দ হয়।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मेरे कमरे में बहुत शोर है।
-উচ্চারণ: মেরে কমরে মেঁ বহুত শোর হ্যায়।
-অর্থ: আমার ঘরে খুব শব্দ হয়।
-05–10s — say Hindi: “क्या कोई शांत कमरा है?” THEN say its meaning in Bangla: “আরও শান্ত ঘর আছে?”; display all three caption lines:
+মেরে কমরে মেঁ বহুত শোর হ্যায়।
+আমার ঘরে খুব শব্দ হয়।
+05–10s
+AUDIO: Say Hindi once: “क्या कोई शांत कमरा है?” Then say its Bangla meaning once: “আরও শান্ত ঘর আছে?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 क्या कोई शांत कमरा है?
-উচ্চারণ: ক্যা কোঈ শান্ত কমরা হ্যায়?
-অর্থ: আরও শান্ত ঘর আছে?
+ক্যা কোঈ শান্ত কমরা হ্যায়?
+আরও শান্ত ঘর আছে?
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 176
@@ -1213,21 +1413,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_176`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: শহরের মানচিত্র চান
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: শহরের মানচিত্র চান
 
-00–05s — say Hindi: “क्या आपके पास शहर का नक्शा है?” THEN say its meaning in Bangla: “আপনাদের কাছে শহরের মানচিত্র আছে?”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “क्या आपके पास शहर का नक्शा है?” Then say its Bangla meaning once: “আপনাদের কাছে শহরের মানচিত্র আছে?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 क्या आपके पास शहर का नक्शा है?
-উচ্চারণ: ক্যা আপকে পাস শহর কা নকশা হ্যায়?
-অর্থ: আপনাদের কাছে শহরের মানচিত্র আছে?
-05–10s — say Hindi: “मैं पुराना शहर देखना चाहती हूँ।” THEN say its meaning in Bangla: “আমি পুরোনো শহর দেখতে চাই।”; display all three caption lines:
+ক্যা আপকে পাস শহর কা নকশা হ্যায়?
+আপনাদের কাছে শহরের মানচিত্র আছে?
+05–10s
+AUDIO: Say Hindi once: “मैं पुराना शहर देखना चाहती हूँ।” Then say its Bangla meaning once: “আমি পুরোনো শহর দেখতে চাই।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मैं पुराना शहर देखना चाहती हूँ।
-উচ্চারণ: ম্যাঁ পুরানা শহর দেখনা চাহতী হুঁ।
-অর্থ: আমি পুরোনো শহর দেখতে চাই।
+ম্যাঁ পুরানা শহর দেখনা চাহতী হুঁ।
+আমি পুরোনো শহর দেখতে চাই।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 177
@@ -1237,21 +1441,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_177`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: প্রবেশের টিকিট কিনুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: প্রবেশের টিকিট কিনুন
 
-00–05s — say Hindi: “मुझे एक प्रवेश टिकट चाहिए।” THEN say its meaning in Bangla: “আমি একটা প্রবেশের টিকিট চাই।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मुझे एक प्रवेश टिकट चाहिए।” Then say its Bangla meaning once: “আমি একটা প্রবেশের টিকিট চাই।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मुझे एक प्रवेश टिकट चाहिए।
-উচ্চারণ: মুঝে এক প্রবেশ টিকট চাহিয়ে।
-অর্থ: আমি একটা প্রবেশের টিকিট চাই।
-05–10s — say Hindi: “क्या छात्रों के लिए छूट है?” THEN say its meaning in Bangla: “শিক্ষার্থীদের জন্য ছাড় আছে?”; display all three caption lines:
+মুঝে এক প্রবেশ টিকট চাহিয়ে।
+আমি একটা প্রবেশের টিকিট চাই।
+05–10s
+AUDIO: Say Hindi once: “क्या छात्रों के लिए छूट है?” Then say its Bangla meaning once: “শিক্ষার্থীদের জন্য ছাড় আছে?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 क्या छात्रों के लिए छूट है?
-উচ্চারণ: ক্যা ছাত্রোঁ কে লিয়ে ছুট হ্যায়?
-অর্থ: শিক্ষার্থীদের জন্য ছাড় আছে?
+ক্যা ছাত্রোঁ কে লিয়ে ছুট হ্যায়?
+শিক্ষার্থীদের জন্য ছাড় আছে?
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 178
@@ -1261,21 +1469,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_178`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: ফ্লাইট দেরি কি না জানুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: ফ্লাইট দেরি কি না জানুন
 
-00–05s — say Hindi: “क्या हमारी उड़ान में देरी है?” THEN say its meaning in Bangla: “আমাদের ফ্লাইট কি দেরি করছে?”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “क्या हमारी उड़ान में देरी है?” Then say its Bangla meaning once: “আমাদের ফ্লাইট কি দেরি করছে?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 क्या हमारी उड़ान में देरी है?
-উচ্চারণ: ক্যা হমারী উড়ান মেঁ দেরী হ্যায়?
-অর্থ: আমাদের ফ্লাইট কি দেরি করছে?
-05–10s — say Hindi: “हम कब चढ़ सकते हैं?” THEN say its meaning in Bangla: “আমরা কখন উঠতে পারব?”; display all three caption lines:
+ক্যা হমারী উড়ান মেঁ দেরী হ্যায়?
+আমাদের ফ্লাইট কি দেরি করছে?
+05–10s
+AUDIO: Say Hindi once: “हम कब चढ़ सकते हैं?” Then say its Bangla meaning once: “আমরা কখন উঠতে পারব?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 हम कब चढ़ सकते हैं?
-উচ্চারণ: হম কব চঢ় সকতে হ্যাঁয়?
-অর্থ: আমরা কখন উঠতে পারব?
+হম কব চঢ় সকতে হ্যাঁয়?
+আমরা কখন উঠতে পারব?
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 179
@@ -1285,21 +1497,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_179`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: লাগেজ না পেলে বলুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: লাগেজ না পেলে বলুন
 
-00–05s — say Hindi: “मेरा सूटकेस नहीं आया है।” THEN say its meaning in Bangla: “আমার স্যুটকেস আসেনি।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मेरा सूटकेस नहीं आया है।” Then say its Bangla meaning once: “আমার স্যুটকেস আসেনি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मेरा सूटकेस नहीं आया है।
-উচ্চারণ: মেরা সুটকেস নহীঁ আয়া হ্যায়।
-অর্থ: আমার স্যুটকেস আসেনি।
-05–10s — say Hindi: “वह काला और काफ़ी बड़ा है।” THEN say its meaning in Bangla: “ওটা কালো আর বেশ বড়।”; display all three caption lines:
+মেরা সুটকেস নহীঁ আয়া হ্যায়।
+আমার স্যুটকেস আসেনি।
+05–10s
+AUDIO: Say Hindi once: “वह काला और काफ़ी बड़ा है।” Then say its Bangla meaning once: “ওটা কালো আর বেশ বড়।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 वह काला और काफ़ी बड़ा है।
-উচ্চারণ: ওহ কালা ঔর কাফী বড়া হ্যায়।
-অর্থ: ওটা কালো আর বেশ বড়।
+ওহ কালা ঔর কাফী বড়া হ্যায়।
+ওটা কালো আর বেশ বড়।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 180
@@ -1309,21 +1525,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_180`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: ছুটির অভিজ্ঞতা বলুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: ছুটির অভিজ্ঞতা বলুন
 
-00–05s — say Hindi: “हम एक हफ़्ता समुद्र के पास थे।” THEN say its meaning in Bangla: “আমরা এক সপ্তাহ সমুদ্রের কাছে ছিলাম।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “हम एक हफ़्ता समुद्र के पास थे।” Then say its Bangla meaning once: “আমরা এক সপ্তাহ সমুদ্রের কাছে ছিলাম।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 हम एक हफ़्ता समुद्र के पास थे।
-উচ্চারণ: হম এক হফতা সমুদ্র কে পাস থে।
-অর্থ: আমরা এক সপ্তাহ সমুদ্রের কাছে ছিলাম।
-05–10s — say Hindi: “मौसम बहुत अच्छा था।” THEN say its meaning in Bangla: “আবহাওয়া চমৎকার ছিল।”; display all three caption lines:
+হম এক হফতা সমুদ্র কে পাস থে।
+আমরা এক সপ্তাহ সমুদ্রের কাছে ছিলাম।
+05–10s
+AUDIO: Say Hindi once: “मौसम बहुत अच्छा था।” Then say its Bangla meaning once: “আবহাওয়া চমৎকার ছিল।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मौसम बहुत अच्छा था।
-উচ্চারণ: মৌসম বহুত অচ্ছা থা।
-অর্থ: আবহাওয়া চমৎকার ছিল।
+মৌসম বহুত অচ্ছা থা।
+আবহাওয়া চমৎকার ছিল।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 181
@@ -1333,21 +1553,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_181`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: অনলাইনে সময় বুক করুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: অনলাইনে সময় বুক করুন
 
-00–05s — say Hindi: “मैं ऑनलाइन समय बुक करना चाहती हूँ।” THEN say its meaning in Bangla: “আমি অনলাইনে অ্যাপয়েন্টমেন্ট নিতে চাই।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मैं ऑनलाइन समय बुक करना चाहती हूँ।” Then say its Bangla meaning once: “আমি অনলাইনে অ্যাপয়েন্টমেন্ট নিতে চাই।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मैं ऑनलाइन समय बुक करना चाहती हूँ।
-উচ্চারণ: ম্যাঁ অনলাইন সময় বুক করনা চাহতী হুঁ।
-অর্থ: আমি অনলাইনে অ্যাপয়েন্টমেন্ট নিতে চাই।
-05–10s — say Hindi: “मुझे कौन से कागज़ चाहिए?” THEN say its meaning in Bangla: “আমার কী কাগজপত্র লাগবে?”; display all three caption lines:
+ম্যাঁ অনলাইন সময় বুক করনা চাহতী হুঁ।
+আমি অনলাইনে অ্যাপয়েন্টমেন্ট নিতে চাই।
+05–10s
+AUDIO: Say Hindi once: “मुझे कौन से कागज़ चाहिए?” Then say its Bangla meaning once: “আমার কী কাগজপত্র লাগবে?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मुझे कौन से कागज़ चाहिए?
-উচ্চারণ: মুঝে কৌন সে কাগজ চাহিয়ে?
-অর্থ: আমার কী কাগজপত্র লাগবে?
+মুঝে কৌন সে কাগজ চাহিয়ে?
+আমার কী কাগজপত্র লাগবে?
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 182
@@ -1357,21 +1581,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_182`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: অ্যাপয়েন্টমেন্টের দিন বদলান
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: অ্যাপয়েন্টমেন্টের দিন বদলান
 
-00–05s — say Hindi: “मुझे अपना अपॉइंटमेंट बदलना है।” THEN say its meaning in Bangla: “আমার অ্যাপয়েন্টমেন্ট বদলাতে হবে।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मुझे अपना अपॉइंटमेंट बदलना है।” Then say its Bangla meaning once: “আমার অ্যাপয়েন্টমেন্ট বদলাতে হবে।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मुझे अपना अपॉइंटमेंट बदलना है।
-উচ্চারণ: মুঝে অপনা অপয়েন্টমেন্ট বদলনা হ্যায়।
-অর্থ: আমার অ্যাপয়েন্টমেন্ট বদলাতে হবে।
-05–10s — say Hindi: “क्या अगला हफ़्ता आपके लिए ठीक है?” THEN say its meaning in Bangla: “আগামী সপ্তাহে আপনার সুবিধা হবে?”; display all three caption lines:
+মুঝে অপনা অপয়েন্টমেন্ট বদলনা হ্যায়।
+আমার অ্যাপয়েন্টমেন্ট বদলাতে হবে।
+05–10s
+AUDIO: Say Hindi once: “क्या अगला हफ़्ता आपके लिए ठीक है?” Then say its Bangla meaning once: “আগামী সপ্তাহে আপনার সুবিধা হবে?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 क्या अगला हफ़्ता आपके लिए ठीक है?
-উচ্চারণ: ক্যা অগলা হফতা আপকে লিয়ে ঠীক হ্যায়?
-অর্থ: আগামী সপ্তাহে আপনার সুবিধা হবে?
+ক্যা অগলা হফতা আপকে লিয়ে ঠীক হ্যায়?
+আগামী সপ্তাহে আপনার সুবিধা হবে?
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 183
@@ -1381,21 +1609,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_183`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: অ্যাপয়েন্টমেন্ট বাতিল করুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: অ্যাপয়েন্টমেন্ট বাতিল করুন
 
-00–05s — say Hindi: “मैं अपना अपॉइंटमेंट रद्द करना चाहती हूँ।” THEN say its meaning in Bangla: “আমি অ্যাপয়েন্টমেন্ট বাতিল করতে চাই।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मैं अपना अपॉइंटमेंट रद्द करना चाहती हूँ।” Then say its Bangla meaning once: “আমি অ্যাপয়েন্টমেন্ট বাতিল করতে চাই।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मैं अपना अपॉइंटमेंट रद्द करना चाहती हूँ।
-উচ্চারণ: ম্যাঁ অপনা অপয়েন্টমেন্ট রদ্দ করনা চাহতী হুঁ।
-অর্থ: আমি অ্যাপয়েন্টমেন্ট বাতিল করতে চাই।
-05–10s — say Hindi: “माफ़ कीजिए, मैं कल नहीं आ सकती।” THEN say its meaning in Bangla: “দুঃখিত, কাল আসতে পারব না।”; display all three caption lines:
+ম্যাঁ অপনা অপয়েন্টমেন্ট রদ্দ করনা চাহতী হুঁ।
+আমি অ্যাপয়েন্টমেন্ট বাতিল করতে চাই।
+05–10s
+AUDIO: Say Hindi once: “माफ़ कीजिए, मैं कल नहीं आ सकती।” Then say its Bangla meaning once: “দুঃখিত, কাল আসতে পারব না।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 माफ़ कीजिए, मैं कल नहीं आ सकती।
-উচ্চারণ: মাফ কীজিয়ে, ম্যাঁ কল নহীঁ আ সকতী।
-অর্থ: দুঃখিত, কাল আসতে পারব না।
+মাফ কীজিয়ে, ম্যাঁ কল নহীঁ আ সকতী।
+দুঃখিত, কাল আসতে পারব না।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 184
@@ -1405,21 +1637,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_184`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: ঠিকানা নিবন্ধন করুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: ঠিকানা নিবন্ধন করুন
 
-00–05s — say Hindi: “मुझे अपना नया पता दर्ज करवाना है।” THEN say its meaning in Bangla: “আমি বাসার ঠিকানা নিবন্ধন করতে চাই।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मुझे अपना नया पता दर्ज करवाना है।” Then say its Bangla meaning once: “আমি বাসার ঠিকানা নিবন্ধন করতে চাই।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मुझे अपना नया पता दर्ज करवाना है।
-উচ্চারণ: মুঝে অপনা নয়া পতা দর্জ করবানা হ্যায়।
-অর্থ: আমি বাসার ঠিকানা নিবন্ধন করতে চাই।
-05–10s — say Hindi: “मैंने अभी घर बदला है।” THEN say its meaning in Bangla: “আমি সদ্য বাসা বদলেছি।”; display all three caption lines:
+মুঝে অপনা নয়া পতা দর্জ করবানা হ্যায়।
+আমি বাসার ঠিকানা নিবন্ধন করতে চাই।
+05–10s
+AUDIO: Say Hindi once: “मैंने अभी घर बदला है।” Then say its Bangla meaning once: “আমি সদ্য বাসা বদলেছি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मैंने अभी घर बदला है।
-উচ্চারণ: ম্যাঁনে অভী ঘর বদলা হ্যায়।
-অর্থ: আমি সদ্য বাসা বদলেছি।
+ম্যাঁনে অভী ঘর বদলা হ্যায়।
+আমি সদ্য বাসা বদলেছি।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 185
@@ -1429,21 +1665,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_185`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: ফরম চাইতে শিখুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: ফরম চাইতে শিখুন
 
-00–05s — say Hindi: “मुझे एक फ़ॉर्म चाहिए।” THEN say its meaning in Bangla: “আমার একটা ফরম লাগবে।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मुझे एक फ़ॉर्म चाहिए।” Then say its Bangla meaning once: “আমার একটা ফরম লাগবে।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मुझे एक फ़ॉर्म चाहिए।
-উচ্চারণ: মুঝে এক ফর্ম চাহিয়ে।
-অর্থ: আমার একটা ফরম লাগবে।
-05–10s — say Hindi: “यह कहाँ मिलेगा?” THEN say its meaning in Bangla: “ওটা কোথায় পাব?”; display all three caption lines:
+মুঝে এক ফর্ম চাহিয়ে।
+আমার একটা ফরম লাগবে।
+05–10s
+AUDIO: Say Hindi once: “यह कहाँ मिलेगा?” Then say its Bangla meaning once: “ওটা কোথায় পাব?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 यह कहाँ मिलेगा?
-উচ্চারণ: ইয়হ কহাঁ মিলেগা?
-অর্থ: ওটা কোথায় পাব?
+ইয়হ কহাঁ মিলেগা?
+ওটা কোথায় পাব?
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 186
@@ -1453,21 +1693,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_186`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: কোথায় স্বাক্ষর করবেন জানুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: কোথায় স্বাক্ষর করবেন জানুন
 
-00–05s — say Hindi: “मुझे कहाँ हस्ताक्षर करने हैं?” THEN say its meaning in Bangla: “কোথায় স্বাক্ষর করতে হবে?”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मुझे कहाँ हस्ताक्षर करने हैं?” Then say its Bangla meaning once: “কোথায় স্বাক্ষর করতে হবে?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मुझे कहाँ हस्ताक्षर करने हैं?
-উচ্চারণ: মুঝে কহাঁ হস্তাক্‌শর করনে হ্যাঁয়?
-অর্থ: কোথায় স্বাক্ষর করতে হবে?
-05–10s — say Hindi: “मैंने सब भर दिया है।” THEN say its meaning in Bangla: “আমি সব পূরণ করেছি।”; display all three caption lines:
+মুঝে কহাঁ হস্তাক্‌শর করনে হ্যাঁয়?
+কোথায় স্বাক্ষর করতে হবে?
+05–10s
+AUDIO: Say Hindi once: “मैंने सब भर दिया है।” Then say its Bangla meaning once: “আমি সব পূরণ করেছি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मैंने सब भर दिया है।
-উচ্চারণ: ম্যাঁনে সব ভর দিয়া হ্যায়।
-অর্থ: আমি সব পূরণ করেছি।
+ম্যাঁনে সব ভর দিয়া হ্যায়।
+আমি সব পূরণ করেছি।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 187
@@ -1477,21 +1721,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_187`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: কাগজপত্র বাকি কি না জানুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: কাগজপত্র বাকি কি না জানুন
 
-00–05s — say Hindi: “क्या कोई कागज़ बाकी है?” THEN say its meaning in Bangla: “আর কোনো কাগজ বাকি আছে?”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “क्या कोई कागज़ बाकी है?” Then say its Bangla meaning once: “আর কোনো কাগজ বাকি আছে?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 क्या कोई कागज़ बाकी है?
-উচ্চারণ: ক্যা কোঈ কাগজ বাকী হ্যায়?
-অর্থ: আর কোনো কাগজ বাকি আছে?
-05–10s — say Hindi: “मैं इसे कल ला सकती हूँ।” THEN say its meaning in Bangla: “আমি কাল নিয়ে আসতে পারি।”; display all three caption lines:
+ক্যা কোঈ কাগজ বাকী হ্যায়?
+আর কোনো কাগজ বাকি আছে?
+05–10s
+AUDIO: Say Hindi once: “मैं इसे कल ला सकती हूँ।” Then say its Bangla meaning once: “আমি কাল নিয়ে আসতে পারি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मैं इसे कल ला सकती हूँ।
-উচ্চারণ: ম্যাঁ ইসে কল লা সকতী হুঁ।
-অর্থ: আমি কাল নিয়ে আসতে পারি।
+ম্যাঁ ইসে কল লা সকতী হুঁ।
+আমি কাল নিয়ে আসতে পারি।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 188
@@ -1501,21 +1749,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_188`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: কতক্ষণ অপেক্ষা জানতে চান
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: কতক্ষণ অপেক্ষা জানতে চান
 
-00–05s — say Hindi: “कितनी देर इंतज़ार करना होगा?” THEN say its meaning in Bangla: “কতক্ষণ অপেক্ষা করতে হবে?”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “कितनी देर इंतज़ार करना होगा?” Then say its Bangla meaning once: “কতক্ষণ অপেক্ষা করতে হবে?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 कितनी देर इंतज़ार करना होगा?
-উচ্চারণ: কিতনী দের ইনতজার করনা হোগা?
-অর্থ: কতক্ষণ অপেক্ষা করতে হবে?
-05–10s — say Hindi: “मैंने एक टोकन लिया है।” THEN say its meaning in Bangla: “আমি একটা টোকেন নিয়েছি।”; display all three caption lines:
+কিতনী দের ইনতজার করনা হোগা?
+কতক্ষণ অপেক্ষা করতে হবে?
+05–10s
+AUDIO: Say Hindi once: “मैंने एक टोकन लिया है।” Then say its Bangla meaning once: “আমি একটা টোকেন নিয়েছি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मैंने एक टोकन लिया है।
-উচ্চারণ: ম্যাঁনে এক টোকন লিয়া হ্যায়।
-অর্থ: আমি একটা টোকেন নিয়েছি।
+ম্যাঁনে এক টোকন লিয়া হ্যায়।
+আমি একটা টোকেন নিয়েছি।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 189
@@ -1525,21 +1777,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_189`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: লিখিত নিশ্চয়তা চান
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: লিখিত নিশ্চয়তা চান
 
-00–05s — say Hindi: “क्या मुझे लिखित पुष्टि मिलेगी?” THEN say its meaning in Bangla: “আমি কি লিখিত নিশ্চয়তা পেতে পারি?”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “क्या मुझे लिखित पुष्टि मिलेगी?” Then say its Bangla meaning once: “আমি কি লিখিত নিশ্চয়তা পেতে পারি?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 क्या मुझे लिखित पुष्टि मिलेगी?
-উচ্চারণ: ক্যা মুঝে লিখিত পুষ্টি মিলেগী?
-অর্থ: আমি কি লিখিত নিশ্চয়তা পেতে পারি?
-05–10s — say Hindi: “कृपया इसे ईमेल से भेजिए।” THEN say its meaning in Bangla: “দয়া করে ইমেইলে পাঠান।”; display all three caption lines:
+ক্যা মুঝে লিখিত পুষ্টি মিলেগী?
+আমি কি লিখিত নিশ্চয়তা পেতে পারি?
+05–10s
+AUDIO: Say Hindi once: “कृपया इसे ईमेल से भेजिए।” Then say its Bangla meaning once: “দয়া করে ইমেইলে পাঠান।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 कृपया इसे ईमेल से भेजिए।
-উচ্চারণ: কৃপয়া ইসে ঈমেল সে ভেজিয়ে।
-অর্থ: দয়া করে ইমেইলে পাঠান।
+কৃপয়া ইসে ঈমেল সে ভেজিয়ে।
+দয়া করে ইমেইলে পাঠান।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 190
@@ -1549,21 +1805,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_190`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: নতুন ঠিকানা জানান
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: নতুন ঠিকানা জানান
 
-00–05s — say Hindi: “मेरा पता बदल गया है।” THEN say its meaning in Bangla: “আমার ঠিকানা বদলেছে।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मेरा पता बदल गया है।” Then say its Bangla meaning once: “আমার ঠিকানা বদলেছে।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मेरा पता बदल गया है।
-উচ্চারণ: মেরা পতা বদল গয়া হ্যায়।
-অর্থ: আমার ঠিকানা বদলেছে।
-05–10s — say Hindi: “मैं आपको नया पता देती हूँ।” THEN say its meaning in Bangla: “আপনাকে নতুন ঠিকানা দিচ্ছি।”; display all three caption lines:
+মেরা পতা বদল গয়া হ্যায়।
+আমার ঠিকানা বদলেছে।
+05–10s
+AUDIO: Say Hindi once: “मैं आपको नया पता देती हूँ।” Then say its Bangla meaning once: “আপনাকে নতুন ঠিকানা দিচ্ছি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मैं आपको नया पता देती हूँ।
-উচ্চারণ: ম্যাঁ আপকো নয়া পতা দেতী হুঁ।
-অর্থ: আপনাকে নতুন ঠিকানা দিচ্ছি।
+ম্যাঁ আপকো নয়া পতা দেতী হুঁ।
+আপনাকে নতুন ঠিকানা দিচ্ছি।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 191
@@ -1573,21 +1833,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_191`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: ব্যাংক হিসাব খুলুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: ব্যাংক হিসাব খুলুন
 
-00–05s — say Hindi: “मैं बैंक खाता खोलना चाहती हूँ।” THEN say its meaning in Bangla: “আমি একটা ব্যাংক হিসাব খুলতে চাই।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मैं बैंक खाता खोलना चाहती हूँ।” Then say its Bangla meaning once: “আমি একটা ব্যাংক হিসাব খুলতে চাই।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मैं बैंक खाता खोलना चाहती हूँ।
-উচ্চারণ: ম্যাঁ ব্যাঙ্ক খাতা খোলনা চাহতী হুঁ।
-অর্থ: আমি একটা ব্যাংক হিসাব খুলতে চাই।
-05–10s — say Hindi: “आपको कौन से दस्तावेज़ चाहिए?” THEN say its meaning in Bangla: “আপনাদের কী কাগজপত্র লাগবে?”; display all three caption lines:
+ম্যাঁ ব্যাঙ্ক খাতা খোলনা চাহতী হুঁ।
+আমি একটা ব্যাংক হিসাব খুলতে চাই।
+05–10s
+AUDIO: Say Hindi once: “आपको कौन से दस्तावेज़ चाहिए?” Then say its Bangla meaning once: “আপনাদের কী কাগজপত্র লাগবে?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 आपको कौन से दस्तावेज़ चाहिए?
-উচ্চারণ: আপকো কৌন সে দস্তাবেজ চাহিয়ে?
-অর্থ: আপনাদের কী কাগজপত্র লাগবে?
+আপকো কৌন সে দস্তাবেজ চাহিয়ে?
+আপনাদের কী কাগজপত্র লাগবে?
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 192
@@ -1597,21 +1861,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_192`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: এটিএম খুঁজে নিন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: এটিএম খুঁজে নিন
 
-00–05s — say Hindi: “पास का एटीएम कहाँ है?” THEN say its meaning in Bangla: “কাছের এটিএম কোথায়?”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “पास का एटीएम कहाँ है?” Then say its Bangla meaning once: “কাছের এটিএম কোথায়?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 पास का एटीएम कहाँ है?
-উচ্চারণ: পাস কা এটিএম কহাঁ হ্যায়?
-অর্থ: কাছের এটিএম কোথায়?
-05–10s — say Hindi: “मुझे पैसे निकालने हैं।” THEN say its meaning in Bangla: “আমাকে টাকা তুলতে হবে।”; display all three caption lines:
+পাস কা এটিএম কহাঁ হ্যায়?
+কাছের এটিএম কোথায়?
+05–10s
+AUDIO: Say Hindi once: “मुझे पैसे निकालने हैं।” Then say its Bangla meaning once: “আমাকে টাকা তুলতে হবে।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मुझे पैसे निकालने हैं।
-উচ্চারণ: মুঝে প্যায়সে নিকালনে হ্যাঁয়।
-অর্থ: আমাকে টাকা তুলতে হবে।
+মুঝে প্যায়সে নিকালনে হ্যাঁয়।
+আমাকে টাকা তুলতে হবে।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 193
@@ -1621,21 +1889,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_193`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: ব্যাংক কার্ড হারালে বলুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: ব্যাংক কার্ড হারালে বলুন
 
-00–05s — say Hindi: “मेरा बैंक कार्ड खो गया है।” THEN say its meaning in Bangla: “আমি ব্যাংক কার্ড হারিয়েছি।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मेरा बैंक कार्ड खो गया है।” Then say its Bangla meaning once: “আমি ব্যাংক কার্ড হারিয়েছি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मेरा बैंक कार्ड खो गया है।
-উচ্চারণ: মেরা ব্যাঙ্ক কার্ড খো গয়া হ্যায়।
-অর্থ: আমি ব্যাংক কার্ড হারিয়েছি।
-05–10s — say Hindi: “कृपया कार्ड बंद कर दीजिए।” THEN say its meaning in Bangla: “দয়া করে কার্ডটি বন্ধ করুন।”; display all three caption lines:
+মেরা ব্যাঙ্ক কার্ড খো গয়া হ্যায়।
+আমি ব্যাংক কার্ড হারিয়েছি।
+05–10s
+AUDIO: Say Hindi once: “कृपया कार्ड बंद कर दीजिए।” Then say its Bangla meaning once: “দয়া করে কার্ডটি বন্ধ করুন।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 कृपया कार्ड बंद कर दीजिए।
-উচ্চারণ: কৃপয়া কার্ড বন্দ কর দীজিয়ে।
-অর্থ: দয়া করে কার্ডটি বন্ধ করুন।
+কৃপয়া কার্ড বন্দ কর দীজিয়ে।
+দয়া করে কার্ডটি বন্ধ করুন।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 194
@@ -1645,21 +1917,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_194`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: টাকা কাটার কারণ জানুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: টাকা কাটার কারণ জানুন
 
-00–05s — say Hindi: “मुझे यह कटौती समझ नहीं आ रही।” THEN say its meaning in Bangla: “এই টাকা কাটা বুঝতে পারছি না।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मुझे यह कटौती समझ नहीं आ रही।” Then say its Bangla meaning once: “এই টাকা কাটা বুঝতে পারছি না।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मुझे यह कटौती समझ नहीं आ रही।
-উচ্চারণ: মুঝে ইয়হ কটৌতী সমঝ নহীঁ আ রহী।
-অর্থ: এই টাকা কাটা বুঝতে পারছি না।
-05–10s — say Hindi: “क्या आप इसकी जाँच करेंगे?” THEN say its meaning in Bangla: “দয়া করে পরীক্ষা করবেন?”; display all three caption lines:
+মুঝে ইয়হ কটৌতী সমঝ নহীঁ আ রহী।
+এই টাকা কাটা বুঝতে পারছি না।
+05–10s
+AUDIO: Say Hindi once: “क्या आप इसकी जाँच करेंगे?” Then say its Bangla meaning once: “দয়া করে পরীক্ষা করবেন?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 क्या आप इसकी जाँच करेंगे?
-উচ্চারণ: ক্যা আপ ইসকী জাঁচ করেঙ্গে?
-অর্থ: দয়া করে পরীক্ষা করবেন?
+ক্যা আপ ইসকী জাঁচ করেঙ্গে?
+দয়া করে পরীক্ষা করবেন?
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 195
@@ -1669,21 +1945,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_195`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: পার্সেল পাঠাতে বলুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: পার্সেল পাঠাতে বলুন
 
-00–05s — say Hindi: “मैं यह पार्सल भेजना चाहती हूँ।” THEN say its meaning in Bangla: “আমি এই পার্সেল পাঠাতে চাই।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मैं यह पार्सल भेजना चाहती हूँ।” Then say its Bangla meaning once: “আমি এই পার্সেল পাঠাতে চাই।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मैं यह पार्सल भेजना चाहती हूँ।
-উচ্চারণ: ম্যাঁ ইয়হ পার্সল ভেজনা চাহতী হুঁ।
-অর্থ: আমি এই পার্সেল পাঠাতে চাই।
-05–10s — say Hindi: “इसे मुंबई जाना है।” THEN say its meaning in Bangla: “এটা মুম্বাইে যাবে।”; display all three caption lines:
+ম্যাঁ ইয়হ পার্সল ভেজনা চাহতী হুঁ।
+আমি এই পার্সেল পাঠাতে চাই।
+05–10s
+AUDIO: Say Hindi once: “इसे मुंबई जाना है।” Then say its Bangla meaning once: “এটা মুম্বাইে যাবে।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 इसे मुंबई जाना है।
-উচ্চারণ: ইসে মুম্বঈ জানা হ্যায়।
-অর্থ: এটা মুম্বাইে যাবে।
+ইসে মুম্বঈ জানা হ্যায়।
+এটা মুম্বাইে যাবে।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 196
@@ -1693,21 +1973,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_196`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: ডাকটিকিট কিনুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: ডাকটিকিট কিনুন
 
-00–05s — say Hindi: “मुझे एक डाक टिकट चाहिए।” THEN say its meaning in Bangla: “আমার একটা ডাকটিকিট লাগবে।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मुझे एक डाक टिकट चाहिए।” Then say its Bangla meaning once: “আমার একটা ডাকটিকিট লাগবে।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मुझे एक डाक टिकट चाहिए।
-উচ্চারণ: মুঝে এক ডাক টিকট চাহিয়ে।
-অর্থ: আমার একটা ডাকটিকিট লাগবে।
-05–10s — say Hindi: “यह चिट्ठी फ़्रांस जाएगी।” THEN say its meaning in Bangla: “চিঠিটা ফ্রান্সে যাবে।”; display all three caption lines:
+মুঝে এক ডাক টিকট চাহিয়ে।
+আমার একটা ডাকটিকিট লাগবে।
+05–10s
+AUDIO: Say Hindi once: “यह चिट्ठी फ़्रांस जाएगी।” Then say its Bangla meaning once: “চিঠিটা ফ্রান্সে যাবে।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 यह चिट्ठी फ़्रांस जाएगी।
-উচ্চারণ: ইয়হ চিট্ঠী ফ্রাঁস জাএগী।
-অর্থ: চিঠিটা ফ্রান্সে যাবে।
+ইয়হ চিট্ঠী ফ্রাঁস জাএগী।
+চিঠিটা ফ্রান্সে যাবে।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 197
@@ -1717,21 +2001,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_197`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: পার্সেল নিতে বলুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: পার্সেল নিতে বলুন
 
-00–05s — say Hindi: “मैं अपना पार्सल लेने आई हूँ।” THEN say its meaning in Bangla: “আমি আমার পার্সেল নিতে এসেছি।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मैं अपना पार्सल लेने आई हूँ।” Then say its Bangla meaning once: “আমি আমার পার্সেল নিতে এসেছি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मैं अपना पार्सल लेने आई हूँ।
-উচ্চারণ: ম্যাঁ অপনা পার্সল লেনে আঈ হুঁ।
-অর্থ: আমি আমার পার্সেল নিতে এসেছি।
-05–10s — say Hindi: “यह मेरा पहचान पत्र है।” THEN say its meaning in Bangla: “এই নিন পরিচয়পত্র।”; display all three caption lines:
+ম্যাঁ অপনা পার্সল লেনে আঈ হুঁ।
+আমি আমার পার্সেল নিতে এসেছি।
+05–10s
+AUDIO: Say Hindi once: “यह मेरा पहचान पत्र है।” Then say its Bangla meaning once: “এই নিন পরিচয়পত্র।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 यह मेरा पहचान पत्र है।
-উচ্চারণ: ইয়হ মেরা পহচান পত্র হ্যায়।
-অর্থ: এই নিন পরিচয়পত্র।
+ইয়হ মেরা পহচান পত্র হ্যায়।
+এই নিন পরিচয়পত্র।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 198
@@ -1741,21 +2029,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_198`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: পার্সেল না এলে জানান
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: পার্সেল না এলে জানান
 
-00–05s — say Hindi: “मेरा पार्सल अभी तक नहीं आया।” THEN say its meaning in Bangla: “আমার পার্সেল এখনো আসেনি।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मेरा पार्सल अभी तक नहीं आया।” Then say its Bangla meaning once: “আমার পার্সেল এখনো আসেনি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मेरा पार्सल अभी तक नहीं आया।
-উচ্চারণ: মেরা পার্সল অভী তক নহীঁ আয়া।
-অর্থ: আমার পার্সেল এখনো আসেনি।
-05–10s — say Hindi: “क्या आप पार्सल का पता लगाएँगे?” THEN say its meaning in Bangla: “পার্সেলের খোঁজ দেখবেন?”; display all three caption lines:
+মেরা পার্সল অভী তক নহীঁ আয়া।
+আমার পার্সেল এখনো আসেনি।
+05–10s
+AUDIO: Say Hindi once: “क्या आप पार्सल का पता लगाएँगे?” Then say its Bangla meaning once: “পার্সেলের খোঁজ দেখবেন?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 क्या आप पार्सल का पता लगाएँगे?
-উচ্চারণ: ক্যা আপ পার্সল কা পতা লগাএঁগে?
-অর্থ: পার্সেলের খোঁজ দেখবেন?
+ক্যা আপ পার্সল কা পতা লগাএঁগে?
+পার্সেলের খোঁজ দেখবেন?
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 199
@@ -1765,21 +2057,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_199`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: ভুল পণ্য ফেরত দিন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: ভুল পণ্য ফেরত দিন
 
-00–05s — say Hindi: “मुझे गलत सामान मिला है।” THEN say its meaning in Bangla: “আমি ভুল পণ্য পেয়েছি।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मुझे गलत सामान मिला है।” Then say its Bangla meaning once: “আমি ভুল পণ্য পেয়েছি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मुझे गलत सामान मिला है।
-উচ্চারণ: মুঝে গলত সামান মিলা হ্যায়।
-অর্থ: আমি ভুল পণ্য পেয়েছি।
-05–10s — say Hindi: “मैं इसे वापस भेजना चाहती हूँ।” THEN say its meaning in Bangla: “আমি ওটা ফেরত পাঠাতে চাই।”; display all three caption lines:
+মুঝে গলত সামান মিলা হ্যায়।
+আমি ভুল পণ্য পেয়েছি।
+05–10s
+AUDIO: Say Hindi once: “मैं इसे वापस भेजना चाहती हूँ।” Then say its Bangla meaning once: “আমি ওটা ফেরত পাঠাতে চাই।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मैं इसे वापस भेजना चाहती हूँ।
-উচ্চারণ: ম্যাঁ ইসে বাপস ভেজনা চাহতী হুঁ।
-অর্থ: আমি ওটা ফেরত পাঠাতে চাই।
+ম্যাঁ ইসে বাপস ভেজনা চাহতী হুঁ।
+আমি ওটা ফেরত পাঠাতে চাই।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 200
@@ -1789,21 +2085,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_200`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: ব্যাগ হারালে খোঁজ নিন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: ব্যাগ হারালে খোঁজ নিন
 
-00–05s — say Hindi: “मेरा बैग खो गया है।” THEN say its meaning in Bangla: “আমি আমার ব্যাগ হারিয়েছি।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मेरा बैग खो गया है।” Then say its Bangla meaning once: “আমি আমার ব্যাগ হারিয়েছি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मेरा बैग खो गया है।
-উচ্চারণ: মেরা ব্যাগ খো গয়া হ্যায়।
-অর্থ: আমি আমার ব্যাগ হারিয়েছি।
-05–10s — say Hindi: “खोया-पाया दफ़्तर कहाँ है?” THEN say its meaning in Bangla: “হারানো জিনিসের অফিস কোথায়?”; display all three caption lines:
+মেরা ব্যাগ খো গয়া হ্যায়।
+আমি আমার ব্যাগ হারিয়েছি।
+05–10s
+AUDIO: Say Hindi once: “खोया-पाया दफ़्तर कहाँ है?” Then say its Bangla meaning once: “হারানো জিনিসের অফিস কোথায়?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 खोया-पाया दफ़्तर कहाँ है?
-উচ্চারণ: খোয়া-পায়া দফতর কহাঁ হ্যায়?
-অর্থ: হারানো জিনিসের অফিস কোথায়?
+খোয়া-পায়া দফতর কহাঁ হ্যায়?
+হারানো জিনিসের অফিস কোথায়?
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 201
@@ -1813,21 +2113,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_201`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: রাতের খাবারের দাওয়াত দিন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: রাতের খাবারের দাওয়াত দিন
 
-00–05s — say Hindi: “क्या तुम हमारे साथ खाना खाओगे?” THEN say its meaning in Bangla: “আমাদের সঙ্গে খেতে চাও?”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “क्या तुम हमारे साथ खाना खाओगे?” Then say its Bangla meaning once: “আমাদের সঙ্গে খেতে চাও?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 क्या तुम हमारे साथ खाना खाओगे?
-উচ্চারণ: ক্যা তুম হমারে সাথ খানা খাওগে?
-অর্থ: আমাদের সঙ্গে খেতে চাও?
-05–10s — say Hindi: “आज शाम हम साथ खाना बनाएँगे।” THEN say its meaning in Bangla: “আজ সন্ধ্যায় আমরা একসঙ্গে রান্না করব।”; display all three caption lines:
+ক্যা তুম হমারে সাথ খানা খাওগে?
+আমাদের সঙ্গে খেতে চাও?
+05–10s
+AUDIO: Say Hindi once: “आज शाम हम साथ खाना बनाएँगे।” Then say its Bangla meaning once: “আজ সন্ধ্যায় আমরা একসঙ্গে রান্না করব।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 आज शाम हम साथ खाना बनाएँगे।
-উচ্চারণ: আজ শাম হম সাথ খানা বনাএঁগে।
-অর্থ: আজ সন্ধ্যায় আমরা একসঙ্গে রান্না করব।
+আজ শাম হম সাথ খানা বনাএঁগে।
+আজ সন্ধ্যায় আমরা একসঙ্গে রান্না করব।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 202
@@ -1837,21 +2141,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_202`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: দাওয়াত গ্রহণ করুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: দাওয়াত গ্রহণ করুন
 
-00–05s — say Hindi: “मैं खुशी से तुम्हारी पार्टी में आऊँगी।” THEN say its meaning in Bangla: “তোমার অনুষ্ঠানে আনন্দের সঙ্গে আসব।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मैं खुशी से तुम्हारी पार्टी में आऊँगी।” Then say its Bangla meaning once: “তোমার অনুষ্ঠানে আনন্দের সঙ্গে আসব।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मैं खुशी से तुम्हारी पार्टी में आऊँगी।
-উচ্চারণ: ম্যাঁ খুশী সে তুমহারী পার্টী মেঁ আউঁগী।
-অর্থ: তোমার অনুষ্ঠানে আনন্দের সঙ্গে আসব।
-05–10s — say Hindi: “क्या मैं कुछ साथ लाऊँ?” THEN say its meaning in Bangla: “কিছু নিয়ে আসব?”; display all three caption lines:
+ম্যাঁ খুশী সে তুমহারী পার্টী মেঁ আউঁগী।
+তোমার অনুষ্ঠানে আনন্দের সঙ্গে আসব।
+05–10s
+AUDIO: Say Hindi once: “क्या मैं कुछ साथ लाऊँ?” Then say its Bangla meaning once: “কিছু নিয়ে আসব?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 क्या मैं कुछ साथ लाऊँ?
-উচ্চারণ: ক্যা ম্যাঁ কুছ সাথ লাউঁ?
-অর্থ: কিছু নিয়ে আসব?
+ক্যা ম্যাঁ কুছ সাথ লাউঁ?
+কিছু নিয়ে আসব?
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 203
@@ -1861,21 +2169,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_203`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: ভদ্রভাবে না বলুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: ভদ্রভাবে না বলুন
 
-00–05s — say Hindi: “मैं आना तो चाहती हूँ।” THEN say its meaning in Bangla: “আমি আসতে চাইতাম।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मैं आना तो चाहती हूँ।” Then say its Bangla meaning once: “আমি আসতে চাইতাম।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मैं आना तो चाहती हूँ।
-উচ্চারণ: ম্যাঁ আনা তো চাহতী হুঁ।
-অর্থ: আমি আসতে চাইতাম।
-05–10s — say Hindi: “लेकिन पहले से कुछ और तय है।” THEN say its meaning in Bangla: “দুঃখিত, আগে থেকেই অন্য পরিকল্পনা আছে।”; display all three caption lines:
+ম্যাঁ আনা তো চাহতী হুঁ।
+আমি আসতে চাইতাম।
+05–10s
+AUDIO: Say Hindi once: “लेकिन पहले से कुछ और तय है।” Then say its Bangla meaning once: “দুঃখিত, আগে থেকেই অন্য পরিকল্পনা আছে।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 लेकिन पहले से कुछ और तय है।
-উচ্চারণ: লেকিন পহলে সে কুছ ঔর তয় হ্যায়।
-অর্থ: দুঃখিত, আগে থেকেই অন্য পরিকল্পনা আছে।
+লেকিন পহলে সে কুছ ঔর তয় হ্যায়।
+দুঃখিত, আগে থেকেই অন্য পরিকল্পনা আছে।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 204
@@ -1885,21 +2197,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_204`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: অন্য দিনের প্রস্তাব দিন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: অন্য দিনের প্রস্তাব দিন
 
-00–05s — say Hindi: “आज मैं नहीं आ पाऊँगी।” THEN say its meaning in Bangla: “আজ আর পেরে উঠব না।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “आज मैं नहीं आ पाऊँगी।” Then say its Bangla meaning once: “আজ আর পেরে উঠব না।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 आज मैं नहीं आ पाऊँगी।
-উচ্চারণ: আজ ম্যাঁ নহীঁ আ পাউঁগী।
-অর্থ: আজ আর পেরে উঠব না।
-05–10s — say Hindi: “कल मिलें तो कैसा रहेगा?” THEN say its meaning in Bangla: “কাল হলে কেমন হয়?”; display all three caption lines:
+আজ ম্যাঁ নহীঁ আ পাউঁগী।
+আজ আর পেরে উঠব না।
+05–10s
+AUDIO: Say Hindi once: “कल मिलें तो कैसा रहेगा?” Then say its Bangla meaning once: “কাল হলে কেমন হয়?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 कल मिलें तो कैसा रहेगा?
-উচ্চারণ: কল মিলেঁ তো ক্যায়সা রহেগা?
-অর্থ: কাল হলে কেমন হয়?
+কল মিলেঁ তো ক্যায়সা রহেগা?
+কাল হলে কেমন হয়?
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 205
@@ -1909,21 +2225,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_205`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: দেখা করার জায়গা ঠিক করুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: দেখা করার জায়গা ঠিক করুন
 
-00–05s — say Hindi: “चलो सिनेमाघर के सामने मिलते हैं।” THEN say its meaning in Bangla: “চলো সিনেমা হলের সামনে দেখা করি।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “चलो सिनेमाघर के सामने मिलते हैं।” Then say its Bangla meaning once: “চলো সিনেমা হলের সামনে দেখা করি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 चलो सिनेमाघर के सामने मिलते हैं।
-উচ্চারণ: চলো সিনেমাঘর কে সামনে মিলতে হ্যাঁয়।
-অর্থ: চলো সিনেমা হলের সামনে দেখা করি।
-05–10s — say Hindi: “वहाँ एक-दूसरे का इंतज़ार कर सकते हैं।” THEN say its meaning in Bangla: “সেখানে একে অন্যের অপেক্ষা করতে পারব।”; display all three caption lines:
+চলো সিনেমাঘর কে সামনে মিলতে হ্যাঁয়।
+চলো সিনেমা হলের সামনে দেখা করি।
+05–10s
+AUDIO: Say Hindi once: “वहाँ एक-दूसरे का इंतज़ार कर सकते हैं।” Then say its Bangla meaning once: “সেখানে একে অন্যের অপেক্ষা করতে পারব।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 वहाँ एक-दूसरे का इंतज़ार कर सकते हैं।
-উচ্চারণ: ওহাঁ এক-দুসরে কা ইনতজার কর সকতে হ্যাঁয়।
-অর্থ: সেখানে একে অন্যের অপেক্ষা করতে পারব।
+ওহাঁ এক-দুসরে কা ইনতজার কর সকতে হ্যাঁয়।
+সেখানে একে অন্যের অপেক্ষা করতে পারব।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 206
@@ -1933,21 +2253,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_206`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: বন্ধুকে সঙ্গে নিতে চান
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: বন্ধুকে সঙ্গে নিতে চান
 
-00–05s — say Hindi: “क्या मैं एक दोस्त को साथ लाऊँ?” THEN say its meaning in Bangla: “একজন বন্ধুকে সঙ্গে আনতে পারি?”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “क्या मैं एक दोस्त को साथ लाऊँ?” Then say its Bangla meaning once: “একজন বন্ধুকে সঙ্গে আনতে পারি?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 क्या मैं एक दोस्त को साथ लाऊँ?
-উচ্চারণ: ক্যা ম্যাঁ এক দোস্ত কো সাথ লাউঁ?
-অর্থ: একজন বন্ধুকে সঙ্গে আনতে পারি?
-05–10s — say Hindi: “वह अभी मिलने आया है।” THEN say its meaning in Bangla: “সে এখন বেড়াতে এসেছে।”; display all three caption lines:
+ক্যা ম্যাঁ এক দোস্ত কো সাথ লাউঁ?
+একজন বন্ধুকে সঙ্গে আনতে পারি?
+05–10s
+AUDIO: Say Hindi once: “वह अभी मिलने आया है।” Then say its Bangla meaning once: “সে এখন বেড়াতে এসেছে।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 वह अभी मिलने आया है।
-উচ্চারণ: ওহ অভী মিলনে আয়া হ্যায়।
-অর্থ: সে এখন বেড়াতে এসেছে।
+ওহ অভী মিলনে আয়া হ্যায়।
+সে এখন বেড়াতে এসেছে।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 207
@@ -1957,21 +2281,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_207`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: রান্নায় সাহায্য করতে চান
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: রান্নায় সাহায্য করতে চান
 
-00–05s — say Hindi: “क्या मैं खाना बनाने में मदद करूँ?” THEN say its meaning in Bangla: “রান্নায় তোমাকে সাহায্য করতে পারি?”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “क्या मैं खाना बनाने में मदद करूँ?” Then say its Bangla meaning once: “রান্নায় তোমাকে সাহায্য করতে পারি?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 क्या मैं खाना बनाने में मदद करूँ?
-উচ্চারণ: ক্যা ম্যাঁ খানা বনানে মেঁ মদদ করুঁ?
-অর্থ: রান্নায় তোমাকে সাহায্য করতে পারি?
-05–10s — say Hindi: “मैं सब्ज़ी काट सकती हूँ।” THEN say its meaning in Bangla: “আমি সবজি কাটতে পারি।”; display all three caption lines:
+ক্যা ম্যাঁ খানা বনানে মেঁ মদদ করুঁ?
+রান্নায় তোমাকে সাহায্য করতে পারি?
+05–10s
+AUDIO: Say Hindi once: “मैं सब्ज़ी काट सकती हूँ।” Then say its Bangla meaning once: “আমি সবজি কাটতে পারি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मैं सब्ज़ी काट सकती हूँ।
-উচ্চারণ: ম্যাঁ সবজী কাট সকতী হুঁ।
-অর্থ: আমি সবজি কাটতে পারি।
+ম্যাঁ সবজী কাট সকতী হুঁ।
+আমি সবজি কাটতে পারি।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 208
@@ -1981,21 +2309,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_208`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: দাওয়াতের জন্য ধন্যবাদ দিন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: দাওয়াতের জন্য ধন্যবাদ দিন
 
-00–05s — say Hindi: “मुझे बुलाने के लिए धन्यवाद।” THEN say its meaning in Bangla: “আমাকে দাওয়াত দেওয়ার জন্য ধন্যবাদ।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मुझे बुलाने के लिए धन्यवाद।” Then say its Bangla meaning once: “আমাকে দাওয়াত দেওয়ার জন্য ধন্যবাদ।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मुझे बुलाने के लिए धन्यवाद।
-উচ্চারণ: মুঝে বুলানে কে লিয়ে ধন্যবাদ।
-অর্থ: আমাকে দাওয়াত দেওয়ার জন্য ধন্যবাদ।
-05–10s — say Hindi: “शाम सचमुच बहुत अच्छी थी।” THEN say its meaning in Bangla: “সন্ধ্যাটা সত্যিই সুন্দর ছিল।”; display all three caption lines:
+মুঝে বুলানে কে লিয়ে ধন্যবাদ।
+আমাকে দাওয়াত দেওয়ার জন্য ধন্যবাদ।
+05–10s
+AUDIO: Say Hindi once: “शाम सचमुच बहुत अच्छी थी।” Then say its Bangla meaning once: “সন্ধ্যাটা সত্যিই সুন্দর ছিল।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 शाम सचमुच बहुत अच्छी थी।
-উচ্চারণ: শাম সচমুচ বহুত অচ্ছী থী।
-অর্থ: সন্ধ্যাটা সত্যিই সুন্দর ছিল।
+শাম সচমুচ বহুত অচ্ছী থী।
+সন্ধ্যাটা সত্যিই সুন্দর ছিল।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 209
@@ -2005,21 +2337,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_209`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: পরিকল্পনা বদলানোর কারণ বলুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: পরিকল্পনা বদলানোর কারণ বলুন
 
-00–05s — say Hindi: “हमें मिलने का दिन बदलना होगा।” THEN say its meaning in Bangla: “আমাদের দেখা করার দিন পেছাতে হবে।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “हमें मिलने का दिन बदलना होगा।” Then say its Bangla meaning once: “আমাদের দেখা করার দিন পেছাতে হবে।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 हमें मिलने का दिन बदलना होगा।
-উচ্চারণ: হমেঁ মিলনে কা দিন বদলনা হোগা।
-অর্থ: আমাদের দেখা করার দিন পেছাতে হবে।
-05–10s — say Hindi: “एक दोस्त बीमार पड़ गया है।” THEN say its meaning in Bangla: “একজন বন্ধু অসুস্থ হয়ে পড়েছে।”; display all three caption lines:
+হমেঁ মিলনে কা দিন বদলনা হোগা।
+আমাদের দেখা করার দিন পেছাতে হবে।
+05–10s
+AUDIO: Say Hindi once: “एक दोस्त बीमार पड़ गया है।” Then say its Bangla meaning once: “একজন বন্ধু অসুস্থ হয়ে পড়েছে।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 एक दोस्त बीमार पड़ गया है।
-উচ্চারণ: এক দোস্ত বীমার পড় গয়া হ্যায়।
-অর্থ: একজন বন্ধু অসুস্থ হয়ে পড়েছে।
+এক দোস্ত বীমার পড় গয়া হ্যায়।
+একজন বন্ধু অসুস্থ হয়ে পড়েছে।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 210
@@ -2029,21 +2365,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_210`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: যোগাযোগ রাখতে বলুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: যোগাযোগ রাখতে বলুন
 
-00–05s — say Hindi: “समय मिले तो फ़ोन करना।” THEN say its meaning in Bangla: “সময় পেলে ফোন কোরো।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “समय मिले तो फ़ोन करना।” Then say its Bangla meaning once: “সময় পেলে ফোন কোরো।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 समय मिले तो फ़ोन करना।
-উচ্চারণ: সময় মিলে তো ফোন করনা।
-অর্থ: সময় পেলে ফোন কোরো।
-05–10s — say Hindi: “मुझे बहुत खुशी होगी।” THEN say its meaning in Bangla: “আমার খুব ভালো লাগবে।”; display all three caption lines:
+সময় মিলে তো ফোন করনা।
+সময় পেলে ফোন কোরো।
+05–10s
+AUDIO: Say Hindi once: “मुझे बहुत खुशी होगी।” Then say its Bangla meaning once: “আমার খুব ভালো লাগবে।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मुझे बहुत खुशी होगी।
-উচ্চারণ: মুঝে বহুত খুশী হোগী।
-অর্থ: আমার খুব ভালো লাগবে।
+মুঝে বহুত খুশী হোগী।
+আমার খুব ভালো লাগবে।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 211
@@ -2053,21 +2393,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_211`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: সহজভাবে কারণ বলুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: সহজভাবে কারণ বলুন
 
-00–05s — say Hindi: “मैं थकी हूँ, इसलिए घर पर रहूँगी।” THEN say its meaning in Bangla: “ক্লান্ত বলে বাসায় থাকব।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मैं थकी हूँ, इसलिए घर पर रहूँगी।” Then say its Bangla meaning once: “ক্লান্ত বলে বাসায় থাকব।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मैं थकी हूँ, इसलिए घर पर रहूँगी।
-উচ্চারণ: ম্যাঁ থকী হুঁ, ইসলিয়ে ঘর পর রহুঙ্গী।
-অর্থ: ক্লান্ত বলে বাসায় থাকব।
-05–10s — say Hindi: “कल फिर बाहर जाऊँगी।” THEN say its meaning in Bangla: “কাল আবার বাইরে যাব।”; display all three caption lines:
+ম্যাঁ থকী হুঁ, ইসলিয়ে ঘর পর রহুঙ্গী।
+ক্লান্ত বলে বাসায় থাকব।
+05–10s
+AUDIO: Say Hindi once: “कल फिर बाहर जाऊँगी।” Then say its Bangla meaning once: “কাল আবার বাইরে যাব।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 कल फिर बाहर जाऊँगी।
-উচ্চারণ: কল ফির বাহর জাউঁগী।
-অর্থ: কাল আবার বাইরে যাব।
+কল ফির বাহর জাউঁগী।
+কাল আবার বাইরে যাব।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 212
@@ -2077,21 +2421,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_212`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: কেন হিন্দি শিখছেন বলুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: কেন হিন্দি শিখছেন বলুন
 
-00–05s — say Hindi: “काम के लिए मैं हिंदी सीख रही हूँ।” THEN say its meaning in Bangla: “আমি কাজের জন্য হিন্দি শিখছি।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “काम के लिए मैं हिंदी सीख रही हूँ।” Then say its Bangla meaning once: “আমি কাজের জন্য হিন্দি শিখছি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 काम के लिए मैं हिंदी सीख रही हूँ।
-উচ্চারণ: কাম কে লিয়ে ম্যাঁ হিন্দী সীখ রহী হুঁ।
-অর্থ: আমি কাজের জন্য হিন্দি শিখছি।
-05–10s — say Hindi: “मैं सहकर्मियों की बात बेहतर समझना चाहती हूँ।” THEN say its meaning in Bangla: “সহকর্মীদের কথা আরও ভালো বুঝতে চাই।”; display all three caption lines:
+কাম কে লিয়ে ম্যাঁ হিন্দী সীখ রহী হুঁ।
+আমি কাজের জন্য হিন্দি শিখছি।
+05–10s
+AUDIO: Say Hindi once: “मैं सहकर्मियों की बात बेहतर समझना चाहती हूँ।” Then say its Bangla meaning once: “সহকর্মীদের কথা আরও ভালো বুঝতে চাই।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मैं सहकर्मियों की बात बेहतर समझना चाहती हूँ।
-উচ্চারণ: ম্যাঁ সহকর্মিয়োঁ কী বাত বেহতর সমঝনা চাহতী হুঁ।
-অর্থ: সহকর্মীদের কথা আরও ভালো বুঝতে চাই।
+ম্যাঁ সহকর্মিয়োঁ কী বাত বেহতর সমঝনা চাহতী হুঁ।
+সহকর্মীদের কথা আরও ভালো বুঝতে চাই।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 213
@@ -2101,21 +2449,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_213`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: ট্রেনে যেতে কেন পছন্দ
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: ট্রেনে যেতে কেন পছন্দ
 
-00–05s — say Hindi: “मुझे ट्रेन से जाना ज़्यादा पसंद है।” THEN say its meaning in Bangla: “আমি ট্রেনে যেতে বেশি পছন্দ করি।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मुझे ट्रेन से जाना ज़्यादा पसंद है।” Then say its Bangla meaning once: “আমি ট্রেনে যেতে বেশি পছন্দ করি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मुझे ट्रेन से जाना ज़्यादा पसंद है।
-উচ্চারণ: মুঝে ট্রেন সে জানা জ্যাদা পসন্দ হ্যায়।
-অর্থ: আমি ট্রেনে যেতে বেশি পছন্দ করি।
-05–10s — say Hindi: “इस तरह रास्ते में पढ़ सकती हूँ।” THEN say its meaning in Bangla: “এতে পথে পড়তে পারি।”; display all three caption lines:
+মুঝে ট্রেন সে জানা জ্যাদা পসন্দ হ্যায়।
+আমি ট্রেনে যেতে বেশি পছন্দ করি।
+05–10s
+AUDIO: Say Hindi once: “इस तरह रास्ते में पढ़ सकती हूँ।” Then say its Bangla meaning once: “এতে পথে পড়তে পারি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 इस तरह रास्ते में पढ़ सकती हूँ।
-উচ্চারণ: ইস তরহ রাসতে মেঁ পড় সকতী হুঁ।
-অর্থ: এতে পথে পড়তে পারি।
+ইস তরহ রাসতে মেঁ পড় সকতী হুঁ।
+এতে পথে পড়তে পারি।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 214
@@ -2125,21 +2477,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_214`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: নিজে রান্না কেন করেন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: নিজে রান্না কেন করেন
 
-00–05s — say Hindi: “मुझे खुद खाना बनाना पसंद है।” THEN say its meaning in Bangla: “নিজে রান্না করতে ভালোবাসি।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मुझे खुद खाना बनाना पसंद है।” Then say its Bangla meaning once: “নিজে রান্না করতে ভালোবাসি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मुझे खुद खाना बनाना पसंद है।
-উচ্চারণ: মুঝে খুদ খানা বনানা পসন্দ হ্যায়।
-অর্থ: নিজে রান্না করতে ভালোবাসি।
-05–10s — say Hindi: “तब खाने की चीज़ों का पता रहता है।” THEN say its meaning in Bangla: “তাহলে খাবারে কী আছে জানি।”; display all three caption lines:
+মুঝে খুদ খানা বনানা পসন্দ হ্যায়।
+নিজে রান্না করতে ভালোবাসি।
+05–10s
+AUDIO: Say Hindi once: “तब खाने की चीज़ों का पता रहता है।” Then say its Bangla meaning once: “তাহলে খাবারে কী আছে জানি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 तब खाने की चीज़ों का पता रहता है।
-উচ্চারণ: তব খানে কী চীজোঁ কা পতা রহতা হ্যায়।
-অর্থ: তাহলে খাবারে কী আছে জানি।
+তব খানে কী চীজোঁ কা পতা রহতা হ্যায়।
+তাহলে খাবারে কী আছে জানি।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 215
@@ -2149,21 +2505,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_215`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: আপনার কাছে কী জরুরি
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: আপনার কাছে কী জরুরি
 
-00–05s — say Hindi: “मेरे लिए शांत घर ज़रूरी है।” THEN say its meaning in Bangla: “শান্ত বাসা আমার কাছে জরুরি।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मेरे लिए शांत घर ज़रूरी है।” Then say its Bangla meaning once: “শান্ত বাসা আমার কাছে জরুরি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मेरे लिए शांत घर ज़रूरी है।
-উচ্চারণ: মেরে লিয়ে শান্ত ঘর জরুরী হ্যায়।
-অর্থ: শান্ত বাসা আমার কাছে জরুরি।
-05–10s — say Hindi: “मैं अक्सर घर से काम करती हूँ।” THEN say its meaning in Bangla: “আমি প্রায়ই বাসা থেকে কাজ করি।”; display all three caption lines:
+মেরে লিয়ে শান্ত ঘর জরুরী হ্যায়।
+শান্ত বাসা আমার কাছে জরুরি।
+05–10s
+AUDIO: Say Hindi once: “मैं अक्सर घर से काम करती हूँ।” Then say its Bangla meaning once: “আমি প্রায়ই বাসা থেকে কাজ করি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मैं अक्सर घर से काम करती हूँ।
-উচ্চারণ: ম্যাঁ অক্‌সর ঘর সে কাম করতী হুঁ।
-অর্থ: আমি প্রায়ই বাসা থেকে কাজ করি।
+ম্যাঁ অক্‌সর ঘর সে কাম করতী হুঁ।
+আমি প্রায়ই বাসা থেকে কাজ করি।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 216
@@ -2173,21 +2533,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_216`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: দুটি জিনিস তুলনা করুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: দুটি জিনিস তুলনা করুন
 
-00–05s — say Hindi: “यह घर दूसरे से सस्ता है।” THEN say its meaning in Bangla: “এই বাসা অন্যটির চেয়ে সস্তা।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “यह घर दूसरे से सस्ता है।” Then say its Bangla meaning once: “এই বাসা অন্যটির চেয়ে সস্তা।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 यह घर दूसरे से सस्ता है।
-উচ্চারণ: ইয়হ ঘর দুসরে সে সস্তা হ্যায়।
-অর্থ: এই বাসা অন্যটির চেয়ে সস্তা।
-05–10s — say Hindi: “लेकिन यह थोड़ा छोटा है।” THEN say its meaning in Bangla: “তবে এটা একটু ছোট।”; display all three caption lines:
+ইয়হ ঘর দুসরে সে সস্তা হ্যায়।
+এই বাসা অন্যটির চেয়ে সস্তা।
+05–10s
+AUDIO: Say Hindi once: “लेकिन यह थोड़ा छोटा है।” Then say its Bangla meaning once: “তবে এটা একটু ছোট।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 लेकिन यह थोड़ा छोटा है।
-উচ্চারণ: লেকিন ইয়হ থোড়া ছোটা হ্যায়।
-অর্থ: তবে এটা একটু ছোট।
+লেকিন ইয়হ থোড়া ছোটা হ্যায়।
+তবে এটা একটু ছোট।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 217
@@ -2197,21 +2561,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_217`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: নিজের মতামত দিন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: নিজের মতামত দিন
 
-00–05s — say Hindi: “मुझे यह सुझाव अच्छा लगा।” THEN say its meaning in Bangla: “প্রস্তাবটা আমার ভালো লাগছে।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मुझे यह सुझाव अच्छा लगा।” Then say its Bangla meaning once: “প্রস্তাবটা আমার ভালো লাগছে।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मुझे यह सुझाव अच्छा लगा।
-উচ্চারণ: মুঝে ইয়হ সুঝাব অচ্ছা লগা।
-অর্থ: প্রস্তাবটা আমার ভালো লাগছে।
-05–10s — say Hindi: “हमें कोशिश करके देखना चाहिए।” THEN say its meaning in Bangla: “আমাদের চেষ্টা করে দেখা উচিত।”; display all three caption lines:
+মুঝে ইয়হ সুঝাব অচ্ছা লগা।
+প্রস্তাবটা আমার ভালো লাগছে।
+05–10s
+AUDIO: Say Hindi once: “हमें कोशिश करके देखना चाहिए।” Then say its Bangla meaning once: “আমাদের চেষ্টা করে দেখা উচিত।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 हमें कोशिश करके देखना चाहिए।
-উচ্চারণ: হমেঁ কোশিশ করকে দেখনা চাহিয়ে।
-অর্থ: আমাদের চেষ্টা করে দেখা উচিত।
+হমেঁ কোশিশ করকে দেখনা চাহিয়ে।
+আমাদের চেষ্টা করে দেখা উচিত।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 218
@@ -2221,21 +2589,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_218`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: ভদ্রভাবে ভিন্নমত দিন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: ভদ্রভাবে ভিন্নমত দিন
 
-00–05s — say Hindi: “मैं इसे थोड़ा अलग तरह से देखती हूँ।” THEN say its meaning in Bangla: “আমি বিষয়টা একটু ভিন্নভাবে দেখি।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मैं इसे थोड़ा अलग तरह से देखती हूँ।” Then say its Bangla meaning once: “আমি বিষয়টা একটু ভিন্নভাবে দেখি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मैं इसे थोड़ा अलग तरह से देखती हूँ।
-উচ্চারণ: ম্যাঁ ইসে থোড়া অলগ তরহ সে দেখতী হুঁ।
-অর্থ: আমি বিষয়টা একটু ভিন্নভাবে দেখি।
-05–10s — say Hindi: “क्या हम फिर इस पर बात करें?” THEN say its meaning in Bangla: “এ নিয়ে আবার কথা বলতে পারি?”; display all three caption lines:
+ম্যাঁ ইসে থোড়া অলগ তরহ সে দেখতী হুঁ।
+আমি বিষয়টা একটু ভিন্নভাবে দেখি।
+05–10s
+AUDIO: Say Hindi once: “क्या हम फिर इस पर बात करें?” Then say its Bangla meaning once: “এ নিয়ে আবার কথা বলতে পারি?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 क्या हम फिर इस पर बात करें?
-উচ্চারণ: ক্যা হম ফির ইস পর বাত করেঁ?
-অর্থ: এ নিয়ে আবার কথা বলতে পারি?
+ক্যা হম ফির ইস পর বাত করেঁ?
+এ নিয়ে আবার কথা বলতে পারি?
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 219
@@ -2245,21 +2617,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_219`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: নিশ্চিত না হলে বলুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: নিশ্চিত না হলে বলুন
 
-00–05s — say Hindi: “मैं अभी तय नहीं कर पाई हूँ।” THEN say its meaning in Bangla: “আমি এখনো সিদ্ধান্ত নিতে পারিনি।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मैं अभी तय नहीं कर पाई हूँ।” Then say its Bangla meaning once: “আমি এখনো সিদ্ধান্ত নিতে পারিনি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मैं अभी तय नहीं कर पाई हूँ।
-উচ্চারণ: ম্যাঁ অভী তয় নহীঁ কর পাঈ হুঁ।
-অর্থ: আমি এখনো সিদ্ধান্ত নিতে পারিনি।
-05–10s — say Hindi: “मैं इस बारे में सोचना चाहती हूँ।” THEN say its meaning in Bangla: “আমি এটা নিয়ে ভাবতে চাই।”; display all three caption lines:
+ম্যাঁ অভী তয় নহীঁ কর পাঈ হুঁ।
+আমি এখনো সিদ্ধান্ত নিতে পারিনি।
+05–10s
+AUDIO: Say Hindi once: “मैं इस बारे में सोचना चाहती हूँ।” Then say its Bangla meaning once: “আমি এটা নিয়ে ভাবতে চাই।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मैं इस बारे में सोचना चाहती हूँ।
-উচ্চারণ: ম্যাঁ ইস বারে মেঁ সোচনা চাহতী হুঁ।
-অর্থ: আমি এটা নিয়ে ভাবতে চাই।
+ম্যাঁ ইস বারে মেঁ সোচনা চাহতী হুঁ।
+আমি এটা নিয়ে ভাবতে চাই।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 220
@@ -2269,21 +2645,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_220`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: খরচ ভাগ করার প্রস্তাব
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: খরচ ভাগ করার প্রস্তাব
 
-00–05s — say Hindi: “हम खर्च बाँट सकते हैं।” THEN say its meaning in Bangla: “আমরা খরচ ভাগ করে নিতে পারি।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “हम खर्च बाँट सकते हैं।” Then say its Bangla meaning once: “আমরা খরচ ভাগ করে নিতে পারি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 हम खर्च बाँट सकते हैं।
-উচ্চারণ: হম খর্চ বাঁট সকতে হ্যাঁয়।
-অর্থ: আমরা খরচ ভাগ করে নিতে পারি।
-05–10s — say Hindi: “फिर सबका खर्च कम होगा।” THEN say its meaning in Bangla: “তাহলে সবার খরচ কম হবে।”; display all three caption lines:
+হম খর্চ বাঁট সকতে হ্যাঁয়।
+আমরা খরচ ভাগ করে নিতে পারি।
+05–10s
+AUDIO: Say Hindi once: “फिर सबका खर्च कम होगा।” Then say its Bangla meaning once: “তাহলে সবার খরচ কম হবে।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 फिर सबका खर्च कम होगा।
-উচ্চারণ: ফির সবকা খর্চ কম হোগা।
-অর্থ: তাহলে সবার খরচ কম হবে।
+ফির সবকা খর্চ কম হোগা।
+তাহলে সবার খরচ কম হবে।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 221
@@ -2293,21 +2673,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_221`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: গতকালের কথা বলুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: গতকালের কথা বলুন
 
-00–05s — say Hindi: “कल मैंने देर तक काम किया।” THEN say its meaning in Bangla: “গতকাল অনেকক্ষণ কাজ করেছি।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “कल मैंने देर तक काम किया।” Then say its Bangla meaning once: “গতকাল অনেকক্ষণ কাজ করেছি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 कल मैंने देर तक काम किया।
-উচ্চারণ: কল ম্যাঁনে দের তক কাম কিয়া।
-অর্থ: গতকাল অনেকক্ষণ কাজ করেছি।
-05–10s — say Hindi: “फिर मैं जल्दी सो गई।” THEN say its meaning in Bangla: “তারপর তাড়াতাড়ি ঘুমিয়ে পড়েছি।”; display all three caption lines:
+কল ম্যাঁনে দের তক কাম কিয়া।
+গতকাল অনেকক্ষণ কাজ করেছি।
+05–10s
+AUDIO: Say Hindi once: “फिर मैं जल्दी सो गई।” Then say its Bangla meaning once: “তারপর তাড়াতাড়ি ঘুমিয়ে পড়েছি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 फिर मैं जल्दी सो गई।
-উচ্চারণ: ফির ম্যাঁ জলদী সো গঈ।
-অর্থ: তারপর তাড়াতাড়ি ঘুমিয়ে পড়েছি।
+ফির ম্যাঁ জলদী সো গঈ।
+তারপর তাড়াতাড়ি ঘুমিয়ে পড়েছি।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 222
@@ -2317,21 +2701,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_222`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: বাস মিস হলে বলুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: বাস মিস হলে বলুন
 
-00–05s — say Hindi: “मेरी बस छूट गई।” THEN say its meaning in Bangla: “আমি বাস মিস করেছি।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मेरी बस छूट गई।” Then say its Bangla meaning once: “আমি বাস মিস করেছি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मेरी बस छूट गई।
-উচ্চারণ: মেরী বস ছুট গঈ।
-অর্থ: আমি বাস মিস করেছি।
-05–10s — say Hindi: “इसलिए मुझे देर हो गई।” THEN say its meaning in Bangla: “তাই দেরি হয়েছে।”; display all three caption lines:
+মেরী বস ছুট গঈ।
+আমি বাস মিস করেছি।
+05–10s
+AUDIO: Say Hindi once: “इसलिए मुझे देर हो गई।” Then say its Bangla meaning once: “তাই দেরি হয়েছে।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 इसलिए मुझे देर हो गई।
-উচ্চারণ: ইসলিয়ে মুঝে দের হো গঈ।
-অর্থ: তাই দেরি হয়েছে।
+ইসলিয়ে মুঝে দের হো গঈ।
+তাই দেরি হয়েছে।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 223
@@ -2341,21 +2729,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_223`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: প্রথম দিনের অভিজ্ঞতা
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: প্রথম দিনের অভিজ্ঞতা
 
-00–05s — say Hindi: “शुरू में मैं बहुत घबराई हुई थी।” THEN say its meaning in Bangla: “শুরুতে আমি খুব নার্ভাস ছিলাম।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “शुरू में मैं बहुत घबराई हुई थी।” Then say its Bangla meaning once: “শুরুতে আমি খুব নার্ভাস ছিলাম।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 शुरू में मैं बहुत घबराई हुई थी।
-উচ্চারণ: শুরু মেঁ ম্যাঁ বহুত ঘবরাঈ হুঈ থী।
-অর্থ: শুরুতে আমি খুব নার্ভাস ছিলাম।
-05–10s — say Hindi: “मेरे सहकर्मियों ने मेरी मदद की।” THEN say its meaning in Bangla: “সহকর্মীরা আমাকে সাহায্য করেছেন।”; display all three caption lines:
+শুরু মেঁ ম্যাঁ বহুত ঘবরাঈ হুঈ থী।
+শুরুতে আমি খুব নার্ভাস ছিলাম।
+05–10s
+AUDIO: Say Hindi once: “मेरे सहकर्मियों ने मेरी मदद की।” Then say its Bangla meaning once: “সহকর্মীরা আমাকে সাহায্য করেছেন।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मेरे सहकर्मियों ने मेरी मदद की।
-উচ্চারণ: মেরে সহকর্মিয়োঁ নে মেরী মদদ কী।
-অর্থ: সহকর্মীরা আমাকে সাহায্য করেছেন।
+মেরে সহকর্মিয়োঁ নে মেরী মদদ কী।
+সহকর্মীরা আমাকে সাহায্য করেছেন।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 224
@@ -2365,21 +2757,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_224`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: বাসা পেয়ে জানিয়ে দিন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: বাসা পেয়ে জানিয়ে দিন
 
-00–05s — say Hindi: “आखिर मुझे एक घर मिल गया।” THEN say its meaning in Bangla: “অবশেষে একটা বাসা পেয়েছি।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “आखिर मुझे एक घर मिल गया।” Then say its Bangla meaning once: “অবশেষে একটা বাসা পেয়েছি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 आखिर मुझे एक घर मिल गया।
-উচ্চারণ: আখির মুঝে এক ঘর মিল গয়া।
-অর্থ: অবশেষে একটা বাসা পেয়েছি।
-05–10s — say Hindi: “अगले महीने वहाँ रहने जाऊँगी।” THEN say its meaning in Bangla: “আগামী মাসে উঠব।”; display all three caption lines:
+আখির মুঝে এক ঘর মিল গয়া।
+অবশেষে একটা বাসা পেয়েছি।
+05–10s
+AUDIO: Say Hindi once: “अगले महीने वहाँ रहने जाऊँगी।” Then say its Bangla meaning once: “আগামী মাসে উঠব।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 अगले महीने वहाँ रहने जाऊँगी।
-উচ্চারণ: অগলে মহীনে ওহাঁ রহনে জাউঁগী।
-অর্থ: আগামী মাসে উঠব।
+অগলে মহীনে ওহাঁ রহনে জাউঁগী।
+আগামী মাসে উঠব।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 225
@@ -2389,21 +2785,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_225`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: নতুন সাইকেলের কথা
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: নতুন সাইকেলের কথা
 
-00–05s — say Hindi: “मैंने अपने लिए एक साइकिल खरीदी है।” THEN say its meaning in Bangla: “আমি একটা সাইকেল কিনেছি।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मैंने अपने लिए एक साइकिल खरीदी है।” Then say its Bangla meaning once: “আমি একটা সাইকেল কিনেছি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मैंने अपने लिए एक साइकिल खरीदी है।
-উচ্চারণ: ম্যাঁনে অপনে লিয়ে এক সাইকিল খরীদী হ্যায়।
-অর্থ: আমি একটা সাইকেল কিনেছি।
-05–10s — say Hindi: “अब मैं उससे काम पर जाती हूँ।” THEN say its meaning in Bangla: “এখন ওটা দিয়ে কাজে যাই।”; display all three caption lines:
+ম্যাঁনে অপনে লিয়ে এক সাইকিল খরীদী হ্যায়।
+আমি একটা সাইকেল কিনেছি।
+05–10s
+AUDIO: Say Hindi once: “अब मैं उससे काम पर जाती हूँ।” Then say its Bangla meaning once: “এখন ওটা দিয়ে কাজে যাই।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 अब मैं उससे काम पर जाती हूँ।
-উচ্চারণ: অব ম্যাঁ উসসে কাম পর জাতী হুঁ।
-অর্থ: এখন ওটা দিয়ে কাজে যাই।
+অব ম্যাঁ উসসে কাম পর জাতী হুঁ।
+এখন ওটা দিয়ে কাজে যাই।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 226
@@ -2413,21 +2813,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_226`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: ছোট ভুলের কথা বলুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: ছোট ভুলের কথা বলুন
 
-00–05s — say Hindi: “मैंने गलत पता भर दिया था।” THEN say its meaning in Bangla: “আমি ভুল ঠিকানা লিখেছিলাম।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मैंने गलत पता भर दिया था।” Then say its Bangla meaning once: “আমি ভুল ঠিকানা লিখেছিলাম।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मैंने गलत पता भर दिया था।
-উচ্চারণ: ম্যাঁনে গলত পতা ভর দিয়া থা।
-অর্থ: আমি ভুল ঠিকানা লিখেছিলাম।
-05–10s — say Hindi: “अच्छा हुआ, समय पर ध्यान आ गया।” THEN say its meaning in Bangla: “ভাগ্য ভালো, সময়মতো খেয়াল করেছি।”; display all three caption lines:
+ম্যাঁনে গলত পতা ভর দিয়া থা।
+আমি ভুল ঠিকানা লিখেছিলাম।
+05–10s
+AUDIO: Say Hindi once: “अच्छा हुआ, समय पर ध्यान आ गया।” Then say its Bangla meaning once: “ভাগ্য ভালো, সময়মতো খেয়াল করেছি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 अच्छा हुआ, समय पर ध्यान आ गया।
-উচ্চারণ: অচ্ছা হুআ, সময় পর ধ্যান আ গয়া।
-অর্থ: ভাগ্য ভালো, সময়মতো খেয়াল করেছি।
+অচ্ছা হুআ, সময় পর ধ্যান আ গয়া।
+ভাগ্য ভালো, সময়মতো খেয়াল করেছি।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 227
@@ -2437,21 +2841,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_227`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: বন্ধুর সঙ্গে দেখা হওয়ার কথা
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: বন্ধুর সঙ্গে দেখা হওয়ার কথা
 
-00–05s — say Hindi: “छुट्टी के दिन मैं सारा से मिली।” THEN say its meaning in Bangla: “ছুটির দিনে সারার সঙ্গে দেখা হয়েছিল।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “छुट्टी के दिन मैं सारा से मिली।” Then say its Bangla meaning once: “ছুটির দিনে সারার সঙ্গে দেখা হয়েছিল।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 छुट्टी के दिन मैं सारा से मिली।
-উচ্চারণ: ছুট্টী কে দিন ম্যাঁ সারা সে মিলী।
-অর্থ: ছুটির দিনে সারার সঙ্গে দেখা হয়েছিল।
-05–10s — say Hindi: “हमने बहुत देर तक बात की।” THEN say its meaning in Bangla: “আমরা অনেকক্ষণ কথা বলেছি।”; display all three caption lines:
+ছুট্টী কে দিন ম্যাঁ সারা সে মিলী।
+ছুটির দিনে সারার সঙ্গে দেখা হয়েছিল।
+05–10s
+AUDIO: Say Hindi once: “हमने बहुत देर तक बात की।” Then say its Bangla meaning once: “আমরা অনেকক্ষণ কথা বলেছি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 हमने बहुत देर तक बात की।
-উচ্চারণ: হমনে বহুত দের তক বাত কী।
-অর্থ: আমরা অনেকক্ষণ কথা বলেছি।
+হমনে বহুত দের তক বাত কী।
+আমরা অনেকক্ষণ কথা বলেছি।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 228
@@ -2461,21 +2869,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_228`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: প্রথম অভিজ্ঞতা বলুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: প্রথম অভিজ্ঞতা বলুন
 
-00–05s — say Hindi: “मैं पहली बार हवाई जहाज़ में गई।” THEN say its meaning in Bangla: “আমি প্রথমবার বিমানে চড়েছি।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मैं पहली बार हवाई जहाज़ में गई।” Then say its Bangla meaning once: “আমি প্রথমবার বিমানে চড়েছি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मैं पहली बार हवाई जहाज़ में गई।
-উচ্চারণ: ম্যাঁ পহলী বার হবাঈ জহাজ মেঁ গঈ।
-অর্থ: আমি প্রথমবার বিমানে চড়েছি।
-05–10s — say Hindi: “यह उम्मीद से ज़्यादा रोमांचक था।” THEN say its meaning in Bangla: “প্রত্যাশার চেয়েও রোমাঞ্চকর ছিল।”; display all three caption lines:
+ম্যাঁ পহলী বার হবাঈ জহাজ মেঁ গঈ।
+আমি প্রথমবার বিমানে চড়েছি।
+05–10s
+AUDIO: Say Hindi once: “यह उम्मीद से ज़्यादा रोमांचक था।” Then say its Bangla meaning once: “প্রত্যাশার চেয়েও রোমাঞ্চকর ছিল।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 यह उम्मीद से ज़्यादा रोमांचक था।
-উচ্চারণ: ইয়হ উম্মীদ সে জ্যাদা রোমাঞ্চক থা।
-অর্থ: প্রত্যাশার চেয়েও রোমাঞ্চকর ছিল।
+ইয়হ উম্মীদ সে জ্যাদা রোমাঞ্চক থা।
+প্রত্যাশার চেয়েও রোমাঞ্চকর ছিল।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 229
@@ -2485,21 +2897,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_229`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: কোর্স শেষের কথা বলুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: কোর্স শেষের কথা বলুন
 
-00–05s — say Hindi: “मैंने अपना हिंदी कोर्स पूरा कर लिया।” THEN say its meaning in Bangla: “আমার হিন্দি কোর্স শেষ করেছি।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मैंने अपना हिंदी कोर्स पूरा कर लिया।” Then say its Bangla meaning once: “আমার হিন্দি কোর্স শেষ করেছি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मैंने अपना हिंदी कोर्स पूरा कर लिया।
-উচ্চারণ: ম্যাঁনে অপনা হিন্দী কোর্স পুরা কর লিয়া।
-অর্থ: আমার হিন্দি কোর্স শেষ করেছি।
-05–10s — say Hindi: “अब मैं और सीखना चाहती हूँ।” THEN say its meaning in Bangla: “এখন আরও শিখতে চাই।”; display all three caption lines:
+ম্যাঁনে অপনা হিন্দী কোর্স পুরা কর লিয়া।
+আমার হিন্দি কোর্স শেষ করেছি।
+05–10s
+AUDIO: Say Hindi once: “अब मैं और सीखना चाहती हूँ।” Then say its Bangla meaning once: “এখন আরও শিখতে চাই।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 अब मैं और सीखना चाहती हूँ।
-উচ্চারণ: অব ম্যাঁ ঔর সীখনা চাহতী হুঁ।
-অর্থ: এখন আরও শিখতে চাই।
+অব ম্যাঁ ঔর সীখনা চাহতী হুঁ।
+এখন আরও শিখতে চাই।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 230
@@ -2509,21 +2925,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_230`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: ভুলের ভয় কাটান
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: ভুলের ভয় কাটান
 
-00–05s — say Hindi: “पहले मुझे गलतियों से डर लगता था।” THEN say its meaning in Bangla: “আগে ভুল করতে ভয় পেতাম।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “पहले मुझे गलतियों से डर लगता था।” Then say its Bangla meaning once: “আগে ভুল করতে ভয় পেতাম।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 पहले मुझे गलतियों से डर लगता था।
-উচ্চারণ: পহলে মুঝে গলতিয়োঁ সে ডর লগতা থা।
-অর্থ: আগে ভুল করতে ভয় পেতাম।
-05–10s — say Hindi: “अब मैं फिर भी हिंदी बोलती हूँ।” THEN say its meaning in Bangla: “এখন তবুও হিন্দি বলি।”; display all three caption lines:
+পহলে মুঝে গলতিয়োঁ সে ডর লগতা থা।
+আগে ভুল করতে ভয় পেতাম।
+05–10s
+AUDIO: Say Hindi once: “अब मैं फिर भी हिंदी बोलती हूँ।” Then say its Bangla meaning once: “এখন তবুও হিন্দি বলি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 अब मैं फिर भी हिंदी बोलती हूँ।
-উচ্চারণ: অব ম্যাঁ ফির ভী হিন্দী বোলতী হুঁ।
-অর্থ: এখন তবুও হিন্দি বলি।
+অব ম্যাঁ ফির ভী হিন্দী বোলতী হুঁ।
+এখন তবুও হিন্দি বলি।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 231
@@ -2533,21 +2953,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_231`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: নতুন কাজের পরিকল্পনা
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: নতুন কাজের পরিকল্পনা
 
-00–05s — say Hindi: “अगले हफ़्ते मैं नई नौकरी शुरू करूँगी।” THEN say its meaning in Bangla: “আগামী সপ্তাহে নতুন চাকরি শুরু করব।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “अगले हफ़्ते मैं नई नौकरी शुरू करूँगी।” Then say its Bangla meaning once: “আগামী সপ্তাহে নতুন চাকরি শুরু করব।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 अगले हफ़्ते मैं नई नौकरी शुरू करूँगी।
-উচ্চারণ: অগলে হফতে ম্যাঁ নঈ নৌকরী শুরু করুঙ্গী।
-অর্থ: আগামী সপ্তাহে নতুন চাকরি শুরু করব।
-05–10s — say Hindi: “मुझे इसका बेसब्री से इंतज़ार है।” THEN say its meaning in Bangla: “আমি খুব আগ্রহ নিয়ে অপেক্ষা করছি।”; display all three caption lines:
+অগলে হফতে ম্যাঁ নঈ নৌকরী শুরু করুঙ্গী।
+আগামী সপ্তাহে নতুন চাকরি শুরু করব।
+05–10s
+AUDIO: Say Hindi once: “मुझे इसका बेसब्री से इंतज़ार है।” Then say its Bangla meaning once: “আমি খুব আগ্রহ নিয়ে অপেক্ষা করছি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मुझे इसका बेसब्री से इंतज़ार है।
-উচ্চারণ: মুঝে ইসকা বেসব্রী সে ইনতজার হ্যায়।
-অর্থ: আমি খুব আগ্রহ নিয়ে অপেক্ষা করছি।
+মুঝে ইসকা বেসব্রী সে ইনতজার হ্যায়।
+আমি খুব আগ্রহ নিয়ে অপেক্ষা করছি।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 232
@@ -2557,21 +2981,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_232`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: শেখার লক্ষ্য বলুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: শেখার লক্ষ্য বলুন
 
-00–05s — say Hindi: “मैं रोज़ दस मिनट अभ्यास करना चाहती हूँ।” THEN say its meaning in Bangla: “প্রতিদিন দশ মিনিট অনুশীলন করতে চাই।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मैं रोज़ दस मिनट अभ्यास करना चाहती हूँ।” Then say its Bangla meaning once: “প্রতিদিন দশ মিনিট অনুশীলন করতে চাই।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मैं रोज़ दस मिनट अभ्यास करना चाहती हूँ।
-উচ্চারণ: ম্যাঁ রোজ দস মিনিট অভ্যাস করনা চাহতী হুঁ।
-অর্থ: প্রতিদিন দশ মিনিট অনুশীলন করতে চাই।
-05–10s — say Hindi: “इससे सीखना लगातार चलता रहता है।” THEN say its meaning in Bangla: “এভাবে নিয়মিত শেখা চালিয়ে যাই।”; display all three caption lines:
+ম্যাঁ রোজ দস মিনিট অভ্যাস করনা চাহতী হুঁ।
+প্রতিদিন দশ মিনিট অনুশীলন করতে চাই।
+05–10s
+AUDIO: Say Hindi once: “इससे सीखना लगातार चलता रहता है।” Then say its Bangla meaning once: “এভাবে নিয়মিত শেখা চালিয়ে যাই।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 इससे सीखना लगातार चलता रहता है।
-উচ্চারণ: ইসসে সীখনা লগাতার চলতা রহতা হ্যায়।
-অর্থ: এভাবে নিয়মিত শেখা চালিয়ে যাই।
+ইসসে সীখনা লগাতার চলতা রহতা হ্যায়।
+এভাবে নিয়মিত শেখা চালিয়ে যাই।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 233
@@ -2581,21 +3009,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_233`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: আবহাওয়া অনুযায়ী পরিকল্পনা
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: আবহাওয়া অনুযায়ী পরিকল্পনা
 
-00–05s — say Hindi: “कल धूप हुई तो पैदल घूमने जाएँगे।” THEN say its meaning in Bangla: “কাল রোদ হলে হাঁটতে বেড়াব।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “कल धूप हुई तो पैदल घूमने जाएँगे।” Then say its Bangla meaning once: “কাল রোদ হলে হাঁটতে বেড়াব।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 कल धूप हुई तो पैदल घूमने जाएँगे।
-উচ্চারণ: কল ধুপ হুঈ তো প্যায়দল ঘুমনে জাএঁগে।
-অর্থ: কাল রোদ হলে হাঁটতে বেড়াব।
-05–10s — say Hindi: “नहीं तो शहर में ही रहेंगे।” THEN say its meaning in Bangla: “নইলে শহরেই থাকব।”; display all three caption lines:
+কল ধুপ হুঈ তো প্যায়দল ঘুমনে জাএঁগে।
+কাল রোদ হলে হাঁটতে বেড়াব।
+05–10s
+AUDIO: Say Hindi once: “नहीं तो शहर में ही रहेंगे।” Then say its Bangla meaning once: “নইলে শহরেই থাকব।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 नहीं तो शहर में ही रहेंगे।
-উচ্চারণ: নহীঁ তো শহর মেঁ হী রহেঙ্গে।
-অর্থ: নইলে শহরেই থাকব।
+নহীঁ তো শহর মেঁ হী রহেঙ্গে।
+নইলে শহরেই থাকব।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 234
@@ -2605,21 +3037,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_234`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: কাজ শেষে দেখা করার কথা
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: কাজ শেষে দেখা করার কথা
 
-00–05s — say Hindi: “काम जल्दी पूरा हुआ तो फ़ोन करूँगी।” THEN say its meaning in Bangla: “আগে কাজ শেষ হলে ফোন করব।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “काम जल्दी पूरा हुआ तो फ़ोन करूँगी।” Then say its Bangla meaning once: “আগে কাজ শেষ হলে ফোন করব।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 काम जल्दी पूरा हुआ तो फ़ोन करूँगी।
-উচ্চারণ: কাম জলদী পুরা হুআ তো ফোন করুঙ্গী।
-অর্থ: আগে কাজ শেষ হলে ফোন করব।
-05–10s — say Hindi: “तब हम मिल पाएँगे।” THEN say its meaning in Bangla: “তখন আমরা দেখা করতে পারব।”; display all three caption lines:
+কাম জলদী পুরা হুআ তো ফোন করুঙ্গী।
+আগে কাজ শেষ হলে ফোন করব।
+05–10s
+AUDIO: Say Hindi once: “तब हम मिल पाएँगे।” Then say its Bangla meaning once: “তখন আমরা দেখা করতে পারব।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 तब हम मिल पाएँगे।
-উচ্চারণ: তব হম মিল পাএঁগে।
-অর্থ: তখন আমরা দেখা করতে পারব।
+তব হম মিল পাএঁগে।
+তখন আমরা দেখা করতে পারব।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 235
@@ -2629,21 +3065,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_235`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: সহজ বইয়ের পরামর্শ চান
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: সহজ বইয়ের পরামর্শ চান
 
-00–05s — say Hindi: “क्या तुम कोई अच्छी किताब सुझाओगे?” THEN say its meaning in Bangla: “ভালো একটা বইয়ের পরামর্শ দেবে?”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “क्या तुम कोई अच्छी किताब सुझाओगे?” Then say its Bangla meaning once: “ভালো একটা বইয়ের পরামর্শ দেবে?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 क्या तुम कोई अच्छी किताब सुझाओगे?
-উচ্চারণ: ক্যা তুম কোঈ অচ্ছী কিতাব সুঝাওগে?
-অর্থ: ভালো একটা বইয়ের পরামর্শ দেবে?
-05–10s — say Hindi: “वह पढ़ने में आसान होनी चाहिए।” THEN say its meaning in Bangla: “পড়তে সহজ হলে ভালো হয়।”; display all three caption lines:
+ক্যা তুম কোঈ অচ্ছী কিতাব সুঝাওগে?
+ভালো একটা বইয়ের পরামর্শ দেবে?
+05–10s
+AUDIO: Say Hindi once: “वह पढ़ने में आसान होनी चाहिए।” Then say its Bangla meaning once: “পড়তে সহজ হলে ভালো হয়।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 वह पढ़ने में आसान होनी चाहिए।
-উচ্চারণ: ওহ পড়নে মেঁ আসান হোনী চাহিয়ে।
-অর্থ: পড়তে সহজ হলে ভালো হয়।
+ওহ পড়নে মেঁ আসান হোনী চাহিয়ে।
+পড়তে সহজ হলে ভালো হয়।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 236
@@ -2653,21 +3093,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_236`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: বেড়ানোর ইচ্ছা বলুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: বেড়ানোর ইচ্ছা বলুন
 
-00–05s — say Hindi: “मैं एक बार वियना जाना चाहती हूँ।” THEN say its meaning in Bangla: “আমি একবার ভিয়েনায় যেতে চাই।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मैं एक बार वियना जाना चाहती हूँ।” Then say its Bangla meaning once: “আমি একবার ভিয়েনায় যেতে চাই।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मैं एक बार वियना जाना चाहती हूँ।
-উচ্চারণ: ম্যাঁ এক বার বিয়না জানা চাহতী হুঁ।
-অর্থ: আমি একবার ভিয়েনায় যেতে চাই।
-05–10s — say Hindi: “उसके लिए हर महीने पैसे बचाती हूँ।” THEN say its meaning in Bangla: “সেজন্য প্রতি মাসে টাকা জমাই।”; display all three caption lines:
+ম্যাঁ এক বার বিয়না জানা চাহতী হুঁ।
+আমি একবার ভিয়েনায় যেতে চাই।
+05–10s
+AUDIO: Say Hindi once: “उसके लिए हर महीने पैसे बचाती हूँ।” Then say its Bangla meaning once: “সেজন্য প্রতি মাসে টাকা জমাই।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 उसके लिए हर महीने पैसे बचाती हूँ।
-উচ্চারণ: উসকে লিয়ে হর মহীনে প্যায়সে বচাতী হুঁ।
-অর্থ: সেজন্য প্রতি মাসে টাকা জমাই।
+উসকে লিয়ে হর মহীনে প্যায়সে বচাতী হুঁ।
+সেজন্য প্রতি মাসে টাকা জমাই।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 237
@@ -2677,21 +3121,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_237`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: কাজের কাছে থাকতে চান
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: কাজের কাছে থাকতে চান
 
-00–05s — say Hindi: “मैं दफ़्तर के पास रहना चाहती हूँ।” THEN say its meaning in Bangla: “আমি অফিসের কাছে থাকতে চাই।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मैं दफ़्तर के पास रहना चाहती हूँ।” Then say its Bangla meaning once: “আমি অফিসের কাছে থাকতে চাই।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मैं दफ़्तर के पास रहना चाहती हूँ।
-উচ্চারণ: ম্যাঁ দফতর কে পাস রহনা চাহতী হুঁ।
-অর্থ: আমি অফিসের কাছে থাকতে চাই।
-05–10s — say Hindi: “फिर सुबह कम समय लगेगा।” THEN say its meaning in Bangla: “তাহলে সকালে কম সময় লাগবে।”; display all three caption lines:
+ম্যাঁ দফতর কে পাস রহনা চাহতী হুঁ।
+আমি অফিসের কাছে থাকতে চাই।
+05–10s
+AUDIO: Say Hindi once: “फिर सुबह कम समय लगेगा।” Then say its Bangla meaning once: “তাহলে সকালে কম সময় লাগবে।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 फिर सुबह कम समय लगेगा।
-উচ্চারণ: ফির সুবহ কম সময় লগেগা।
-অর্থ: তাহলে সকালে কম সময় লাগবে।
+ফির সুবহ কম সময় লগেগা।
+তাহলে সকালে কম সময় লাগবে।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 238
@@ -2701,21 +3149,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_238`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: কাজের প্রতিশ্রুতি দিন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: কাজের প্রতিশ্রুতি দিন
 
-00–05s — say Hindi: “मैं कल इसका ध्यान रखूँगी।” THEN say its meaning in Bangla: “কাল আমি বিষয়টা দেখব।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मैं कल इसका ध्यान रखूँगी।” Then say its Bangla meaning once: “কাল আমি বিষয়টা দেখব।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मैं कल इसका ध्यान रखूँगी।
-উচ্চারণ: ম্যাঁ কল ইসকা ধ্যান রখুঙ্গী।
-অর্থ: কাল আমি বিষয়টা দেখব।
-05–10s — say Hindi: “पूरा होते ही बता दूँगी।” THEN say its meaning in Bangla: “শেষ হলেই জানিয়ে দেব।”; display all three caption lines:
+ম্যাঁ কল ইসকা ধ্যান রখুঙ্গী।
+কাল আমি বিষয়টা দেখব।
+05–10s
+AUDIO: Say Hindi once: “पूरा होते ही बता दूँगी।” Then say its Bangla meaning once: “শেষ হলেই জানিয়ে দেব।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 पूरा होते ही बता दूँगी।
-উচ্চারণ: পুরা হোতে হী বতা দুঙ্গী।
-অর্থ: শেষ হলেই জানিয়ে দেব।
+পুরা হোতে হী বতা দুঙ্গী।
+শেষ হলেই জানিয়ে দেব।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 239
@@ -2725,21 +3177,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_239`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: বিকল্প পরিকল্পনা বলুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: বিকল্প পরিকল্পনা বলুন
 
-00–05s — say Hindi: “ट्रेन रद्द हुई तो बस ले लेंगे।” THEN say its meaning in Bangla: “ট্রেন বাতিল হলে বাসে যাব।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “ट्रेन रद्द हुई तो बस ले लेंगे।” Then say its Bangla meaning once: “ট্রেন বাতিল হলে বাসে যাব।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 ट्रेन रद्द हुई तो बस ले लेंगे।
-উচ্চারণ: ট্রেন রদ্দ হুঈ তো বস লে লেঙ্গে।
-অর্থ: ট্রেন বাতিল হলে বাসে যাব।
-05–10s — say Hindi: “हम फिर भी समय पर पहुँचेंगे।” THEN say its meaning in Bangla: “তবুও আমরা সময়মতো পৌঁছাব।”; display all three caption lines:
+ট্রেন রদ্দ হুঈ তো বস লে লেঙ্গে।
+ট্রেন বাতিল হলে বাসে যাব।
+05–10s
+AUDIO: Say Hindi once: “हम फिर भी समय पर पहुँचेंगे।” Then say its Bangla meaning once: “তবুও আমরা সময়মতো পৌঁছাব।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 हम फिर भी समय पर पहुँचेंगे।
-উচ্চারণ: হম ফির ভী সময় পর পহুঁচেঙ্গে।
-অর্থ: তবুও আমরা সময়মতো পৌঁছাব।
+হম ফির ভী সময় পর পহুঁচেঙ্গে।
+তবুও আমরা সময়মতো পৌঁছাব।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 240
@@ -2749,21 +3205,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_240`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: ভবিষ্যতের ইচ্ছা বলুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: ভবিষ্যতের ইচ্ছা বলুন
 
-00–05s — say Hindi: “बाद में मैं व्यावसायिक प्रशिक्षण लेना चाहती हूँ।” THEN say its meaning in Bangla: “পরে আমি কারিগরি প্রশিক্ষণ নিতে চাই।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “बाद में मैं व्यावसायिक प्रशिक्षण लेना चाहती हूँ।” Then say its Bangla meaning once: “পরে আমি কারিগরি প্রশিক্ষণ নিতে চাই।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 बाद में मैं व्यावसायिक प्रशिक्षण लेना चाहती हूँ।
-উচ্চারণ: বাদ মেঁ ম্যাঁ ব্যাবসায়িক প্রশিক্‌শণ লেনা চাহতী হুঁ।
-অর্থ: পরে আমি কারিগরি প্রশিক্ষণ নিতে চাই।
-05–10s — say Hindi: “पहले मुझे अपनी हिंदी बेहतर करनी है।” THEN say its meaning in Bangla: “আগে আমার হিন্দি আরও ভালো করতে হবে।”; display all three caption lines:
+বাদ মেঁ ম্যাঁ ব্যাবসায়িক প্রশিক্‌শণ লেনা চাহতী হুঁ।
+পরে আমি কারিগরি প্রশিক্ষণ নিতে চাই।
+05–10s
+AUDIO: Say Hindi once: “पहले मुझे अपनी हिंदी बेहतर करनी है।” Then say its Bangla meaning once: “আগে আমার হিন্দি আরও ভালো করতে হবে।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 पहले मुझे अपनी हिंदी बेहतर करनी है।
-উচ্চারণ: পহলে মুঝে অপনী হিন্দী বেহতর করনী হ্যায়।
-অর্থ: আগে আমার হিন্দি আরও ভালো করতে হবে।
+পহলে মুঝে অপনী হিন্দী বেহতর করনী হ্যায়।
+আগে আমার হিন্দি আরও ভালো করতে হবে।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 241
@@ -2773,21 +3233,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_241`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: জরুরি সাহায্য চান
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: জরুরি সাহায্য চান
 
-00–05s — say Hindi: “कृपया एम्बुलेंस बुलाइए।” THEN say its meaning in Bangla: “দয়া করে অ্যাম্বুলেন্স ডাকুন।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “कृपया एम्बुलेंस बुलाइए।” Then say its Bangla meaning once: “দয়া করে অ্যাম্বুলেন্স ডাকুন।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 कृपया एम्बुलेंस बुलाइए।
-উচ্চারণ: কৃপয়া এম্বুলেন্স বুলাইয়ে।
-অর্থ: দয়া করে অ্যাম্বুলেন্স ডাকুন।
-05–10s — say Hindi: “यहाँ किसी को तुरंत मदद चाहिए।” THEN say its meaning in Bangla: “এখানে একজনের জরুরি সাহায্য দরকার।”; display all three caption lines:
+কৃপয়া এম্বুলেন্স বুলাইয়ে।
+দয়া করে অ্যাম্বুলেন্স ডাকুন।
+05–10s
+AUDIO: Say Hindi once: “यहाँ किसी को तुरंत मदद चाहिए।” Then say its Bangla meaning once: “এখানে একজনের জরুরি সাহায্য দরকার।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 यहाँ किसी को तुरंत मदद चाहिए।
-উচ্চারণ: ইয়হাঁ কিসী কো তুরন্ত মদদ চাহিয়ে।
-অর্থ: এখানে একজনের জরুরি সাহায্য দরকার।
+ইয়হাঁ কিসী কো তুরন্ত মদদ চাহিয়ে।
+এখানে একজনের জরুরি সাহায্য দরকার।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 242
@@ -2797,21 +3261,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_242`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: চুরির অভিযোগ জানান
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: চুরির অভিযোগ জানান
 
-00–05s — say Hindi: “मेरी साइकिल चोरी हो गई है।” THEN say its meaning in Bangla: “আমার সাইকেল চুরি হয়েছে।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मेरी साइकिल चोरी हो गई है।” Then say its Bangla meaning once: “আমার সাইকেল চুরি হয়েছে।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मेरी साइकिल चोरी हो गई है।
-উচ্চারণ: মেরী সাইকিল চোরী হো গঈ হ্যায়।
-অর্থ: আমার সাইকেল চুরি হয়েছে।
-05–10s — say Hindi: “मैं चोरी की शिकायत करना चाहती हूँ।” THEN say its meaning in Bangla: “আমি চুরির অভিযোগ করতে চাই।”; display all three caption lines:
+মেরী সাইকিল চোরী হো গঈ হ্যায়।
+আমার সাইকেল চুরি হয়েছে।
+05–10s
+AUDIO: Say Hindi once: “मैं चोरी की शिकायत करना चाहती हूँ।” Then say its Bangla meaning once: “আমি চুরির অভিযোগ করতে চাই।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मैं चोरी की शिकायत करना चाहती हूँ।
-উচ্চারণ: ম্যাঁ চোরী কী শিকায়ত করনা চাহতী হুঁ।
-অর্থ: আমি চুরির অভিযোগ করতে চাই।
+ম্যাঁ চোরী কী শিকায়ত করনা চাহতী হুঁ।
+আমি চুরির অভিযোগ করতে চাই।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 243
@@ -2821,21 +3289,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_243`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: বুকিং সমস্যা বুঝিয়ে বলুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: বুকিং সমস্যা বুঝিয়ে বলুন
 
-00–05s — say Hindi: “सिस्टम में मेरी बुकिंग नहीं है।” THEN say its meaning in Bangla: “সিস্টেমে আমার বুকিং নেই।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “सिस्टम में मेरी बुकिंग नहीं है।” Then say its Bangla meaning once: “সিস্টেমে আমার বুকিং নেই।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 सिस्टम में मेरी बुकिंग नहीं है।
-উচ্চারণ: সিস্টম মেঁ মেরী বুকিং নহীঁ হ্যায়।
-অর্থ: সিস্টেমে আমার বুকিং নেই।
-05–10s — say Hindi: “लेकिन मुझे पुष्टि का संदेश मिला था।” THEN say its meaning in Bangla: “কিন্তু আমি নিশ্চয়তার বার্তা পেয়েছি।”; display all three caption lines:
+সিস্টম মেঁ মেরী বুকিং নহীঁ হ্যায়।
+সিস্টেমে আমার বুকিং নেই।
+05–10s
+AUDIO: Say Hindi once: “लेकिन मुझे पुष्टि का संदेश मिला था।” Then say its Bangla meaning once: “কিন্তু আমি নিশ্চয়তার বার্তা পেয়েছি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 लेकिन मुझे पुष्टि का संदेश मिला था।
-উচ্চারণ: লেকিন মুঝে পুষ্টি কা সন্দেশ মিলা থা।
-অর্থ: কিন্তু আমি নিশ্চয়তার বার্তা পেয়েছি।
+লেকিন মুঝে পুষ্টি কা সন্দেশ মিলা থা।
+কিন্তু আমি নিশ্চয়তার বার্তা পেয়েছি।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 244
@@ -2845,21 +3317,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_244`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: টাকা ফেরত চাইতে বলুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: টাকা ফেরত চাইতে বলুন
 
-00–05s — say Hindi: “सामान टूटा हुआ आया है।” THEN say its meaning in Bangla: “পণ্যটি নষ্ট অবস্থায় এসেছে।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “सामान टूटा हुआ आया है।” Then say its Bangla meaning once: “পণ্যটি নষ্ট অবস্থায় এসেছে।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 सामान टूटा हुआ आया है।
-উচ্চারণ: সামান টুটা হুআ আয়া হ্যায়।
-অর্থ: পণ্যটি নষ্ট অবস্থায় এসেছে।
-05–10s — say Hindi: “मुझे मेरे पैसे वापस चाहिए।” THEN say its meaning in Bangla: “আমি আমার টাকা ফেরত চাই।”; display all three caption lines:
+সামান টুটা হুআ আয়া হ্যায়।
+পণ্যটি নষ্ট অবস্থায় এসেছে।
+05–10s
+AUDIO: Say Hindi once: “मुझे मेरे पैसे वापस चाहिए।” Then say its Bangla meaning once: “আমি আমার টাকা ফেরত চাই।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मुझे मेरे पैसे वापस चाहिए।
-উচ্চারণ: মুঝে মেরে প্যায়সে বাপস চাহিয়ে।
-অর্থ: আমি আমার টাকা ফেরত চাই।
+মুঝে মেরে প্যায়সে বাপস চাহিয়ে।
+আমি আমার টাকা ফেরত চাই।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 245
@@ -2869,21 +3345,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_245`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: ভুল বোঝাবুঝি পরিষ্কার করুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: ভুল বোঝাবুঝি পরিষ্কার করুন
 
-00–05s — say Hindi: “मैंने इसका अलग मतलब समझा था।” THEN say its meaning in Bangla: “আমি সেটা অন্যভাবে বুঝেছিলাম।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मैंने इसका अलग मतलब समझा था।” Then say its Bangla meaning once: “আমি সেটা অন্যভাবে বুঝেছিলাম।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मैंने इसका अलग मतलब समझा था।
-উচ্চারণ: ম্যাঁনে ইসকা অলগ মতলব সমঝা থা।
-অর্থ: আমি সেটা অন্যভাবে বুঝেছিলাম।
-05–10s — say Hindi: “क्या आप और साफ़ समझाएँगे?” THEN say its meaning in Bangla: “আরও স্পষ্ট করে বলবেন?”; display all three caption lines:
+ম্যাঁনে ইসকা অলগ মতলব সমঝা থা।
+আমি সেটা অন্যভাবে বুঝেছিলাম।
+05–10s
+AUDIO: Say Hindi once: “क्या आप और साफ़ समझाएँगे?” Then say its Bangla meaning once: “আরও স্পষ্ট করে বলবেন?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 क्या आप और साफ़ समझाएँगे?
-উচ্চারণ: ক্যা আপ ঔর সাফ সমঝাএঁগে?
-অর্থ: আরও স্পষ্ট করে বলবেন?
+ক্যা আপ ঔর সাফ সমঝাএঁগে?
+আরও স্পষ্ট করে বলবেন?
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 246
@@ -2893,21 +3373,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_246`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: ভুলের জন্য ক্ষমা চান
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: ভুলের জন্য ক্ষমা চান
 
-00–05s — say Hindi: “मैंने गलती से आपका बैग ले लिया।” THEN say its meaning in Bangla: “ভুল করে আপনার ব্যাগ নিয়েছি।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मैंने गलती से आपका बैग ले लिया।” Then say its Bangla meaning once: “ভুল করে আপনার ব্যাগ নিয়েছি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मैंने गलती से आपका बैग ले लिया।
-উচ্চারণ: ম্যাঁনে গলতী সে আপকা ব্যাগ লে লিয়া।
-অর্থ: ভুল করে আপনার ব্যাগ নিয়েছি।
-05–10s — say Hindi: “मैंने यह जानबूझकर नहीं किया।” THEN say its meaning in Bangla: “এটা ইচ্ছা করে করিনি।”; display all three caption lines:
+ম্যাঁনে গলতী সে আপকা ব্যাগ লে লিয়া।
+ভুল করে আপনার ব্যাগ নিয়েছি।
+05–10s
+AUDIO: Say Hindi once: “मैंने यह जानबूझकर नहीं किया।” Then say its Bangla meaning once: “এটা ইচ্ছা করে করিনি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मैंने यह जानबूझकर नहीं किया।
-উচ্চারণ: ম্যাঁনে ইয়হ জানবুঝকর নহীঁ কিয়া।
-অর্থ: এটা ইচ্ছা করে করিনি।
+ম্যাঁনে ইয়হ জানবুঝকর নহীঁ কিয়া।
+এটা ইচ্ছা করে করিনি।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 247
@@ -2917,21 +3401,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_247`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: বিল আবার দেখতে বলুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: বিল আবার দেখতে বলুন
 
-00–05s — say Hindi: “मुझे लगता है कि बिल गलत है।” THEN say its meaning in Bangla: “আমার মনে হয় বিলটা ঠিক নেই।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मुझे लगता है कि बिल गलत है।” Then say its Bangla meaning once: “আমার মনে হয় বিলটা ঠিক নেই।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मुझे लगता है कि बिल गलत है।
-উচ্চারণ: মুঝে লগতা হ্যায় কি বিল গলত হ্যায়।
-অর্থ: আমার মনে হয় বিলটা ঠিক নেই।
-05–10s — say Hindi: “क्या आप फिर से हिसाब करेंगे?” THEN say its meaning in Bangla: “দয়া করে আবার হিসাব করবেন?”; display all three caption lines:
+মুঝে লগতা হ্যায় কি বিল গলত হ্যায়।
+আমার মনে হয় বিলটা ঠিক নেই।
+05–10s
+AUDIO: Say Hindi once: “क्या आप फिर से हिसाब करेंगे?” Then say its Bangla meaning once: “দয়া করে আবার হিসাব করবেন?”
+EXACT ON-SCREEN CAPTION — only these three rows:
 क्या आप फिर से हिसाब करेंगे?
-উচ্চারণ: ক্যা আপ ফির সে হিসাব করেঙ্গে?
-অর্থ: দয়া করে আবার হিসাব করবেন?
+ক্যা আপ ফির সে হিসাব করেঙ্গে?
+দয়া করে আবার হিসাব করবেন?
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 248
@@ -2941,21 +3429,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_248`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: কী চেষ্টা করেছেন বলুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: কী চেষ্টা করেছেন বলুন
 
-00–05s — say Hindi: “मैंने पहले ही दो बार कोशिश की।” THEN say its meaning in Bangla: “আমি আগেই দুবার চেষ্টা করেছি।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “मैंने पहले ही दो बार कोशिश की।” Then say its Bangla meaning once: “আমি আগেই দুবার চেষ্টা করেছি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 मैंने पहले ही दो बार कोशिश की।
-উচ্চারণ: ম্যাঁনে পহলে হী দো বার কোশিশ কী।
-অর্থ: আমি আগেই দুবার চেষ্টা করেছি।
-05–10s — say Hindi: “अफ़सोस, यह अभी भी नहीं चल रहा।” THEN say its meaning in Bangla: “দুঃখিত, এখনো কাজ করছে না।”; display all three caption lines:
+ম্যাঁনে পহলে হী দো বার কোশিশ কী।
+আমি আগেই দুবার চেষ্টা করেছি।
+05–10s
+AUDIO: Say Hindi once: “अफ़सोस, यह अभी भी नहीं चल रहा।” Then say its Bangla meaning once: “দুঃখিত, এখনো কাজ করছে না।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 अफ़सोस, यह अभी भी नहीं चल रहा।
-উচ্চারণ: অফসোস, ইয়হ অভী ভী নহীঁ চল রহা।
-অর্থ: দুঃখিত, এখনো কাজ করছে না।
+অফসোস, ইয়হ অভী ভী নহীঁ চল রহা।
+দুঃখিত, এখনো কাজ করছে না।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 249
@@ -2965,21 +3457,25 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_249`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: একসঙ্গে সমাধান খুঁজুন
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: একসঙ্গে সমাধান খুঁজুন
 
-00–05s — say Hindi: “हमें ज़रूर कोई हल मिलेगा।” THEN say its meaning in Bangla: “আমরা নিশ্চয়ই একটা সমাধান পাব।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “हमें ज़रूर कोई हल मिलेगा।” Then say its Bangla meaning once: “আমরা নিশ্চয়ই একটা সমাধান পাব।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 हमें ज़रूर कोई हल मिलेगा।
-উচ্চারণ: হমেঁ জরুর কোঈ হল মিলেগা।
-অর্থ: আমরা নিশ্চয়ই একটা সমাধান পাব।
-05–10s — say Hindi: “आइए, दूसरे तरीके देखते हैं।” THEN say its meaning in Bangla: “চলুন অন্য উপায়গুলো দেখি।”; display all three caption lines:
+হমেঁ জরুর কোঈ হল মিলেগা।
+আমরা নিশ্চয়ই একটা সমাধান পাব।
+05–10s
+AUDIO: Say Hindi once: “आइए, दूसरे तरीके देखते हैं।” Then say its Bangla meaning once: “চলুন অন্য উপায়গুলো দেখি।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 आइए, दूसरे तरीके देखते हैं।
-উচ্চারণ: আইয়ে, দুসরে তরীকে দেখতে হ্যাঁয়।
-অর্থ: চলুন অন্য উপায়গুলো দেখি।
+আইয়ে, দুসরে তরীকে দেখতে হ্যাঁয়।
+চলুন অন্য উপায়গুলো দেখি।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```
 
 # Prompt 250
@@ -2989,19 +3485,23 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_250`
 
 ```text
-Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-CAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds.
-Upload title (not spoken): হিন্দি শিখুন: সাহায্যের জন্য কৃতজ্ঞতা জানান
+Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
+Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
+Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
+Upload title (metadata only, never on screen or spoken): হিন্দি শিখুন: সাহায্যের জন্য কৃতজ্ঞতা জানান
 
-00–05s — say Hindi: “आपकी मदद मेरे लिए बहुत कीमती थी।” THEN say its meaning in Bangla: “আপনার সাহায্য আমার জন্য অনেক মূল্যবান ছিল।”; display all three caption lines:
+00–05s
+AUDIO: Say Hindi once: “आपकी मदद मेरे लिए बहुत कीमती थी।” Then say its Bangla meaning once: “আপনার সাহায্য আমার জন্য অনেক মূল্যবান ছিল।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 आपकी मदद मेरे लिए बहुत कीमती थी।
-উচ্চারণ: আপকী মদদ মেরে লিয়ে বহুত কীমতী থী।
-অর্থ: আপনার সাহায্য আমার জন্য অনেক মূল্যবান ছিল।
-05–10s — say Hindi: “अब मुझे पता है कि आगे क्या करूँ।” THEN say its meaning in Bangla: “এখন জানি কীভাবে এগোব।”; display all three caption lines:
+আপকী মদদ মেরে লিয়ে বহুত কীমতী থী।
+আপনার সাহায্য আমার জন্য অনেক মূল্যবান ছিল।
+05–10s
+AUDIO: Say Hindi once: “अब मुझे पता है कि आगे क्या करूँ।” Then say its Bangla meaning once: “এখন জানি কীভাবে এগোব।”
+EXACT ON-SCREEN CAPTION — only these three rows:
 अब मुझे पता है कि आगे क्या करूँ।
-উচ্চারণ: অব মুঝে পতা হ্যায় কি আগে ক্যা করুঁ।
-অর্থ: এখন জানি কীভাবে এগোব।
+অব মুঝে পতা হ্যায় কি আগে ক্যা করুঁ।
+এখন জানি কীভাবে এগোব।
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds.
 ```

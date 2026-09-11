@@ -104,13 +104,12 @@ def main():
     for lesson in lessons:
         prompt = actual[f"prompt_{lesson['video_number']}"]
         assert lesson["upload_title"] in prompt
-        assert prompt.count("display all three caption lines:") == 2
+        assert prompt.count("EXACT ON-SCREEN CAPTION — only these three rows:") == 2
         for sentence in lesson["sentences"]:
             assert sentence["hindi"] in prompt
             assert sentence["bangla_meaning"] in prompt
             assert sentence["bangla_pronunciation"] in prompt
-            assert f"উচ্চারণ: {sentence['bangla_pronunciation']}" in prompt
-            assert f"অর্থ: {sentence['bangla_meaning']}" in prompt
+            assert "\n".join([sentence["hindi"], sentence["bangla_pronunciation"], sentence["bangla_meaning"]]) in prompt
     for path in HINDI.glob("*.json"):
         json.loads(path.read_text(encoding="utf-8"))
     for part in (1, 2):

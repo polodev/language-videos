@@ -131,7 +131,19 @@
       "bangla_meaning_1",
       "hindi_sentence_2",
       "bangla_meaning_2"
-    ]
+    ],
+    "caption_layout": {
+      "rows_per_sentence": 3,
+      "row_order": [
+        "original_hindi_devanagari",
+        "pronunciation_bangla_only",
+        "meaning_bangla_only"
+      ],
+      "labels": false,
+      "wrapping": false,
+      "duplicate_rows": false,
+      "spoken_pronunciation_guide": false
+    }
   },
   {
     "name": "Japanese",
