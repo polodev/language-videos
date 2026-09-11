@@ -1,7 +1,7 @@
 """Verify compilation ordering against encoded source packets; refresh metadata."""
 import argparse, concurrent.futures, json
 from pathlib import Path
-from render_video_delivery import ROOT, run, sha, save, metadata
+from render_video_delivery import ROOT, run, sha, save, metadata, export_delivery
 
 def packet_hashes(path):
     data=json.loads(run(['ffprobe','-v','error','-select_streams','v:0','-show_packets','-show_data_hash','sha256','-show_entries','packet=flags,data_hash','-of','json',str(path)]))
@@ -21,7 +21,7 @@ def main():
     with concurrent.futures.ThreadPoolExecutor(max_workers=3) as pool:hashes=dict(pool.map(source,records.values()))
     report=[]
     for size,groups in plan['groups'].items():
-        folder=base/cfg['outputs'][size]['folder'];content=json.loads((folder/'content.json').read_text())
+        folder=base/cfg['outputs'][size]['folder'];content=json.loads((work/f'{size}-content-manifest.json').read_text())
         assert content['video_count']==len(groups)
         old={int(Path(v['file']).stem):v for v in content['videos']}
         def check(group):
@@ -40,8 +40,8 @@ def main():
         assert len(set(x['title'] for x in items))==len(items)
         assert all(x['project_title'] and len(x['title'])<=100 and len(x['description'])<=5000 for x in items)
         assert {p.name for p in folder.iterdir() if p.suffix=='.mp4'}=={x['file'] for x in items}
-        content['videos']=items;save(folder/'content.json',content)
+        content['videos']=items;export_delivery(folder,work,size,content)
         report.append({'size':size,'count':len(items),'packet_order_verified':True,'source_files_unchanged':True,'full_decode_passed':True,'total_duration_seconds':sum(x['duration_seconds'] for x in items)})
         print(f'Verified {size}: {len(items)} outputs; refreshed public titles and project_title.',flush=True)
-    save(work/'verification.json',{'status':'verified','locale':args.locale,'source_count':len(records),'stamp':plan['stamp_text'],'groups':report,'upload_schema_status':'provisional_awaiting_uploader_example'})
+    save(work/'verification.json',{'status':'verified','locale':args.locale,'source_count':len(records),'stamp':plan['stamp_text'],'groups':report,'upload_schema_status':'numbered_project_title_title_content'})
 if __name__=='__main__':main()

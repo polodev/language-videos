@@ -1,7 +1,7 @@
 """Stamp captioned sources once, concatenate groups, and export upload metadata.
 
 Run prepare_video_delivery.py and render its HyperFrames PNG before this script.
-Upload metadata is provisional until an uploader example schema is supplied.
+Upload JSON uses numbered objects with project_title, title and content only.
 """
 import argparse, concurrent.futures, hashlib, json, os, subprocess
 from collections import Counter
@@ -19,6 +19,22 @@ def sha(path):
 def save(path,obj):
     temp=path.with_name(path.name+f'.{os.getpid()}.tmp')
     temp.write_text(json.dumps(obj,ensure_ascii=False,indent=2)+'\n');temp.replace(path)
+
+def upload_content(items):
+    """Numbered keys correspond to MP4 filenames; keep internal metadata separate."""
+    result={}
+    for item in sorted(items,key=lambda row:int(Path(row['file']).stem)):
+        number=str(int(Path(item['file']).stem))
+        if number in result:raise ValueError(f'Duplicate upload number: {number}')
+        result[number]={'project_title':item['project_title'],
+                        'title':item['title'].replace('পর্ব','Episode'),
+                        'content':item['description']}
+    return result
+
+def export_delivery(folder,work,size,manifest):
+    """Preserve provenance locally and write only the uploader's three fields."""
+    save(work/f'{size}-content-manifest.json',manifest)
+    save(folder/'content.json',upload_content(manifest['videos']))
 
 def probe(path):
     data=json.loads(run(['ffprobe','-v','error','-show_streams','-show_format','-of','json',str(path)]))
@@ -60,8 +76,8 @@ def metadata(group,records,plan,cfg,size):
     short_topics=list(dict.fromkeys(short_topics))
     focus=topics[0] if len(topics)==1 else (', '.join(short_topics[:-1])+' ও '+short_topics[-1] if len(short_topics)>1 else short_topics[0])
     if len(focus)>45:focus=' ও '.join(short_topics[:2])
-    part=bnnum(group['number']);title=f'{bn} শিখুন: {focus} | {bnnum(sentences)}টি বাক্য | পর্ব {part}'
-    if len(title)>100:title=f'বাংলায় {bn} শিখুন | {bnnum(sentences)}টি দরকারি বাক্য | পর্ব {part}'
+    part=bnnum(group['number']);title=f'{bn} শিখুন: {focus} | {bnnum(sentences)}টি বাক্য | Episode {part}'
+    if len(title)>100:title=f'বাংলায় {bn} শিখুন | {bnnum(sentences)}টি দরকারি বাক্য | Episode {part}'
     lines=[f'{focus} নিয়ে {bnnum(sentences)}টি সহজ {bn} বাক্য শিখুন—বাংলা উচ্চারণ ও অর্থসহ।',f'এই সংকলনে আছে: {", ".join(topics)}।','',f'{brand} | Learn {language} easily through Bangla.','ভিডিও শুনুন, বাংলা উচ্চারণ দেখে বলুন এবং নিজে অনুশীলন করুন।','','এই ভিডিওর পাঠ:']
     offset=0;segments=[]
     for n,l in zip(group['source_numbers'],lessons):
@@ -119,8 +135,8 @@ def main():
         items.sort(key=lambda item:int(Path(item['file']).stem))
         assert [n for item in items for n in item['source_video_numbers']]==list(records)
         assert len({item['title'] for item in items})==len(items)
-        payload={'schema_version':1,'schema_status':'provisional_awaiting_uploader_example','locale':args.locale,'brand_name':cfg['brand_name_template'].format(language=plan['language']),'handle':cfg['handle_template'].format(language=plan['language']),'stamp':plan['stamp_text'],'size':size,'clips_per_video':cfg['outputs'][size]['clips_per_video'],'grouping':cfg['grouping'],'remainder':cfg['remainder'],'path_base':'same folder as content.json','video_count':len(items),'videos':items}
-        save(base/cfg['outputs'][size]['folder']/'content.json',payload)
+        payload={'schema_version':1,'schema_status':'internal_delivery_manifest','locale':args.locale,'brand_name':cfg['brand_name_template'].format(language=plan['language']),'handle':cfg['handle_template'].format(language=plan['language']),'stamp':plan['stamp_text'],'size':size,'clips_per_video':cfg['outputs'][size]['clips_per_video'],'grouping':cfg['grouping'],'remainder':cfg['remainder'],'path_base':'same folder as content.json','video_count':len(items),'videos':items}
+        export_delivery(base/cfg['outputs'][size]['folder'],work,size,payload)
     save(work/'verification.json',{'status':'verified','source_count':len(records),'groups':{k:len(v) for k,v in plan['groups'].items()},'stamp':plan['stamp_text'],'source_files_preserved':True})
     print('All delivery groups rendered and decoded successfully.',flush=True)
 if __name__=='__main__':main()

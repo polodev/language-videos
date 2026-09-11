@@ -32,11 +32,21 @@ Rendering resumes from source/output hashes. Compilation exports are checked for
 
 ## Upload metadata
 
-Each output folder contains one `content.json`. Paths in it are relative to that same folder; move the folder and JSON together.
+Each output folder contains one `content.json` matching the supplied uploader example:
 
-Until the requested example file can be read, the JSON uses an explicit provisional schema (`schema_status: provisional_awaiting_uploader_example`). Do not assume that an unknown uploader accepts it. Once an accessible example is supplied, adapt the export shape while retaining source IDs and segment timing in the local manifest.
+```json
+{
+  "1": {
+    "project_title": "Hindi small 001 — merged from video IDs 1, 2, 3",
+    "title": "হিন্দি শিখুন: সম্ভাষণ ও পরিচয় | ৬টি বাক্য | Episode ১",
+    "content": "সম্ভাষণ ও পরিচয় নিয়ে ৬টি সহজ হিন্দি বাক্য শিখুন—বাংলা উচ্চারণ ও অর্থসহ।"
+  }
+}
+```
 
-Each video entry has an internal `project_title`, for example `Hindi small 001 — merged from video IDs 1, 2, 3`. This is for identifying the source clips in the uploader; `title` remains the public SEO title. Each video entry also contains a Bengali topic-based title, description, short social caption, tags, hashtags, source lesson numbers, original sentences, segment times, stamp text, checksum and verification result. Platform-specific text is grouped under `platforms`. The full description lists lesson times; these are plain timestamps, not a claim of automatic platform chapters.
+Each numbered key matches its video filename (`"1"` → `1.mp4`). Each entry contains exactly `project_title`, `title`, and `content`. The public description goes in `content`; there is no `description` field or metadata wrapper. `project_title` is an internal identification label listing merged source IDs. Public titles use **Episode**, not **পর্ব**.
+
+Detailed provenance, source IDs, sentence data, platform variations, hashes and verification results stay in `<locale>/.local/video-delivery/<size>-content-manifest.json`. Both the renderer and verifier use these local manifests and export the same three-key upload format. No video re-render is needed for this metadata change.
 
 Titles reflect actual topics and sentence counts. Each has a part number, with the learning topic before it. Description and keyword guidance: [channel research](../channel%20informations/keyword-research.md). These are relevant search phrases, not measured search volumes or a ranking guarantee.
 
