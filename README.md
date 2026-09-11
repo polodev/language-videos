@@ -2,18 +2,17 @@
 
 **হিন্দি ও জার্মান—প্রতিটিতে ৫০০ বাক্য এবং ২৫০টি সম্পূর্ণ প্রম্পট। প্রতিটি ভিডিও সর্বোচ্চ ১০ সেকেন্ড।**
 
-একজন অত্যন্ত সুন্দরী, স্মার্ট, আত্মবিশ্বাসী প্রাপ্তবয়স্ক নারী উপস্থাপক দুটি বাক্য শেখাবেন। প্রথম বাক্য ০–৫ সেকেন্ডে, দ্বিতীয়টি ৫–১০ সেকেন্ডে। হিন্দি ভিডিওতে তিনি প্রথমে হিন্দি বাক্য, তারপর তার বাংলা অর্থ বলবেন; দ্বিতীয় বাক্যেও একই ক্রম থাকবে। জার্মান ভিডিওতে মূল ভাষার বাক্য বলা হবে। একই সময়ে ক্যাপশনে মূল বাক্য, বাংলা উচ্চারণ ও বাংলা অর্থ দেখা যাবে। দর্শকের ইংরেজি বা নতুন ভাষার অক্ষর জানার দরকার নেই।
+একজন অত্যন্ত সুন্দরী, স্মার্ট, আত্মবিশ্বাসী প্রাপ্তবয়স্ক নারী উপস্থাপক দুটি বাক্য শেখাবেন। প্রথম বাক্য ০–৫ সেকেন্ডে, দ্বিতীয়টি ৫–১০ সেকেন্ডে। হিন্দি ভিডিওতে তিনি প্রথমে হিন্দি বাক্য, তারপর তার বাংলা অর্থ বলবেন; দ্বিতীয় বাক্যেও একই ক্রম থাকবে। জার্মান ভিডিওতে মূল ভাষার বাক্য বলা হবে। ভিডিওতে কোনো লেখা, ক্যাপশন বা সাবটাইটেল থাকবে না। দর্শকের ইংরেজি বা নতুন ভাষার অক্ষর জানার দরকার নেই।
 
 ## Markdown না JSON?
 
-**নিজে পড়ে কপি করতে Markdown; এক্সটেনশনের জন্য JSON।** দুই ফরম্যাটে একই প্রম্পট আছে। Markdown-এ `# Prompt 1`, তারপর আপলোড শিরোনাম এবং সম্পূর্ণ প্রম্পটের কোড ব্লক। শুধু সাবটাইটেল দেখতে `captions.md` খুলুন; সেখানেও একই প্রম্পট নম্বর আছে।
+**নিজে পড়ে কপি করতে Markdown; এক্সটেনশনের জন্য JSON।** দুই ফরম্যাটে একই প্রম্পট আছে। Markdown-এ `# Prompt 1`, তারপর আপলোড শিরোনাম এবং সম্পূর্ণ প্রম্পটের কোড ব্লক। ভিডিওতে শুধু উপস্থাপক ও তাঁর কথা থাকবে।
 
 | কাজ | হিন্দি | জার্মান |
 | --- | --- | --- |
 | প্রম্পট ১–২৫০, JSON | [flow-prompts.json](hindi/flow-prompts.json) | [flow-prompts.json](german/flow-prompts.json) |
 | প্রম্পট ১–১২৫, Markdown | [flow-prompts-01.md](hindi/flow-prompts-01.md) | [flow-prompts-01.md](german/flow-prompts-01.md) |
 | প্রম্পট ১২৬–২৫০, Markdown | [flow-prompts-02.md](hindi/flow-prompts-02.md) | [flow-prompts-02.md](german/flow-prompts-02.md) |
-| মূল ভাষা ও বাংলা ক্যাপশন | [captions.md](hindi/captions.md) | [captions.md](german/captions.md) |
 | শুধু ৫০০ বাক্যের JSON array | [sentences.json](hindi/sentences.json) | [sentences.json](german/sentences.json) |
 | শিরোনাম, বাক্য, অর্থ ও উচ্চারণ | [videos.json](hindi/videos.json) | [videos.json](german/videos.json) |
 | সম্পাদনাযোগ্য ভাষা সহায়িকা | [bangla-support.txt](hindi/bangla-support.txt) | [bangla-support.txt](german/bangla-support.txt) |
@@ -37,27 +36,15 @@ prompts = json.loads(Path("hindi/flow-prompts.json").read_text())
 print(prompts["prompt_1"])
 ```
 
-Use the supplied Bangla upload title on YouTube Shorts, Instagram Reels or Facebook Reels. It is creator metadata, not extra spoken content. Every prompt contains its own presenter, duration, two sentences and exact captions; no previous prompt is required.
+Use the supplied Bangla upload title on YouTube Shorts, Instagram Reels or Facebook Reels. It is creator metadata, not extra spoken content. Every prompt contains its own presenter, duration and exact spoken sentences; no previous prompt is required.
 
-## ক্যাপশন কেমন হবে
+## Speech only — no visible text
 
-Hindi Prompt 1, 00–05 seconds:
+All Hindi and German prompts request **no text anywhere in the video**: no captions, subtitles, labels, title cards, text overlays, signs or background writing. Use a plain studio background. The Bangla upload title is creator metadata only; it must never be displayed or spoken in the video.
 
-```text
-मेरा नाम आशा है।
-মেরা নাম আশা হ্যায়।
-আমার নাম আশা।
-```
+Hindi speech remains: Hindi sentence 1 → Bangla meaning 1 → Hindi sentence 2 → Bangla meaning 2. Each quoted utterance is spoken once; do not repeat Hindi as a second pronunciation demonstration. German speech remains the two original German sentences, once each. Every video has a ten-second maximum.
 
-At 05–10 seconds, replace that group with:
-
-```text
-तुम्हारा नाम क्या है?
-তুমহারা নাম ক্যা হ্যায়?
-তোমার নাম কী?
-```
-
-Hindi captions must have exactly three single-line rows: original Hindi, its pronunciation in pure Bangla, and its meaning in pure Bangla. No labels, numbering, duplicated pronunciation, fourth row, automatic subtitle track or row wrapping. Fit each row within the safe width using readable text below the face and clear of bottom/right controls. The pronunciation row is never spoken; audio is Hindi followed by the spoken Bangla meaning for each sentence. Preserve Devanagari vowel signs and conjuncts, German special letters and Bangla glyphs. Hindi audio follows this order: Hindi sentence 1, Bangla meaning 1, Hindi sentence 2, Bangla meaning 2. Pronunciation guides and caption labels are visual support and are not read aloud. Hindi caption prompts explicitly require Devanagari only in the original line and Bangla script only in the other two lines; generated text still needs review. Caption windows are planned; review actual speech, spelling and readability before upload. Videos have not been generated, timed or visually verified.
+The original sentences, Bangla meanings and approximate pronunciation guides remain in `videos.json` and `bangla-support.txt` as authoring references. They are not text overlays. The obsolete caption Markdown files have been removed. Review generated videos for correct speech, timing and a completely text-free picture; no rendered video has been verified here.
 
 ## Content notes
 
@@ -71,15 +58,15 @@ Bangla pronunciation guides are approximate, especially Hindi nasal vowels, vowe
 
 Inspected source: `/Users/polodev/sites/language-ebooks-standalone`. Its root AGENTS.md and README describe ten independent language repositories registered as Git submodules, each with Foundation, Intermediate, Advanced and Vocabulary plans. The German book metadata showed planned practical topics. The video sets are newly authored, not extracted finished ebook prose. Source repositories were not modified.
 
-[All language metadata](languages.json) records variety, audience, captions, the ten-second maximum and content status. Hindi follows the practical topic order of German, with suitable changes to names, places, currency and wording.
+[All language metadata](languages.json) records variety, audience, the no-text rule, the ten-second maximum and content status. Hindi follows the practical topic order of German, with suitable changes to names, places, currency and wording.
 
 | Directory | Language | Status |
 | --- | --- | --- |
 | `arabic/` | Modern Standard Arabic | Metadata; content planned |
 | `chinese/` | Mandarin, simplified script | Metadata; content planned |
 | `french/` | Standard French, France | Metadata; content planned |
-| `german/` | Standard German, Germany | 500 sentences; 250 prompts and caption groups |
-| `hindi/` | Standard Hindi, Devanagari | 500 sentences; 250 prompts and caption groups |
+| `german/` | Standard German, Germany | 500 sentences; 250 speech-only prompts |
+| `hindi/` | Standard Hindi, Devanagari | 500 sentences; 250 speech-only prompts |
 | `japanese/` | Standard Japanese | Metadata; content planned |
 | `korean/` | Standard South Korean | Metadata; content planned |
 | `malaysian/` | Standard Malay, Malaysia, Rumi script | Metadata; content planned |
@@ -90,11 +77,11 @@ The remaining eight language folders contain metadata, not completed sentence se
 
 ## Edit and rebuild
 
-Edit Bangla titles, meanings and pronunciation in the language's `bangla-support.txt`. If an original sentence changes, update it in both `bangla-support.txt` and `authoring.txt`; the build checks agreement. The common concise prompt and subtitle format lives in `scripts/prompt_format.py`.
+Edit Bangla titles, meanings and pronunciation in the language's `bangla-support.txt`. If an original sentence changes, update it in both `bangla-support.txt` and `authoring.txt`; the build checks agreement. The common concise speech-only prompt format lives in `scripts/prompt_format.py`.
 
 ```sh
 python3 scripts/build_hindi.py
 python3 scripts/build_german.py
 ```
 
-The scripts regenerate the sentence array, video records, JSON prompts, two Markdown prompt batches and `captions.md`. Validation covers unique sentences, counts, sequential keys, source agreement, three distinct caption rows and exact equality between the main JSON and all five split JSON files. The two five-second periods are teaching beats within a single complete video; all prompts request a maximum of ten seconds.
+The scripts regenerate the sentence array, video records, JSON prompts, two Markdown prompt batches. Validation covers unique sentences, counts, sequential keys, source agreement, the no-text instruction and exact equality between the main JSON and all five split JSON files. The two five-second periods are teaching beats within a single complete video; all prompts request a maximum of ten seconds.

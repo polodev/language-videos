@@ -15,14 +15,16 @@
     "instruction_language": "bn-BD",
     "target_video_duration_seconds": 10,
     "sentences_per_video": 2,
-    "caption_fields": [
+    "presenter": "Exceptionally beautiful, smart, confident adult female teacher; photorealistic appearance, elegant professional clothing, fluent Bangla and accurate target-language speech",
+    "spoken_language": "ar",
+    "bangla_support_mode": "Authoring reference only; never display text in the video",
+    "captions_enabled": false,
+    "on_screen_text_allowed": false,
+    "learning_support_fields": [
       "original_target_language",
       "bangla_pronunciation",
       "bangla_meaning"
-    ],
-    "presenter": "Exceptionally beautiful, smart, confident adult female teacher; photorealistic appearance, elegant professional clothing, fluent Bangla and accurate target-language speech",
-    "spoken_language": "ar",
-    "bangla_support_mode": "Simultaneous on-screen pronunciation and meaning; original sentence spoken once"
+    ]
   },
   {
     "name": "Chinese",
@@ -40,14 +42,16 @@
     "instruction_language": "bn-BD",
     "target_video_duration_seconds": 10,
     "sentences_per_video": 2,
-    "caption_fields": [
+    "presenter": "Exceptionally beautiful, smart, confident adult female teacher; photorealistic appearance, elegant professional clothing, fluent Bangla and accurate target-language speech",
+    "spoken_language": "zh-Hans-CN",
+    "bangla_support_mode": "Authoring reference only; never display text in the video",
+    "captions_enabled": false,
+    "on_screen_text_allowed": false,
+    "learning_support_fields": [
       "original_target_language",
       "bangla_pronunciation",
       "bangla_meaning"
-    ],
-    "presenter": "Exceptionally beautiful, smart, confident adult female teacher; photorealistic appearance, elegant professional clothing, fluent Bangla and accurate target-language speech",
-    "spoken_language": "zh-Hans-CN",
-    "bangla_support_mode": "Simultaneous on-screen pronunciation and meaning; original sentence spoken once"
+    ]
   },
   {
     "name": "French",
@@ -65,14 +69,16 @@
     "instruction_language": "bn-BD",
     "target_video_duration_seconds": 10,
     "sentences_per_video": 2,
-    "caption_fields": [
+    "presenter": "Exceptionally beautiful, smart, confident adult female teacher; photorealistic appearance, elegant professional clothing, fluent Bangla and accurate target-language speech",
+    "spoken_language": "fr-FR",
+    "bangla_support_mode": "Authoring reference only; never display text in the video",
+    "captions_enabled": false,
+    "on_screen_text_allowed": false,
+    "learning_support_fields": [
       "original_target_language",
       "bangla_pronunciation",
       "bangla_meaning"
-    ],
-    "presenter": "Exceptionally beautiful, smart, confident adult female teacher; photorealistic appearance, elegant professional clothing, fluent Bangla and accurate target-language speech",
-    "spoken_language": "fr-FR",
-    "bangla_support_mode": "Simultaneous on-screen pronunciation and meaning; original sentence spoken once"
+    ]
   },
   {
     "name": "German",
@@ -90,14 +96,16 @@
     "instruction_language": "bn-BD",
     "target_video_duration_seconds": 10,
     "sentences_per_video": 2,
-    "caption_fields": [
+    "presenter": "Exceptionally beautiful, smart, confident adult female teacher; photorealistic appearance, elegant professional clothing, fluent Bangla and accurate target-language speech",
+    "spoken_language": "de-DE",
+    "bangla_support_mode": "Authoring reference only; never display text in the video",
+    "captions_enabled": false,
+    "on_screen_text_allowed": false,
+    "learning_support_fields": [
       "original_target_language",
       "bangla_pronunciation",
       "bangla_meaning"
-    ],
-    "presenter": "Exceptionally beautiful, smart, confident adult female teacher; photorealistic appearance, elegant professional clothing, fluent Bangla and accurate target-language speech",
-    "spoken_language": "de-DE",
-    "bangla_support_mode": "Simultaneous on-screen pronunciation and meaning; original sentence spoken once"
+    ]
   },
   {
     "name": "Hindi",
@@ -115,13 +123,8 @@
     "instruction_language": "bn-BD",
     "target_video_duration_seconds": 10,
     "sentences_per_video": 2,
-    "caption_fields": [
-      "original_target_language",
-      "bangla_pronunciation",
-      "bangla_meaning"
-    ],
     "presenter": "Exceptionally beautiful, smart, confident adult female teacher; photorealistic appearance, elegant professional clothing, fluent Bangla and accurate target-language speech",
-    "bangla_support_mode": "Spoken Bangla meaning after each Hindi sentence; simultaneous original, Bangla pronunciation and meaning captions",
+    "bangla_support_mode": "Spoken Bangla meaning after each Hindi sentence; no on-screen text",
     "spoken_languages": [
       "hi-IN",
       "bn-BD"
@@ -132,18 +135,13 @@
       "hindi_sentence_2",
       "bangla_meaning_2"
     ],
-    "caption_layout": {
-      "rows_per_sentence": 3,
-      "row_order": [
-        "original_hindi_devanagari",
-        "pronunciation_bangla_only",
-        "meaning_bangla_only"
-      ],
-      "labels": false,
-      "wrapping": false,
-      "duplicate_rows": false,
-      "spoken_pronunciation_guide": false
-    }
+    "captions_enabled": false,
+    "on_screen_text_allowed": false,
+    "learning_support_fields": [
+      "original_target_language",
+      "bangla_pronunciation",
+      "bangla_meaning"
+    ]
   },
   {
     "name": "Japanese",
@@ -161,14 +159,16 @@
     "instruction_language": "bn-BD",
     "target_video_duration_seconds": 10,
     "sentences_per_video": 2,
-    "caption_fields": [
+    "presenter": "Exceptionally beautiful, smart, confident adult female teacher; photorealistic appearance, elegant professional clothing, fluent Bangla and accurate target-language speech",
+    "spoken_language": "ja-JP",
+    "bangla_support_mode": "Authoring reference only; never display text in the video",
+    "captions_enabled": false,
+    "on_screen_text_allowed": false,
+    "learning_support_fields": [
       "original_target_language",
       "bangla_pronunciation",
       "bangla_meaning"
-    ],
-    "presenter": "Exceptionally beautiful, smart, confident adult female teacher; photorealistic appearance, elegant professional clothing, fluent Bangla and accurate target-language speech",
-    "spoken_language": "ja-JP",
-    "bangla_support_mode": "Simultaneous on-screen pronunciation and meaning; original sentence spoken once"
+    ]
   },
   {
     "name": "Korean",
@@ -186,14 +186,16 @@
     "instruction_language": "bn-BD",
     "target_video_duration_seconds": 10,
     "sentences_per_video": 2,
-    "caption_fields": [
+    "presenter": "Exceptionally beautiful, smart, confident adult female teacher; photorealistic appearance, elegant professional clothing, fluent Bangla and accurate target-language speech",
+    "spoken_language": "ko-KR",
+    "bangla_support_mode": "Authoring reference only; never display text in the video",
+    "captions_enabled": false,
+    "on_screen_text_allowed": false,
+    "learning_support_fields": [
       "original_target_language",
       "bangla_pronunciation",
       "bangla_meaning"
-    ],
-    "presenter": "Exceptionally beautiful, smart, confident adult female teacher; photorealistic appearance, elegant professional clothing, fluent Bangla and accurate target-language speech",
-    "spoken_language": "ko-KR",
-    "bangla_support_mode": "Simultaneous on-screen pronunciation and meaning; original sentence spoken once"
+    ]
   },
   {
     "name": "Malay",
@@ -211,14 +213,16 @@
     "instruction_language": "bn-BD",
     "target_video_duration_seconds": 10,
     "sentences_per_video": 2,
-    "caption_fields": [
+    "presenter": "Exceptionally beautiful, smart, confident adult female teacher; photorealistic appearance, elegant professional clothing, fluent Bangla and accurate target-language speech",
+    "spoken_language": "ms-MY",
+    "bangla_support_mode": "Authoring reference only; never display text in the video",
+    "captions_enabled": false,
+    "on_screen_text_allowed": false,
+    "learning_support_fields": [
       "original_target_language",
       "bangla_pronunciation",
       "bangla_meaning"
-    ],
-    "presenter": "Exceptionally beautiful, smart, confident adult female teacher; photorealistic appearance, elegant professional clothing, fluent Bangla and accurate target-language speech",
-    "spoken_language": "ms-MY",
-    "bangla_support_mode": "Simultaneous on-screen pronunciation and meaning; original sentence spoken once"
+    ]
   },
   {
     "name": "Russian",
@@ -236,14 +240,16 @@
     "instruction_language": "bn-BD",
     "target_video_duration_seconds": 10,
     "sentences_per_video": 2,
-    "caption_fields": [
+    "presenter": "Exceptionally beautiful, smart, confident adult female teacher; photorealistic appearance, elegant professional clothing, fluent Bangla and accurate target-language speech",
+    "spoken_language": "ru-RU",
+    "bangla_support_mode": "Authoring reference only; never display text in the video",
+    "captions_enabled": false,
+    "on_screen_text_allowed": false,
+    "learning_support_fields": [
       "original_target_language",
       "bangla_pronunciation",
       "bangla_meaning"
-    ],
-    "presenter": "Exceptionally beautiful, smart, confident adult female teacher; photorealistic appearance, elegant professional clothing, fluent Bangla and accurate target-language speech",
-    "spoken_language": "ru-RU",
-    "bangla_support_mode": "Simultaneous on-screen pronunciation and meaning; original sentence spoken once"
+    ]
   },
   {
     "name": "Spanish",
@@ -261,13 +267,15 @@
     "instruction_language": "bn-BD",
     "target_video_duration_seconds": 10,
     "sentences_per_video": 2,
-    "caption_fields": [
+    "presenter": "Exceptionally beautiful, smart, confident adult female teacher; photorealistic appearance, elegant professional clothing, fluent Bangla and accurate target-language speech",
+    "spoken_language": "es-ES",
+    "bangla_support_mode": "Authoring reference only; never display text in the video",
+    "captions_enabled": false,
+    "on_screen_text_allowed": false,
+    "learning_support_fields": [
       "original_target_language",
       "bangla_pronunciation",
       "bangla_meaning"
-    ],
-    "presenter": "Exceptionally beautiful, smart, confident adult female teacher; photorealistic appearance, elegant professional clothing, fluent Bangla and accurate target-language speech",
-    "spoken_language": "es-ES",
-    "bangla_support_mode": "Simultaneous on-screen pronunciation and meaning; original sentence spoken once"
+    ]
   }
 ]

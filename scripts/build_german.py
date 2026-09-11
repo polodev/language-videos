@@ -63,7 +63,7 @@ def load_lessons():
     return lessons, all_sentences
 
 
-from prompt_format import full_prompt as format_prompt, captions_markdown, write_prompt_batches
+from prompt_format import full_prompt as format_prompt, write_prompt_batches
 
 
 def full_prompt(lesson):
@@ -82,7 +82,7 @@ def main():
     for batch, start in enumerate((0, 125), 1):
         subset = lessons[start:start + 125]
         text = [f"# জার্মান ভিডিও {start + 1:03d}–{start + 125:03d}",
-                "প্রতিটি ভিডিও আলাদা ১০ সেকেন্ডের পাঠ: দুটি জার্মান বাক্য, বাংলা অর্থ ও বাংলা উচ্চারণ।",
+                "প্রতিটি ভিডিও আলাদা ১০ সেকেন্ডের পাঠ: দুটি জার্মান বাক্য, ক্যাপশন ছাড়া শুধু কথায় শেখানো হবে।",
                 "নিচের শিরোনামটি আপলোডের জন্য। কোড ব্লকের সম্পূর্ণ লেখাটি প্রম্পট।",
                 "প্রতিটি প্রম্পট একটি সম্পূর্ণ ১০ সেকেন্ডের ভিডিওর জন্য।"]
         for lesson in subset:
@@ -92,7 +92,6 @@ def main():
                          "```text\n" + prompts[f"prompt_{number}"] + "\n```"])
         (GERMAN / f"flow-prompts-{batch:02d}.md").write_text("\n\n".join(text) + "\n", encoding="utf-8")
 
-    (GERMAN / "captions.md").write_text(captions_markdown(lessons, "জার্মান", "german"), encoding="utf-8")
 
     # Check the actual written files, including Unicode and prompt coverage.
     actual = json.loads((GERMAN / "flow-prompts.json").read_text(encoding="utf-8"))
@@ -100,13 +99,11 @@ def main():
     for lesson in lessons:
         prompt = actual[f"prompt_{lesson['video_number']}"]
         assert lesson["upload_title"] in prompt
-        assert prompt.count("display all three caption lines:") == 2
+        assert prompt.count("s — AUDIO:") == 2
+        assert "SPEECH ONLY: No captions, subtitles, on-screen text" in prompt
+        assert "maximum 10 seconds" in prompt
         for sentence in lesson["sentences"]:
             assert sentence["german"] in prompt
-            assert sentence["bangla_meaning"] in prompt
-            assert sentence["bangla_pronunciation"] in prompt
-            assert f"উচ্চারণ: {sentence['bangla_pronunciation']}" in prompt
-            assert f"অর্থ: {sentence['bangla_meaning']}" in prompt
     for path in GERMAN.glob("*.json"):
         json.loads(path.read_text(encoding="utf-8"))
     for part in (1, 2):

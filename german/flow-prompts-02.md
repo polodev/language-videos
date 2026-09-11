@@ -1,6 +1,6 @@
 # জার্মান ভিডিও 126–250
 
-প্রতিটি ভিডিও আলাদা ১০ সেকেন্ডের পাঠ: দুটি জার্মান বাক্য, বাংলা অর্থ ও বাংলা উচ্চারণ।
+প্রতিটি ভিডিও আলাদা ১০ সেকেন্ডের পাঠ: দুটি জার্মান বাক্য, ক্যাপশন ছাড়া শুধু কথায় শেখানো হবে।
 
 নিচের শিরোনামটি আপলোডের জন্য। কোড ব্লকের সম্পূর্ণ লেখাটি প্রম্পট।
 
@@ -13,20 +13,15 @@
 **JSON key:** `prompt_126`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: ডাক্তারের কাছে পৌঁছে বলুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: ডাক্তারের কাছে পৌঁছে বলুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich habe einen Termin um zehn.
-উচ্চারণ: ইখ হাবে আইনেন টেরমিন উম ৎসেন।
-অর্থ: দশটায় আমার অ্যাপয়েন্টমেন্ট আছে।
-05–10s — speak only this German sentence once; display all three caption lines:
-Hier ist meine Versichertenkarte.
-উচ্চারণ: হিয়া ইস্ট মাইনে ফেরজিখার্টেনকার্টে।
-অর্থ: এই নিন স্বাস্থ্যবিমার কার্ড।
+00–05s — AUDIO: Say German once: “Ich habe einen Termin um zehn.”
+05–10s — AUDIO: Say German once: “Hier ist meine Versichertenkarte.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 127
@@ -36,20 +31,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_127`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: অ্যালার্জির কথা বলুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: অ্যালার্জির কথা বলুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich bin gegen Nüsse allergisch.
-উচ্চারণ: ইখ বিন গেগেন ন্যুসে আলের্গিশ।
-অর্থ: আমার বাদামে অ্যালার্জি আছে।
-05–10s — speak only this German sentence once; display all three caption lines:
-Sind in diesem Essen Nüsse?
-উচ্চারণ: জিন্ট ইন ডিজেম এসেন ন্যুসে?
-অর্থ: এই খাবারে বাদাম আছে?
+00–05s — AUDIO: Say German once: “Ich bin gegen Nüsse allergisch.”
+05–10s — AUDIO: Say German once: “Sind in diesem Essen Nüsse?”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 128
@@ -59,20 +49,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_128`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: ওষুধের দোকান খুঁজুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: ওষুধের দোকান খুঁজুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Wo ist die nächste Apotheke?
-উচ্চারণ: ভো ইস্ট ডি নেখস্টে আপোটেকে?
-অর্থ: কাছের ওষুধের দোকান কোথায়?
-05–10s — speak only this German sentence once; display all three caption lines:
-Ich möchte mein Rezept einlösen.
-উচ্চারণ: ইখ ম্যোখটে মাইন রেৎসেপ্ট আইনল্যোজেন।
-অর্থ: আমি প্রেসক্রিপশনের ওষুধ নিতে চাই।
+00–05s — AUDIO: Say German once: “Wo ist die nächste Apotheke?”
+05–10s — AUDIO: Say German once: “Ich möchte mein Rezept einlösen.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 129
@@ -82,20 +67,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_129`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: ওষুধ খাওয়ার নিয়ম জানুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: ওষুধ খাওয়ার নিয়ম জানুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Wie oft soll ich das nehmen?
-উচ্চারণ: ভি অফ্ট জল ইখ ডাস নেমেন?
-অর্থ: এটা কতবার খাব?
-05–10s — speak only this German sentence once; display all three caption lines:
-Können Sie mir das aufschreiben?
-উচ্চারণ: ক্যোনেন জি মিয়া ডাস আউফশ্রাইবেন?
-অর্থ: আমাকে লিখে দেবেন?
+00–05s — AUDIO: Say German once: “Wie oft soll ich das nehmen?”
+05–10s — AUDIO: Say German once: “Können Sie mir das aufschreiben?”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 130
@@ -105,20 +85,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_130`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: কোথায় ব্যথা দেখান
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: কোথায় ব্যথা দেখান
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Mein Rücken tut weh.
-উচ্চারণ: মাইন র্যুকেন টুট ভে।
-অর্থ: আমার পিঠে ব্যথা।
-05–10s — speak only this German sentence once; display all three caption lines:
-Der Schmerz ist hier unten.
-উচ্চারণ: ডেয়া শ্মের্ট্স ইস্ট হিয়া উন্টেন।
-অর্থ: ব্যথাটা এই নিচের দিকে।
+00–05s — AUDIO: Say German once: “Mein Rücken tut weh.”
+05–10s — AUDIO: Say German once: “Der Schmerz ist hier unten.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 131
@@ -128,20 +103,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_131`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: বাসা খুঁজতে বলুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: বাসা খুঁজতে বলুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich suche eine Wohnung.
-উচ্চারণ: ইখ জুখে আইনে ভোনুং।
-অর্থ: আমি একটা বাসা খুঁজছি।
-05–10s — speak only this German sentence once; display all three caption lines:
-Sie sollte zwei Zimmer haben.
-উচ্চারণ: জি জল্টে ৎসভাই ৎসিমার হাবেন।
-অর্থ: দুটি ঘর থাকলে ভালো হয়।
+00–05s — AUDIO: Say German once: “Ich suche eine Wohnung.”
+05–10s — AUDIO: Say German once: “Sie sollte zwei Zimmer haben.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 132
@@ -151,20 +121,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_132`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: বাসাভাড়া জিজ্ঞেস করুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: বাসাভাড়া জিজ্ঞেস করুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Wie hoch ist die Miete?
-উচ্চারণ: ভি হোখ ইস্ট ডি মিটে?
-অর্থ: ভাড়া কত?
-05–10s — speak only this German sentence once; display all three caption lines:
-Sind die Nebenkosten dabei?
-উচ্চারণ: জিন্ট ডি নেবেনকোস্টেন ডাবাই?
-অর্থ: বাড়তি খরচ কি এর মধ্যে আছে?
+00–05s — AUDIO: Say German once: “Wie hoch ist die Miete?”
+05–10s — AUDIO: Say German once: “Sind die Nebenkosten dabei?”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 133
@@ -174,20 +139,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_133`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: বাসা দেখতে সময় নিন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: বাসা দেখতে সময় নিন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Kann ich die Wohnung besichtigen?
-উচ্চারণ: কান ইখ ডি ভোনুং বেজিখ্টিগেন?
-অর্থ: আমি কি বাসাটা দেখতে পারি?
-05–10s — speak only this German sentence once; display all three caption lines:
-Am Freitag habe ich Zeit.
-উচ্চারণ: আম ফ্রাইটাক হাবে ইখ ৎসাইট।
-অর্থ: শুক্রবার আমার সময় আছে।
+00–05s — AUDIO: Say German once: “Kann ich die Wohnung besichtigen?”
+05–10s — AUDIO: Say German once: “Am Freitag habe ich Zeit.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 134
@@ -197,20 +157,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_134`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: হিটার নষ্ট হলে বলুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: হিটার নষ্ট হলে বলুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Die Heizung funktioniert nicht.
-উচ্চারণ: ডি হাইৎসুং ফুংক্ৎসিওনির্ট নিখ্ট।
-অর্থ: হিটার কাজ করছে না।
-05–10s — speak only this German sentence once; display all three caption lines:
-In der Wohnung ist es kalt.
-উচ্চারণ: ইন ডেয়া ভোনুং ইস্ট এস কাল্ট।
-অর্থ: বাসার ভেতরে ঠান্ডা।
+00–05s — AUDIO: Say German once: “Die Heizung funktioniert nicht.”
+05–10s — AUDIO: Say German once: “In der Wohnung ist es kalt.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 135
@@ -220,20 +175,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_135`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: পানির সমস্যার কথা বলুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: পানির সমস্যার কথা বলুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Der Wasserhahn tropft.
-উচ্চারণ: ডেয়া ভাসারহান ট্রপ্ফ্ট।
-অর্থ: কল থেকে পানি পড়ছে।
-05–10s — speak only this German sentence once; display all three caption lines:
-Können Sie jemanden schicken?
-উচ্চারণ: ক্যোনেন জি ইয়েমানডেন শিকেন?
-অর্থ: কাউকে পাঠাতে পারবেন?
+00–05s — AUDIO: Say German once: “Der Wasserhahn tropft.”
+05–10s — AUDIO: Say German once: “Können Sie jemanden schicken?”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 136
@@ -243,20 +193,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_136`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: ঘর পরিষ্কারের কথা বলুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: ঘর পরিষ্কারের কথা বলুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich putze heute die Küche.
-উচ্চারণ: ইখ পুট্সে হয়টে ডি ক্যুখে।
-অর্থ: আজ রান্নাঘর পরিষ্কার করছি।
-05–10s — speak only this German sentence once; display all three caption lines:
-Danach sauge ich das Wohnzimmer.
-উচ্চারণ: ডানাখ জাউগে ইখ ডাস ভোনৎসিমার।
-অর্থ: তারপর বসার ঘরে ভ্যাকুয়াম করব।
+00–05s — AUDIO: Say German once: “Ich putze heute die Küche.”
+05–10s — AUDIO: Say German once: “Danach sauge ich das Wohnzimmer.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 137
@@ -266,20 +211,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_137`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: কাপড় ধোয়ার কথা বলুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: কাপড় ধোয়ার কথা বলুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich muss Wäsche waschen.
-উচ্চারণ: ইখ মুস ভেশে ভাশেন।
-অর্থ: আমাকে কাপড় ধুতে হবে।
-05–10s — speak only this German sentence once; display all three caption lines:
-Die Waschmaschine ist gerade frei.
-উচ্চারণ: ডি ভাশমাশিনে ইস্ট গেরাডে ফ্রাই।
-অর্থ: ওয়াশিং মেশিন এখন খালি।
+00–05s — AUDIO: Say German once: “Ich muss Wäsche waschen.”
+05–10s — AUDIO: Say German once: “Die Waschmaschine ist gerade frei.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 138
@@ -289,20 +229,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_138`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: ময়লা ফেলতে বলুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: ময়লা ফেলতে বলুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich bringe den Müll raus.
-উচ্চারণ: ইখ ব্রিংগে ডেন ম্যুল রাউস।
-অর্থ: আমি ময়লা বাইরে নিয়ে যাচ্ছি।
-05–10s — speak only this German sentence once; display all three caption lines:
-Wo ist die Papiertonne?
-উচ্চারণ: ভো ইস্ট ডি পাপিয়ারটনে?
-অর্থ: কাগজের ময়লার পাত্র কোথায়?
+00–05s — AUDIO: Say German once: “Ich bringe den Müll raus.”
+05–10s — AUDIO: Say German once: “Wo ist die Papiertonne?”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 139
@@ -312,20 +247,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_139`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: শব্দ কমাতে বলুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: শব্দ কমাতে বলুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Die Musik ist sehr laut.
-উচ্চারণ: ডি মুজিক ইস্ট জেয়া লাউট।
-অর্থ: গানের শব্দ খুব জোরে।
-05–10s — speak only this German sentence once; display all three caption lines:
-Könnten Sie sie bitte leiser machen?
-উচ্চারণ: ক্যোন্টেন জি জি বিটে লাইজার মাখেন?
-অর্থ: দয়া করে একটু কমাবেন?
+00–05s — AUDIO: Say German once: “Die Musik ist sehr laut.”
+05–10s — AUDIO: Say German once: “Könnten Sie sie bitte leiser machen?”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 140
@@ -335,20 +265,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_140`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: প্রতিবেশীর সাহায্য চান
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: প্রতিবেশীর সাহায্য চান
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Können Sie mein Paket annehmen?
-উচ্চারণ: ক্যোনেন জি মাইন পাকেট আননেমেন?
-অর্থ: আমার পার্সেলটা গ্রহণ করবেন?
-05–10s — speak only this German sentence once; display all three caption lines:
-Ich bin morgen nicht zu Hause.
-উচ্চারণ: ইখ বিন মর্গেন নিখ্ট ৎসু হাউজে।
-অর্থ: কাল আমি বাসায় থাকব না।
+00–05s — AUDIO: Say German once: “Können Sie mein Paket annehmen?”
+05–10s — AUDIO: Say German once: “Ich bin morgen nicht zu Hause.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 141
@@ -358,20 +283,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_141`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: নিজের কাজের কথা বলুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: নিজের কাজের কথা বলুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich arbeite in einem Büro.
-উচ্চারণ: ইখ আরবাইটে ইন আইনেম ব্যুরো।
-অর্থ: আমি অফিসে কাজ করি।
-05–10s — speak only this German sentence once; display all three caption lines:
-Meine Aufgaben sind sehr verschieden.
-উচ্চারণ: মাইনে আউফগাবেন জিন্ট জেয়া ফেরশিডেন।
-অর্থ: আমার কাজগুলো নানা রকমের।
+00–05s — AUDIO: Say German once: “Ich arbeite in einem Büro.”
+05–10s — AUDIO: Say German once: “Meine Aufgaben sind sehr verschieden.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 142
@@ -381,20 +301,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_142`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: নতুন কাজে প্রথম দিন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: নতুন কাজে প্রথম দিন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Heute ist mein erster Arbeitstag.
-উচ্চারণ: হয়টে ইস্ট মাইন এরস্টার আরবাইটস্টাক।
-অর্থ: আজ আমার কাজের প্রথম দিন।
-05–10s — speak only this German sentence once; display all three caption lines:
-Ich freue mich auf die Zusammenarbeit.
-উচ্চারণ: ইখ ফ্রয়ে মিখ আউফ ডি ৎসুজামেনআরবাইট।
-অর্থ: একসঙ্গে কাজ করতে পেরে ভালো লাগছে।
+00–05s — AUDIO: Say German once: “Heute ist mein erster Arbeitstag.”
+05–10s — AUDIO: Say German once: “Ich freue mich auf die Zusammenarbeit.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 143
@@ -404,20 +319,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_143`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: কাজ বুঝে নিন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: কাজ বুঝে নিন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Was soll ich zuerst machen?
-উচ্চারণ: ভাস জল ইখ ৎসুএরস্ট মাখেন?
-অর্থ: প্রথমে কী করব?
-05–10s — speak only this German sentence once; display all three caption lines:
-Können Sie mir die Aufgabe zeigen?
-উচ্চারণ: ক্যোনেন জি মিয়া ডি আউফগাবে ৎসাইগেন?
-অর্থ: কাজটা দেখিয়ে দেবেন?
+00–05s — AUDIO: Say German once: “Was soll ich zuerst machen?”
+05–10s — AUDIO: Say German once: “Können Sie mir die Aufgabe zeigen?”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 144
@@ -427,20 +337,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_144`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: অফিসে সাহায্য চান
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: অফিসে সাহায্য চান
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich brauche kurz deine Hilfe.
-উচ্চারণ: ইখ ব্রাউখে কুর্ট্স ডাইনে হিলফে।
-অর্থ: তোমার একটু সাহায্য লাগবে।
-05–10s — speak only this German sentence once; display all three caption lines:
-Mein Computer startet nicht.
-উচ্চারণ: মাইন কমপিউটার শ্টার্টেট নিখ্ট।
-অর্থ: আমার কম্পিউটার চালু হচ্ছে না।
+00–05s — AUDIO: Say German once: “Ich brauche kurz deine Hilfe.”
+05–10s — AUDIO: Say German once: “Mein Computer startet nicht.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 145
@@ -450,20 +355,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_145`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: মিটিংয়ের সময় জানুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: মিটিংয়ের সময় জানুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Wann beginnt die Besprechung?
-উচ্চারণ: ভান বেগিন্ট ডি বেশ্প্রেখুং?
-অর্থ: মিটিং কখন শুরু হবে?
-05–10s — speak only this German sentence once; display all three caption lines:
-Ich möchte pünktlich sein.
-উচ্চারণ: ইখ ম্যোখটে প্যুংক্টলিখ জাইন।
-অর্থ: আমি সময়মতো যেতে চাই।
+00–05s — AUDIO: Say German once: “Wann beginnt die Besprechung?”
+05–10s — AUDIO: Say German once: “Ich möchte pünktlich sein.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 146
@@ -473,20 +373,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_146`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: কাজ শেষ হলে জানান
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: কাজ শেষ হলে জানান
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich bin mit der Aufgabe fertig.
-উচ্চারণ: ইখ বিন মিট ডেয়া আউফগাবে ফের্টিখ।
-অর্থ: আমার কাজ শেষ।
-05–10s — speak only this German sentence once; display all three caption lines:
-Ich schicke dir die Datei.
-উচ্চারণ: ইখ শিকে ডিয়া ডি ডাটাই।
-অর্থ: তোমাকে ফাইলটা পাঠাচ্ছি।
+00–05s — AUDIO: Say German once: “Ich bin mit der Aufgabe fertig.”
+05–10s — AUDIO: Say German once: “Ich schicke dir die Datei.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 147
@@ -496,20 +391,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_147`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: আরও সময় চান
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: আরও সময় চান
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich brauche noch etwas Zeit.
-উচ্চারণ: ইখ ব্রাউখে নখ এটভাস ৎসাইট।
-অর্থ: আমার আরও একটু সময় লাগবে।
-05–10s — speak only this German sentence once; display all three caption lines:
-Morgen ist alles fertig.
-উচ্চারণ: মর্গেন ইস্ট আলেস ফের্টিখ।
-অর্থ: কাল সব শেষ হবে।
+00–05s — AUDIO: Say German once: “Ich brauche noch etwas Zeit.”
+05–10s — AUDIO: Say German once: “Morgen ist alles fertig.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 148
@@ -519,20 +409,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_148`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: একসঙ্গে বিরতি নিন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: একসঙ্গে বিরতি নিন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Wollen wir eine Pause machen?
-উচ্চারণ: ভোলেন ভিয়া আইনে পাউজে মাখেন?
-অর্থ: আমরা কি একটু বিরতি নেব?
-05–10s — speak only this German sentence once; display all three caption lines:
-Ich hole mir einen Kaffee.
-উচ্চারণ: ইখ হোলে মিয়া আইনেন কাফে।
-অর্থ: আমি এক কাপ কফি আনছি।
+00–05s — AUDIO: Say German once: “Wollen wir eine Pause machen?”
+05–10s — AUDIO: Say German once: “Ich hole mir einen Kaffee.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 149
@@ -542,20 +427,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_149`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: অসুস্থতার ছুটি জানান
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: অসুস্থতার ছুটি জানান
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich bin heute krank.
-উচ্চারণ: ইখ বিন হয়টে ক্রাংক।
-অর্থ: আজ আমি অসুস্থ।
-05–10s — speak only this German sentence once; display all three caption lines:
-Ich kann nicht zur Arbeit kommen.
-উচ্চারণ: ইখ কান নিখ্ট ৎসুর আরবাইট কোমেন।
-অর্থ: আমি কাজে আসতে পারব না।
+00–05s — AUDIO: Say German once: “Ich bin heute krank.”
+05–10s — AUDIO: Say German once: “Ich kann nicht zur Arbeit kommen.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 150
@@ -565,20 +445,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_150`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: এক দিনের ছুটি চান
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: এক দিনের ছুটি চান
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich möchte am Freitag freinehmen.
-উচ্চারণ: ইখ ম্যোখটে আম ফ্রাইটাক ফ্রাইনেমেন।
-অর্থ: আমি শুক্রবার ছুটি নিতে চাই।
-05–10s — speak only this German sentence once; display all three caption lines:
-Ist das möglich?
-উচ্চারণ: ইস্ট ডাস ম্যোগলিখ?
-অর্থ: এটা কি সম্ভব?
+00–05s — AUDIO: Say German once: “Ich möchte am Freitag freinehmen.”
+05–10s — AUDIO: Say German once: “Ist das möglich?”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 151
@@ -588,20 +463,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_151`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: জার্মান কোর্সে ভর্তি হন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: জার্মান কোর্সে ভর্তি হন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich möchte mich für den Deutschkurs anmelden.
-উচ্চারণ: ইখ ম্যোখটে মিখ ফ্যুর ডেন ডয়চকুর্স আনমেল্ডেন।
-অর্থ: আমি জার্মান কোর্সে ভর্তি হতে চাই।
-05–10s — speak only this German sentence once; display all three caption lines:
-Wann beginnt der nächste Kurs?
-উচ্চারণ: ভান বেগিন্ট ডেয়া নেখস্টে কুর্স?
-অর্থ: পরের কোর্স কবে শুরু?
+00–05s — AUDIO: Say German once: “Ich möchte mich für den Deutschkurs anmelden.”
+05–10s — AUDIO: Say German once: “Wann beginnt der nächste Kurs?”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 152
@@ -611,20 +481,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_152`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: কোর্সের সময় জিজ্ঞেস করুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: কোর্সের সময় জিজ্ঞেস করুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Findet der Kurs am Abend statt?
-উচ্চারণ: ফিন্ডেট ডেয়া কুর্স আম আবেন্ট শ্টাট?
-অর্থ: কোর্স কি সন্ধ্যায় হয়?
-05–10s — speak only this German sentence once; display all three caption lines:
-Tagsüber muss ich arbeiten.
-উচ্চারণ: টাগ্সইউবার মুস ইখ আরবাইটেন।
-অর্থ: দিনের বেলা আমাকে কাজ করতে হয়।
+00–05s — AUDIO: Say German once: “Findet der Kurs am Abend statt?”
+05–10s — AUDIO: Say German once: “Tagsüber muss ich arbeiten.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 153
@@ -634,20 +499,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_153`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: কোর্সের খরচ জানুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: কোর্সের খরচ জানুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Wie viel kostet der Kurs?
-উচ্চারণ: ভি ফিল কোস্টেট ডেয়া কুর্স?
-অর্থ: কোর্সের খরচ কত?
-05–10s — speak only this German sentence once; display all three caption lines:
-Sind die Bücher im Preis enthalten?
-উচ্চারণ: জিন্ট ডি ব্যুখার ইম প্রাইস এনটহাল্টেন?
-অর্থ: বইয়ের দামও কি এতে আছে?
+00–05s — AUDIO: Say German once: “Wie viel kostet der Kurs?”
+05–10s — AUDIO: Say German once: “Sind die Bücher im Preis enthalten?”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 154
@@ -657,20 +517,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_154`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: ক্লাসের ঘর খুঁজুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: ক্লাসের ঘর খুঁজুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-In welchem Raum ist der Unterricht?
-উচ্চারণ: ইন ভেল্খেম রাউম ইস্ট ডেয়া উন্টাররিখ্ট?
-অর্থ: কোন ঘরে ক্লাস হবে?
-05–10s — speak only this German sentence once; display all three caption lines:
-Ich bin zum ersten Mal hier.
-উচ্চারণ: ইখ বিন ৎসুম এরস্টেন মাল হিয়া।
-অর্থ: আমি এখানে প্রথম এসেছি।
+00–05s — AUDIO: Say German once: “In welchem Raum ist der Unterricht?”
+05–10s — AUDIO: Say German once: “Ich bin zum ersten Mal hier.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 155
@@ -680,20 +535,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_155`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: বাড়ির কাজ বুঝে নিন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: বাড়ির কাজ বুঝে নিন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Welche Hausaufgaben haben wir?
-উচ্চারণ: ভেল্খে হাউসআউফগাবেন হাবেন ভিয়া?
-অর্থ: আমাদের কী বাড়ির কাজ আছে?
-05–10s — speak only this German sentence once; display all three caption lines:
-Ich habe die Seite nicht gehört.
-উচ্চারণ: ইখ হাবে ডি জাইটে নিখ্ট গেহ্যোর্ট।
-অর্থ: আমি পৃষ্ঠার নম্বর শুনতে পাইনি।
+00–05s — AUDIO: Say German once: “Welche Hausaufgaben haben wir?”
+05–10s — AUDIO: Say German once: “Ich habe die Seite nicht gehört.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 156
@@ -703,20 +553,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_156`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: কলম ধার চান
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: কলম ধার চান
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Kannst du mir einen Stift leihen?
-উচ্চারণ: কানস্ট ডু মিয়া আইনেন শ্টিফ্ট লাইয়েন?
-অর্থ: আমাকে একটা কলম ধার দেবে?
-05–10s — speak only this German sentence once; display all three caption lines:
-Meiner schreibt nicht mehr.
-উচ্চারণ: মাইনার শ্রাইপ্ট নিখ্ট মেয়া।
-অর্থ: আমারটা আর লিখছে না।
+00–05s — AUDIO: Say German once: “Kannst du mir einen Stift leihen?”
+05–10s — AUDIO: Say German once: “Meiner schreibt nicht mehr.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 157
@@ -726,20 +571,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_157`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: পরীক্ষার প্রস্তুতির কথা
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: পরীক্ষার প্রস্তুতির কথা
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich habe nächste Woche eine Prüfung.
-উচ্চারণ: ইখ হাবে নেখস্টে ভোখে আইনে প্র্যুফুং।
-অর্থ: আগামী সপ্তাহে আমার পরীক্ষা।
-05–10s — speak only this German sentence once; display all three caption lines:
-Deshalb lerne ich jeden Abend.
-উচ্চারণ: ডেসহাল্প লের্নে ইখ ইয়েডেন আবেন্ট।
-অর্থ: তাই প্রতিদিন সন্ধ্যায় পড়ি।
+00–05s — AUDIO: Say German once: “Ich habe nächste Woche eine Prüfung.”
+05–10s — AUDIO: Say German once: “Deshalb lerne ich jeden Abend.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 158
@@ -749,20 +589,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_158`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: সহপাঠীর সঙ্গে অনুশীলন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: সহপাঠীর সঙ্গে অনুশীলন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Möchtest du mit mir üben?
-উচ্চারণ: ম্যোখটেস্ট ডু মিট মিয়া ইউবেন?
-অর্থ: আমার সঙ্গে অনুশীলন করতে চাও?
-05–10s — speak only this German sentence once; display all three caption lines:
-Wir können zusammen Deutsch sprechen.
-উচ্চারণ: ভিয়া ক্যোনেন ৎসুজামেন ডয়চ শ্প্রেখেন।
-অর্থ: আমরা একসঙ্গে জার্মান বলতে পারি।
+00–05s — AUDIO: Say German once: “Möchtest du mit mir üben?”
+05–10s — AUDIO: Say German once: “Wir können zusammen Deutsch sprechen.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 159
@@ -772,20 +607,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_159`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: লাইব্রেরি থেকে বই নিন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: লাইব্রেরি থেকে বই নিন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich möchte dieses Buch ausleihen.
-উচ্চারণ: ইখ ম্যোখটে ডিজেস বুখ আউসলাইয়েন।
-অর্থ: আমি এই বই ধার নিতে চাই।
-05–10s — speak only this German sentence once; display all three caption lines:
-Wie lange darf ich es behalten?
-উচ্চারণ: ভি লাংগে ডার্ফ ইখ এস বেহাল্টেন?
-অর্থ: কত দিন রাখতে পারব?
+00–05s — AUDIO: Say German once: “Ich möchte dieses Buch ausleihen.”
+05–10s — AUDIO: Say German once: “Wie lange darf ich es behalten?”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 160
@@ -795,20 +625,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_160`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: শেখার অগ্রগতি বলুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: শেখার অগ্রগতি বলুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich verstehe jetzt viel mehr.
-উচ্চারণ: ইখ ফেরশ্টেয়ে ইয়েট্স্ট ফিল মেয়া।
-অর্থ: এখন অনেক বেশি বুঝি।
-05–10s — speak only this German sentence once; display all three caption lines:
-Das Sprechen fällt mir noch schwer.
-উচ্চারণ: ডাস শ্প্রেখেন ফেল্ট মিয়া নখ শ্ভেয়া।
-অর্থ: কথা বলা এখনো কঠিন লাগে।
+00–05s — AUDIO: Say German once: “Ich verstehe jetzt viel mehr.”
+05–10s — AUDIO: Say German once: “Das Sprechen fällt mir noch schwer.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 161
@@ -818,20 +643,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_161`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: ফোনে কথা শুরু করুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: ফোনে কথা শুরু করুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Kann ich bitte mit Frau Müller sprechen?
-উচ্চারণ: কান ইখ বিটে মিট ফ্রাউ ম্যুলার শ্প্রেখেন?
-অর্থ: মিসেস মুলারের সঙ্গে কথা বলতে পারি?
-05–10s — speak only this German sentence once; display all three caption lines:
-Hier spricht Anna Weber.
-উচ্চারণ: হিয়া শ্প্রিখ্ট আনা ভেবার।
-অর্থ: আমি আনা ভেবার বলছি।
+00–05s — AUDIO: Say German once: “Kann ich bitte mit Frau Müller sprechen?”
+05–10s — AUDIO: Say German once: “Hier spricht Anna Weber.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 162
@@ -841,20 +661,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_162`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: ফোনে শুনতে না পেলে বলুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: ফোনে শুনতে না পেলে বলুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich kann Sie schlecht hören.
-উচ্চারণ: ইখ কান জি শ্লেখ্ট হ্যোরেন।
-অর্থ: আপনার কথা ভালো শুনতে পাচ্ছি না।
-05–10s — speak only this German sentence once; display all three caption lines:
-Die Verbindung ist sehr schlecht.
-উচ্চারণ: ডি ফেরবিন্ডুং ইস্ট জেয়া শ্লেখ্ট।
-অর্থ: সংযোগ খুব খারাপ।
+00–05s — AUDIO: Say German once: “Ich kann Sie schlecht hören.”
+05–10s — AUDIO: Say German once: “Die Verbindung ist sehr schlecht.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 163
@@ -864,20 +679,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_163`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: পরে ফোন করতে বলুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: পরে ফোন করতে বলুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Können Sie mich später zurückrufen?
-উচ্চারণ: ক্যোনেন জি মিখ শ্পেটার ৎসুর্যুকরুফেন?
-অর্থ: আমাকে পরে ফোন করবেন?
-05–10s — speak only this German sentence once; display all three caption lines:
-Ich bin gerade unterwegs.
-উচ্চারণ: ইখ বিন গেরাডে উন্টারভেক্স।
-অর্থ: আমি এখন পথে আছি।
+00–05s — AUDIO: Say German once: “Können Sie mich später zurückrufen?”
+05–10s — AUDIO: Say German once: “Ich bin gerade unterwegs.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 164
@@ -887,20 +697,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_164`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: ফোনে বার্তা রেখে যান
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: ফোনে বার্তা রেখে যান
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Kann ich eine Nachricht hinterlassen?
-উচ্চারণ: কান ইখ আইনে নাখরিখ্ট হিন্টারলাসেন?
-অর্থ: আমি কি একটা বার্তা রাখতে পারি?
-05–10s — speak only this German sentence once; display all three caption lines:
-Es geht um meinen Termin.
-উচ্চারণ: এস গেট উম মাইনেন টেরমিন।
-অর্থ: এটা আমার অ্যাপয়েন্টমেন্ট সম্পর্কে।
+00–05s — AUDIO: Say German once: “Kann ich eine Nachricht hinterlassen?”
+05–10s — AUDIO: Say German once: “Es geht um meinen Termin.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 165
@@ -910,20 +715,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_165`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: ওয়াইফাই পাসওয়ার্ড চান
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: ওয়াইফাই পাসওয়ার্ড চান
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Gibt es hier WLAN?
-উচ্চারণ: গিপ্ট এস হিয়া ভে-লান?
-অর্থ: এখানে ওয়াইফাই আছে?
-05–10s — speak only this German sentence once; display all three caption lines:
-Wie lautet das Passwort?
-উচ্চারণ: ভি লাউটেট ডাস পাসভর্ট?
-অর্থ: পাসওয়ার্ড কী?
+00–05s — AUDIO: Say German once: “Gibt es hier WLAN?”
+05–10s — AUDIO: Say German once: “Wie lautet das Passwort?”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 166
@@ -933,20 +733,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_166`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: ইন্টারনেট সমস্যা জানান
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: ইন্টারনেট সমস্যা জানান
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Mein Internet funktioniert nicht.
-উচ্চারণ: মাইন ইন্টারনেট ফুংক্ৎসিওনির্ট নিখ্ট।
-অর্থ: আমার ইন্টারনেট কাজ করছে না।
-05–10s — speak only this German sentence once; display all three caption lines:
-Ich habe den Router neu gestartet.
-উচ্চারণ: ইখ হাবে ডেন রাউটার নয় গেশ্টার্টেট।
-অর্থ: রাউটার আবার চালু করেছি।
+00–05s — AUDIO: Say German once: “Mein Internet funktioniert nicht.”
+05–10s — AUDIO: Say German once: “Ich habe den Router neu gestartet.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 167
@@ -956,20 +751,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_167`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: ফোন চার্জ করতে চান
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: ফোন চার্জ করতে চান
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Mein Akku ist fast leer.
-উচ্চারণ: মাইন আকু ইস্ট ফাস্ট লেয়া।
-অর্থ: আমার ব্যাটারি প্রায় শেষ।
-05–10s — speak only this German sentence once; display all three caption lines:
-Darf ich mein Handy hier laden?
-উচ্চারণ: ডার্ফ ইখ মাইন হ্যান্ডি হিয়া লাডেন?
-অর্থ: এখানে ফোন চার্জ দিতে পারি?
+00–05s — AUDIO: Say German once: “Mein Akku ist fast leer.”
+05–10s — AUDIO: Say German once: “Darf ich mein Handy hier laden?”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 168
@@ -979,20 +769,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_168`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: ছবি পাঠানোর কথা বলুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: ছবি পাঠানোর কথা বলুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich schicke dir das Foto.
-উচ্চারণ: ইখ শিকে ডিয়া ডাস ফোটো।
-অর্থ: আমি তোমাকে ছবিটা পাঠাচ্ছি।
-05–10s — speak only this German sentence once; display all three caption lines:
-Du bekommst es gleich.
-উচ্চারণ: ডু বেকোমস্ট এস গ্লাইখ।
-অর্থ: তুমি এখনই পেয়ে যাবে।
+00–05s — AUDIO: Say German once: “Ich schicke dir das Foto.”
+05–10s — AUDIO: Say German once: “Du bekommst es gleich.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 169
@@ -1002,20 +787,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_169`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: ইমেইল ঠিকানা মিলিয়ে নিন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: ইমেইল ঠিকানা মিলিয়ে নিন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ist diese E-Mail-Adresse richtig?
-উচ্চারণ: ইস্ট ডিজে ই-মেইল-আড্রেসে রিখ্টিখ?
-অর্থ: এই ইমেইল ঠিকানা কি ঠিক?
-05–10s — speak only this German sentence once; display all three caption lines:
-Meine Nachricht kommt nicht an.
-উচ্চারণ: মাইনে নাখরিখ্ট কোম্ট নিখ্ট আন।
-অর্থ: আমার বার্তা পৌঁছাচ্ছে না।
+00–05s — AUDIO: Say German once: “Ist diese E-Mail-Adresse richtig?”
+05–10s — AUDIO: Say German once: “Meine Nachricht kommt nicht an.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 170
@@ -1025,20 +805,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_170`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: ভিডিও কলে কথা বলুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: ভিডিও কলে কথা বলুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Können wir heute Abend telefonieren?
-উচ্চারণ: ক্যোনেন ভিয়া হয়টে আবেন্ট টেলেফোনিরেন?
-অর্থ: আজ সন্ধ্যায় ফোনে কথা বলতে পারি?
-05–10s — speak only this German sentence once; display all three caption lines:
-Ein Videoanruf wäre auch gut.
-উচ্চারণ: আইন ভিডিয়োআনরুফ ভেয়ারে আউখ গুট।
-অর্থ: ভিডিও কলও ভালো হবে।
+00–05s — AUDIO: Say German once: “Können wir heute Abend telefonieren?”
+05–10s — AUDIO: Say German once: “Ein Videoanruf wäre auch gut.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 171
@@ -1048,20 +823,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_171`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: হোটেলে পৌঁছে বলুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: হোটেলে পৌঁছে বলুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich habe ein Zimmer reserviert.
-উচ্চারণ: ইখ হাবে আইন ৎসিমার রেজেরভির্ট।
-অর্থ: আমি একটা ঘর বুক করেছি।
-05–10s — speak only this German sentence once; display all three caption lines:
-Die Buchung läuft auf meinen Namen.
-উচ্চারণ: ডি বুখুং লয়ফ্ট আউফ মাইনেন নামেন।
-অর্থ: বুকিংটা আমার নামে।
+00–05s — AUDIO: Say German once: “Ich habe ein Zimmer reserviert.”
+05–10s — AUDIO: Say German once: “Die Buchung läuft auf meinen Namen.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 172
@@ -1071,20 +841,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_172`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: হোটেলের নাশতা সম্পর্কে জানুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: হোটেলের নাশতা সম্পর্কে জানুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ist das Frühstück im Preis enthalten?
-উচ্চারণ: ইস্ট ডাস ফ্র্যুশ্ট্যুক ইম প্রাইস এনটহাল্টেন?
-অর্থ: নাশতা কি ভাড়ার মধ্যে আছে?
-05–10s — speak only this German sentence once; display all three caption lines:
-Um wie viel Uhr beginnt es?
-উচ্চারণ: উম ভি ফিল উয়া বেগিন্ট এস?
-অর্থ: কয়টায় শুরু হয়?
+00–05s — AUDIO: Say German once: “Ist das Frühstück im Preis enthalten?”
+05–10s — AUDIO: Say German once: “Um wie viel Uhr beginnt es?”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 173
@@ -1094,20 +859,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_173`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: হোটেল ছাড়ার সময় জানুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: হোটেল ছাড়ার সময় জানুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Bis wann muss ich auschecken?
-উচ্চারণ: বিস ভান মুস ইখ আউসচেকেন?
-অর্থ: কয়টার মধ্যে চেকআউট করতে হবে?
-05–10s — speak only this German sentence once; display all three caption lines:
-Kann ich meinen Koffer hier lassen?
-উচ্চারণ: কান ইখ মাইনেন কোফার হিয়া লাসেন?
-অর্থ: স্যুটকেস এখানে রেখে যেতে পারি?
+00–05s — AUDIO: Say German once: “Bis wann muss ich auschecken?”
+05–10s — AUDIO: Say German once: “Kann ich meinen Koffer hier lassen?”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 174
@@ -1117,20 +877,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_174`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: হোটেলে তোয়ালে চান
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: হোটেলে তোয়ালে চান
 
-00–05s — speak only this German sentence once; display all three caption lines:
-In meinem Zimmer fehlt ein Handtuch.
-উচ্চারণ: ইন মাইনেম ৎসিমার ফেল্ট আইন হান্টটুখ।
-অর্থ: আমার ঘরে তোয়ালে নেই।
-05–10s — speak only this German sentence once; display all three caption lines:
-Können Sie mir eins bringen?
-উচ্চারণ: ক্যোনেন জি মিয়া আইনস ব্রিংগেন?
-অর্থ: আমাকে একটা এনে দেবেন?
+00–05s — AUDIO: Say German once: “In meinem Zimmer fehlt ein Handtuch.”
+05–10s — AUDIO: Say German once: “Können Sie mir eins bringen?”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 175
@@ -1140,20 +895,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_175`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: শান্ত ঘর চাইতে বলুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: শান্ত ঘর চাইতে বলুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Mein Zimmer ist sehr laut.
-উচ্চারণ: মাইন ৎসিমার ইস্ট জেয়া লাউট।
-অর্থ: আমার ঘরে খুব শব্দ হয়।
-05–10s — speak only this German sentence once; display all three caption lines:
-Haben Sie ein ruhigeres Zimmer?
-উচ্চারণ: হাবেন জি আইন রুইগেরেস ৎসিমার?
-অর্থ: আরও শান্ত ঘর আছে?
+00–05s — AUDIO: Say German once: “Mein Zimmer ist sehr laut.”
+05–10s — AUDIO: Say German once: “Haben Sie ein ruhigeres Zimmer?”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 176
@@ -1163,20 +913,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_176`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: শহরের মানচিত্র চান
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: শহরের মানচিত্র চান
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Haben Sie einen Stadtplan?
-উচ্চারণ: হাবেন জি আইনেন শ্টাটপ্লান?
-অর্থ: আপনাদের কাছে শহরের মানচিত্র আছে?
-05–10s — speak only this German sentence once; display all three caption lines:
-Ich möchte die Altstadt besuchen.
-উচ্চারণ: ইখ ম্যোখটে ডি আল্টশ্টাট বেজুখেন।
-অর্থ: আমি পুরোনো শহর দেখতে চাই।
+00–05s — AUDIO: Say German once: “Haben Sie einen Stadtplan?”
+05–10s — AUDIO: Say German once: “Ich möchte die Altstadt besuchen.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 177
@@ -1186,20 +931,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_177`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: প্রবেশের টিকিট কিনুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: প্রবেশের টিকিট কিনুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich hätte gern eine Eintrittskarte.
-উচ্চারণ: ইখ হেটে গের্ন আইনে আইনট্রিট্সকার্টে।
-অর্থ: আমি একটা প্রবেশের টিকিট চাই।
-05–10s — speak only this German sentence once; display all three caption lines:
-Gibt es einen Rabatt für Studierende?
-উচ্চারণ: গিপ্ট এস আইনেন রাবাট ফ্যুর শ্টুডিরেন্ডে?
-অর্থ: শিক্ষার্থীদের জন্য ছাড় আছে?
+00–05s — AUDIO: Say German once: “Ich hätte gern eine Eintrittskarte.”
+05–10s — AUDIO: Say German once: “Gibt es einen Rabatt für Studierende?”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 178
@@ -1209,20 +949,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_178`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: ফ্লাইট দেরি কি না জানুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: ফ্লাইট দেরি কি না জানুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Hat unser Flug Verspätung?
-উচ্চারণ: হাট উনজার ফ্লুক ফেরশ্পেটুং?
-অর্থ: আমাদের ফ্লাইট কি দেরি করছে?
-05–10s — speak only this German sentence once; display all three caption lines:
-Wann können wir einsteigen?
-উচ্চারণ: ভান ক্যোনেন ভিয়া আইনশ্টাইগেন?
-অর্থ: আমরা কখন উঠতে পারব?
+00–05s — AUDIO: Say German once: “Hat unser Flug Verspätung?”
+05–10s — AUDIO: Say German once: “Wann können wir einsteigen?”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 179
@@ -1232,20 +967,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_179`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: লাগেজ না পেলে বলুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: লাগেজ না পেলে বলুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Mein Koffer ist nicht angekommen.
-উচ্চারণ: মাইন কোফার ইস্ট নিখ্ট আনগেকোমেন।
-অর্থ: আমার স্যুটকেস আসেনি।
-05–10s — speak only this German sentence once; display all three caption lines:
-Er ist schwarz und ziemlich groß.
-উচ্চারণ: এয়া ইস্ট শ্ভার্ট্স উন্ট ৎসিমলিখ গ্রোস।
-অর্থ: ওটা কালো আর বেশ বড়।
+00–05s — AUDIO: Say German once: “Mein Koffer ist nicht angekommen.”
+05–10s — AUDIO: Say German once: “Er ist schwarz und ziemlich groß.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 180
@@ -1255,20 +985,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_180`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: ছুটির অভিজ্ঞতা বলুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: ছুটির অভিজ্ঞতা বলুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Wir waren eine Woche am Meer.
-উচ্চারণ: ভিয়া ভারেন আইনে ভোখে আম মেয়া।
-অর্থ: আমরা এক সপ্তাহ সমুদ্রের কাছে ছিলাম।
-05–10s — speak only this German sentence once; display all three caption lines:
-Das Wetter war wunderbar.
-উচ্চারণ: ডাস ভেটার ভার ভুন্ডারবার।
-অর্থ: আবহাওয়া চমৎকার ছিল।
+00–05s — AUDIO: Say German once: “Wir waren eine Woche am Meer.”
+05–10s — AUDIO: Say German once: “Das Wetter war wunderbar.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 181
@@ -1278,20 +1003,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_181`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: অনলাইনে সময় বুক করুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: অনলাইনে সময় বুক করুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich möchte online einen Termin buchen.
-উচ্চারণ: ইখ ম্যোখটে অনলাইন আইনেন টেরমিন বুখেন।
-অর্থ: আমি অনলাইনে অ্যাপয়েন্টমেন্ট নিতে চাই।
-05–10s — speak only this German sentence once; display all three caption lines:
-Welche Unterlagen brauche ich?
-উচ্চারণ: ভেল্খে উন্টারলাগেন ব্রাউখে ইখ?
-অর্থ: আমার কী কাগজপত্র লাগবে?
+00–05s — AUDIO: Say German once: “Ich möchte online einen Termin buchen.”
+05–10s — AUDIO: Say German once: “Welche Unterlagen brauche ich?”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 182
@@ -1301,20 +1021,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_182`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: অ্যাপয়েন্টমেন্টের দিন বদলান
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: অ্যাপয়েন্টমেন্টের দিন বদলান
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich muss meinen Termin verschieben.
-উচ্চারণ: ইখ মুস মাইনেন টেরমিন ফেরশিবেন।
-অর্থ: আমার অ্যাপয়েন্টমেন্ট পিছিয়ে দিতে হবে।
-05–10s — speak only this German sentence once; display all three caption lines:
-Passt Ihnen nächste Woche?
-উচ্চারণ: পাস্ট ইনেন নেখস্টে ভোখে?
-অর্থ: আগামী সপ্তাহে আপনার সুবিধা হবে?
+00–05s — AUDIO: Say German once: “Ich muss meinen Termin verschieben.”
+05–10s — AUDIO: Say German once: “Passt Ihnen nächste Woche?”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 183
@@ -1324,20 +1039,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_183`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: অ্যাপয়েন্টমেন্ট বাতিল করুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: অ্যাপয়েন্টমেন্ট বাতিল করুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich möchte meinen Termin absagen.
-উচ্চারণ: ইখ ম্যোখটে মাইনেন টেরমিন আপজাগেন।
-অর্থ: আমি অ্যাপয়েন্টমেন্ট বাতিল করতে চাই।
-05–10s — speak only this German sentence once; display all three caption lines:
-Ich kann morgen leider nicht kommen.
-উচ্চারণ: ইখ কান মর্গেন লাইডার নিখ্ট কোমেন।
-অর্থ: দুঃখিত, কাল আসতে পারব না।
+00–05s — AUDIO: Say German once: “Ich möchte meinen Termin absagen.”
+05–10s — AUDIO: Say German once: “Ich kann morgen leider nicht kommen.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 184
@@ -1347,20 +1057,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_184`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: ঠিকানা নিবন্ধন করুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: ঠিকানা নিবন্ধন করুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich möchte meinen Wohnsitz anmelden.
-উচ্চারণ: ইখ ম্যোখটে মাইনেন ভোনজিট্স আনমেল্ডেন।
-অর্থ: আমি বাসার ঠিকানা নিবন্ধন করতে চাই।
-05–10s — speak only this German sentence once; display all three caption lines:
-Ich bin gerade umgezogen.
-উচ্চারণ: ইখ বিন গেরাডে উমগেৎসোগেন।
-অর্থ: আমি সদ্য বাসা বদলেছি।
+00–05s — AUDIO: Say German once: “Ich möchte meinen Wohnsitz anmelden.”
+05–10s — AUDIO: Say German once: “Ich bin gerade umgezogen.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 185
@@ -1370,20 +1075,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_185`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: ফরম চাইতে শিখুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: ফরম চাইতে শিখুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich brauche ein Formular.
-উচ্চারণ: ইখ ব্রাউখে আইন ফরমুলার।
-অর্থ: আমার একটা ফরম লাগবে।
-05–10s — speak only this German sentence once; display all three caption lines:
-Wo kann ich es bekommen?
-উচ্চারণ: ভো কান ইখ এস বেকোমেন?
-অর্থ: ওটা কোথায় পাব?
+00–05s — AUDIO: Say German once: “Ich brauche ein Formular.”
+05–10s — AUDIO: Say German once: “Wo kann ich es bekommen?”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 186
@@ -1393,20 +1093,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_186`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: কোথায় স্বাক্ষর করবেন জানুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: কোথায় স্বাক্ষর করবেন জানুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Wo muss ich unterschreiben?
-উচ্চারণ: ভো মুস ইখ উন্টারশ্রাইবেন?
-অর্থ: কোথায় স্বাক্ষর করতে হবে?
-05–10s — speak only this German sentence once; display all three caption lines:
-Ich habe alles ausgefüllt.
-উচ্চারণ: ইখ হাবে আলেস আউসগেফ্যুল্ট।
-অর্থ: আমি সব পূরণ করেছি।
+00–05s — AUDIO: Say German once: “Wo muss ich unterschreiben?”
+05–10s — AUDIO: Say German once: “Ich habe alles ausgefüllt.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 187
@@ -1416,20 +1111,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_187`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: কাগজপত্র বাকি কি না জানুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: কাগজপত্র বাকি কি না জানুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Fehlt noch ein Dokument?
-উচ্চারণ: ফেল্ট নখ আইন ডকুমেন্ট?
-অর্থ: আর কোনো কাগজ বাকি আছে?
-05–10s — speak only this German sentence once; display all three caption lines:
-Ich kann es morgen bringen.
-উচ্চারণ: ইখ কান এস মর্গেন ব্রিংগেন।
-অর্থ: আমি কাল নিয়ে আসতে পারি।
+00–05s — AUDIO: Say German once: “Fehlt noch ein Dokument?”
+05–10s — AUDIO: Say German once: “Ich kann es morgen bringen.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 188
@@ -1439,20 +1129,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_188`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: কতক্ষণ অপেক্ষা জানতে চান
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: কতক্ষণ অপেক্ষা জানতে চান
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Wie lange muss ich warten?
-উচ্চারণ: ভি লাংগে মুস ইখ ভার্টেন?
-অর্থ: কতক্ষণ অপেক্ষা করতে হবে?
-05–10s — speak only this German sentence once; display all three caption lines:
-Ich habe eine Nummer gezogen.
-উচ্চারণ: ইখ হাবে আইনে নুমার গেৎসোগেন।
-অর্থ: আমি একটা টোকেন নিয়েছি।
+00–05s — AUDIO: Say German once: “Wie lange muss ich warten?”
+05–10s — AUDIO: Say German once: “Ich habe eine Nummer gezogen.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 189
@@ -1462,20 +1147,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_189`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: লিখিত নিশ্চয়তা চান
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: লিখিত নিশ্চয়তা চান
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Kann ich eine schriftliche Bestätigung bekommen?
-উচ্চারণ: কান ইখ আইনে শ্রিফ্টলিখে বেশ্টেটিগুং বেকোমেন?
-অর্থ: আমি কি লিখিত নিশ্চয়তা পেতে পারি?
-05–10s — speak only this German sentence once; display all three caption lines:
-Bitte schicken Sie sie per E-Mail.
-উচ্চারণ: বিটে শিকেন জি জি পেয়া ই-মেইল।
-অর্থ: দয়া করে ইমেইলে পাঠান।
+00–05s — AUDIO: Say German once: “Kann ich eine schriftliche Bestätigung bekommen?”
+05–10s — AUDIO: Say German once: “Bitte schicken Sie sie per E-Mail.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 190
@@ -1485,20 +1165,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_190`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: নতুন ঠিকানা জানান
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: নতুন ঠিকানা জানান
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Meine Adresse hat sich geändert.
-উচ্চারণ: মাইনে আড্রেসে হাট জিখ গেএন্ডার্ট।
-অর্থ: আমার ঠিকানা বদলেছে।
-05–10s — speak only this German sentence once; display all three caption lines:
-Ich gebe Ihnen die neue Adresse.
-উচ্চারণ: ইখ গেবে ইনেন ডি নয়ে আড্রেসে।
-অর্থ: আপনাকে নতুন ঠিকানা দিচ্ছি।
+00–05s — AUDIO: Say German once: “Meine Adresse hat sich geändert.”
+05–10s — AUDIO: Say German once: “Ich gebe Ihnen die neue Adresse.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 191
@@ -1508,20 +1183,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_191`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: ব্যাংক হিসাব খুলুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: ব্যাংক হিসাব খুলুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich möchte ein Konto eröffnen.
-উচ্চারণ: ইখ ম্যোখটে আইন কোন্টো এরঅ্যোফনেন।
-অর্থ: আমি একটা ব্যাংক হিসাব খুলতে চাই।
-05–10s — speak only this German sentence once; display all three caption lines:
-Welche Dokumente benötigen Sie?
-উচ্চারণ: ভেল্খে ডকুমেন্টে বেন্যোটিগেন জি?
-অর্থ: আপনাদের কী কাগজপত্র লাগবে?
+00–05s — AUDIO: Say German once: “Ich möchte ein Konto eröffnen.”
+05–10s — AUDIO: Say German once: “Welche Dokumente benötigen Sie?”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 192
@@ -1531,20 +1201,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_192`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: এটিএম খুঁজে নিন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: এটিএম খুঁজে নিন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Wo ist der nächste Geldautomat?
-উচ্চারণ: ভো ইস্ট ডেয়া নেখস্টে গেল্টআউটোমাট?
-অর্থ: কাছের এটিএম কোথায়?
-05–10s — speak only this German sentence once; display all three caption lines:
-Ich muss Geld abheben.
-উচ্চারণ: ইখ মুস গেল্ট আপহেবেন।
-অর্থ: আমাকে টাকা তুলতে হবে।
+00–05s — AUDIO: Say German once: “Wo ist der nächste Geldautomat?”
+05–10s — AUDIO: Say German once: “Ich muss Geld abheben.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 193
@@ -1554,20 +1219,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_193`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: ব্যাংক কার্ড হারালে বলুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: ব্যাংক কার্ড হারালে বলুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich habe meine Bankkarte verloren.
-উচ্চারণ: ইখ হাবে মাইনে বাংককার্টে ফেরলোরেন।
-অর্থ: আমি ব্যাংক কার্ড হারিয়েছি।
-05–10s — speak only this German sentence once; display all three caption lines:
-Bitte sperren Sie die Karte.
-উচ্চারণ: বিটে শ্পেরেন জি ডি কার্টে।
-অর্থ: দয়া করে কার্ডটি বন্ধ করুন।
+00–05s — AUDIO: Say German once: “Ich habe meine Bankkarte verloren.”
+05–10s — AUDIO: Say German once: “Bitte sperren Sie die Karte.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 194
@@ -1577,20 +1237,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_194`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: টাকা কাটার কারণ জানুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: টাকা কাটার কারণ জানুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich verstehe diese Abbuchung nicht.
-উচ্চারণ: ইখ ফেরশ্টেয়ে ডিজে আপবুখুং নিখ্ট।
-অর্থ: এই টাকা কাটা বুঝতে পারছি না।
-05–10s — speak only this German sentence once; display all three caption lines:
-Können Sie das bitte prüfen?
-উচ্চারণ: ক্যোনেন জি ডাস বিটে প্র্যুফেন?
-অর্থ: দয়া করে পরীক্ষা করবেন?
+00–05s — AUDIO: Say German once: “Ich verstehe diese Abbuchung nicht.”
+05–10s — AUDIO: Say German once: “Können Sie das bitte prüfen?”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 195
@@ -1600,20 +1255,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_195`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: পার্সেল পাঠাতে বলুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: পার্সেল পাঠাতে বলুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich möchte dieses Paket verschicken.
-উচ্চারণ: ইখ ম্যোখটে ডিজেস পাকেট ফেরশিকেন।
-অর্থ: আমি এই পার্সেল পাঠাতে চাই।
-05–10s — speak only this German sentence once; display all three caption lines:
-Es soll nach Hamburg gehen.
-উচ্চারণ: এস জল নাখ হামবুর্ক গেয়েন।
-অর্থ: এটা হামবুর্গে যাবে।
+00–05s — AUDIO: Say German once: “Ich möchte dieses Paket verschicken.”
+05–10s — AUDIO: Say German once: “Es soll nach Hamburg gehen.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 196
@@ -1623,20 +1273,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_196`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: ডাকটিকিট কিনুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: ডাকটিকিট কিনুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich brauche eine Briefmarke.
-উচ্চারণ: ইখ ব্রাউখে আইনে ব্রিফমারকে।
-অর্থ: আমার একটা ডাকটিকিট লাগবে।
-05–10s — speak only this German sentence once; display all three caption lines:
-Der Brief geht nach Frankreich.
-উচ্চারণ: ডেয়া ব্রিফ গেট নাখ ফ্রাংকরাইখ।
-অর্থ: চিঠিটা ফ্রান্সে যাবে।
+00–05s — AUDIO: Say German once: “Ich brauche eine Briefmarke.”
+05–10s — AUDIO: Say German once: “Der Brief geht nach Frankreich.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 197
@@ -1646,20 +1291,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_197`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: পার্সেল নিতে বলুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: পার্সেল নিতে বলুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich möchte mein Paket abholen.
-উচ্চারণ: ইখ ম্যোখটে মাইন পাকেট আপহোলেন।
-অর্থ: আমি আমার পার্সেল নিতে চাই।
-05–10s — speak only this German sentence once; display all three caption lines:
-Hier ist mein Ausweis.
-উচ্চারণ: হিয়া ইস্ট মাইন আউসভাইস।
-অর্থ: এই নিন পরিচয়পত্র।
+00–05s — AUDIO: Say German once: “Ich möchte mein Paket abholen.”
+05–10s — AUDIO: Say German once: “Hier ist mein Ausweis.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 198
@@ -1669,20 +1309,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_198`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: পার্সেল না এলে জানান
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: পার্সেল না এলে জানান
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Mein Paket ist noch nicht angekommen.
-উচ্চারণ: মাইন পাকেট ইস্ট নখ নিখ্ট আনগেকোমেন।
-অর্থ: আমার পার্সেল এখনো আসেনি।
-05–10s — speak only this German sentence once; display all three caption lines:
-Können Sie die Sendung prüfen?
-উচ্চারণ: ক্যোনেন জি ডি জেন্ডুং প্র্যুফেন?
-অর্থ: পার্সেলের খোঁজ দেখবেন?
+00–05s — AUDIO: Say German once: “Mein Paket ist noch nicht angekommen.”
+05–10s — AUDIO: Say German once: “Können Sie die Sendung prüfen?”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 199
@@ -1692,20 +1327,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_199`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: ভুল পণ্য ফেরত দিন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: ভুল পণ্য ফেরত দিন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich habe den falschen Artikel bekommen.
-উচ্চারণ: ইখ হাবে ডেন ফালশেন আর্টিকেল বেকোমেন।
-অর্থ: আমি ভুল পণ্য পেয়েছি।
-05–10s — speak only this German sentence once; display all three caption lines:
-Ich möchte ihn zurückschicken.
-উচ্চারণ: ইখ ম্যোখটে ইন ৎসুর্যুকশিকেন।
-অর্থ: আমি ওটা ফেরত পাঠাতে চাই।
+00–05s — AUDIO: Say German once: “Ich habe den falschen Artikel bekommen.”
+05–10s — AUDIO: Say German once: “Ich möchte ihn zurückschicken.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 200
@@ -1715,20 +1345,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_200`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: ব্যাগ হারালে খোঁজ নিন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: ব্যাগ হারালে খোঁজ নিন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich habe meine Tasche verloren.
-উচ্চারণ: ইখ হাবে মাইনে টাশে ফেরলোরেন।
-অর্থ: আমি আমার ব্যাগ হারিয়েছি।
-05–10s — speak only this German sentence once; display all three caption lines:
-Wo ist das Fundbüro?
-উচ্চারণ: ভো ইস্ট ডাস ফুন্টব্যুরো?
-অর্থ: হারানো জিনিসের অফিস কোথায়?
+00–05s — AUDIO: Say German once: “Ich habe meine Tasche verloren.”
+05–10s — AUDIO: Say German once: “Wo ist das Fundbüro?”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 201
@@ -1738,20 +1363,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_201`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: রাতের খাবারের দাওয়াত দিন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: রাতের খাবারের দাওয়াত দিন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Hast du Lust, mit uns zu essen?
-উচ্চারণ: হাস্ট ডু লুস্ট, মিট উন্স ৎসু এসেন?
-অর্থ: আমাদের সঙ্গে খেতে চাও?
-05–10s — speak only this German sentence once; display all three caption lines:
-Wir kochen heute Abend zusammen.
-উচ্চারণ: ভিয়া কোখেন হয়টে আবেন্ট ৎসুজামেন।
-অর্থ: আজ সন্ধ্যায় আমরা একসঙ্গে রান্না করব।
+00–05s — AUDIO: Say German once: “Hast du Lust, mit uns zu essen?”
+05–10s — AUDIO: Say German once: “Wir kochen heute Abend zusammen.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 202
@@ -1761,20 +1381,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_202`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: দাওয়াত গ্রহণ করুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: দাওয়াত গ্রহণ করুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich komme gern zu deiner Feier.
-উচ্চারণ: ইখ কোমে গের্ন ৎসু ডাইনার ফাইয়ার।
-অর্থ: তোমার অনুষ্ঠানে আনন্দের সঙ্গে আসব।
-05–10s — speak only this German sentence once; display all three caption lines:
-Soll ich etwas mitbringen?
-উচ্চারণ: জল ইখ এটভাস মিটব্রিংগেন?
-অর্থ: কিছু নিয়ে আসব?
+00–05s — AUDIO: Say German once: “Ich komme gern zu deiner Feier.”
+05–10s — AUDIO: Say German once: “Soll ich etwas mitbringen?”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 203
@@ -1784,20 +1399,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_203`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: ভদ্রভাবে না বলুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: ভদ্রভাবে না বলুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich würde gern kommen.
-উচ্চারণ: ইখ ভ্যুর্ডে গের্ন কোমেন।
-অর্থ: আমি আসতে চাইতাম।
-05–10s — speak only this German sentence once; display all three caption lines:
-Leider habe ich schon etwas vor.
-উচ্চারণ: লাইডার হাবে ইখ শোন এটভাস ফোর।
-অর্থ: দুঃখিত, আগে থেকেই অন্য পরিকল্পনা আছে।
+00–05s — AUDIO: Say German once: “Ich würde gern kommen.”
+05–10s — AUDIO: Say German once: “Leider habe ich schon etwas vor.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 204
@@ -1807,20 +1417,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_204`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: অন্য দিনের প্রস্তাব দিন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: অন্য দিনের প্রস্তাব দিন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Heute schaffe ich es leider nicht.
-উচ্চারণ: হয়টে শাফে ইখ এস লাইডার নিখ্ট।
-অর্থ: আজ আর পেরে উঠব না।
-05–10s — speak only this German sentence once; display all three caption lines:
-Wie wäre es mit morgen?
-উচ্চারণ: ভি ভেয়ারে এস মিট মর্গেন?
-অর্থ: কাল হলে কেমন হয়?
+00–05s — AUDIO: Say German once: “Heute schaffe ich es leider nicht.”
+05–10s — AUDIO: Say German once: “Wie wäre es mit morgen?”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 205
@@ -1830,20 +1435,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_205`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: দেখা করার জায়গা ঠিক করুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: দেখা করার জায়গা ঠিক করুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Lass uns vor dem Kino treffen.
-উচ্চারণ: লাস উন্স ফোর ডেম কিনো ট্রেফেন।
-অর্থ: চলো সিনেমা হলের সামনে দেখা করি।
-05–10s — speak only this German sentence once; display all three caption lines:
-Dort können wir aufeinander warten.
-উচ্চারণ: ডর্ট ক্যোনেন ভিয়া আউফআইনানডার ভার্টেন।
-অর্থ: সেখানে একে অন্যের অপেক্ষা করতে পারব।
+00–05s — AUDIO: Say German once: “Lass uns vor dem Kino treffen.”
+05–10s — AUDIO: Say German once: “Dort können wir aufeinander warten.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 206
@@ -1853,20 +1453,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_206`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: বন্ধুকে সঙ্গে নিতে চান
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: বন্ধুকে সঙ্গে নিতে চান
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Darf ich einen Freund mitbringen?
-উচ্চারণ: ডার্ফ ইখ আইনেন ফ্রয়ন্ট মিটব্রিংগেন?
-অর্থ: একজন বন্ধুকে সঙ্গে আনতে পারি?
-05–10s — speak only this German sentence once; display all three caption lines:
-Er ist gerade zu Besuch.
-উচ্চারণ: এয়া ইস্ট গেরাডে ৎসু বেজুখ।
-অর্থ: সে এখন বেড়াতে এসেছে।
+00–05s — AUDIO: Say German once: “Darf ich einen Freund mitbringen?”
+05–10s — AUDIO: Say German once: “Er ist gerade zu Besuch.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 207
@@ -1876,20 +1471,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_207`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: রান্নায় সাহায্য করতে চান
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: রান্নায় সাহায্য করতে চান
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Kann ich dir beim Kochen helfen?
-উচ্চারণ: কান ইখ ডিয়া বাইম কোখেন হেলফেন?
-অর্থ: রান্নায় তোমাকে সাহায্য করতে পারি?
-05–10s — speak only this German sentence once; display all three caption lines:
-Ich könnte das Gemüse schneiden.
-উচ্চারণ: ইখ ক্যোন্টে ডাস গেম্যুজে শনাইডেন।
-অর্থ: আমি সবজি কাটতে পারি।
+00–05s — AUDIO: Say German once: “Kann ich dir beim Kochen helfen?”
+05–10s — AUDIO: Say German once: “Ich könnte das Gemüse schneiden.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 208
@@ -1899,20 +1489,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_208`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: দাওয়াতের জন্য ধন্যবাদ দিন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: দাওয়াতের জন্য ধন্যবাদ দিন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Danke, dass du mich eingeladen hast.
-উচ্চারণ: ডাংকে, ডাস ডু মিখ আইনগেলাডেন হাস্ট।
-অর্থ: আমাকে দাওয়াত দেওয়ার জন্য ধন্যবাদ।
-05–10s — speak only this German sentence once; display all three caption lines:
-Der Abend war wirklich schön.
-উচ্চারণ: ডেয়া আবেন্ট ভার ভির্কলিখ শ্যোন।
-অর্থ: সন্ধ্যাটা সত্যিই সুন্দর ছিল।
+00–05s — AUDIO: Say German once: “Danke, dass du mich eingeladen hast.”
+05–10s — AUDIO: Say German once: “Der Abend war wirklich schön.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 209
@@ -1922,20 +1507,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_209`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: পরিকল্পনা বদলানোর কারণ বলুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: পরিকল্পনা বদলানোর কারণ বলুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Wir müssen das Treffen verschieben.
-উচ্চারণ: ভিয়া ম্যুসেন ডাস ট্রেফেন ফেরশিবেন।
-অর্থ: আমাদের দেখা করার দিন পেছাতে হবে।
-05–10s — speak only this German sentence once; display all three caption lines:
-Ein Freund ist krank geworden.
-উচ্চারণ: আইন ফ্রয়ন্ট ইস্ট ক্রাংক গেভর্ডেন।
-অর্থ: একজন বন্ধু অসুস্থ হয়ে পড়েছে।
+00–05s — AUDIO: Say German once: “Wir müssen das Treffen verschieben.”
+05–10s — AUDIO: Say German once: “Ein Freund ist krank geworden.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 210
@@ -1945,20 +1525,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_210`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: যোগাযোগ রাখতে বলুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: যোগাযোগ রাখতে বলুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Melde dich, wenn du Zeit hast.
-উচ্চারণ: মেল্ডে ডিখ, ভেন ডু ৎসাইট হাস্ট।
-অর্থ: সময় পেলে যোগাযোগ কোরো।
-05–10s — speak only this German sentence once; display all three caption lines:
-Ich würde mich sehr freuen.
-উচ্চারণ: ইখ ভ্যুর্ডে মিখ জেয়া ফ্রয়েন।
-অর্থ: আমার খুব ভালো লাগবে।
+00–05s — AUDIO: Say German once: “Melde dich, wenn du Zeit hast.”
+05–10s — AUDIO: Say German once: “Ich würde mich sehr freuen.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 211
@@ -1968,20 +1543,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_211`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: সহজভাবে কারণ বলুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: সহজভাবে কারণ বলুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich bleibe zu Hause, weil ich müde bin.
-উচ্চারণ: ইখ ব্লাইবে ৎসু হাউজে, ভাইল ইখ ম্যুডে বিন।
-অর্থ: ক্লান্ত বলে বাসায় থাকব।
-05–10s — speak only this German sentence once; display all three caption lines:
-Morgen gehe ich wieder raus.
-উচ্চারণ: মর্গেন গেয়ে ইখ ভিডার রাউস।
-অর্থ: কাল আবার বাইরে যাব।
+00–05s — AUDIO: Say German once: “Ich bleibe zu Hause, weil ich müde bin.”
+05–10s — AUDIO: Say German once: “Morgen gehe ich wieder raus.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 212
@@ -1991,20 +1561,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_212`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: কেন জার্মান শিখছেন বলুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: কেন জার্মান শিখছেন বলুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich lerne Deutsch, weil ich hier arbeite.
-উচ্চারণ: ইখ লের্নে ডয়চ, ভাইল ইখ হিয়া আরবাইটে।
-অর্থ: এখানে কাজ করি বলে জার্মান শিখছি।
-05–10s — speak only this German sentence once; display all three caption lines:
-Ich möchte meine Kollegen besser verstehen.
-উচ্চারণ: ইখ ম্যোখটে মাইনে কোলেগেন বেসার ফেরশ্টেয়েন।
-অর্থ: সহকর্মীদের কথা আরও ভালো বুঝতে চাই।
+00–05s — AUDIO: Say German once: “Ich lerne Deutsch, weil ich hier arbeite.”
+05–10s — AUDIO: Say German once: “Ich möchte meine Kollegen besser verstehen.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 213
@@ -2014,20 +1579,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_213`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: ট্রেনে যেতে কেন পছন্দ
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: ট্রেনে যেতে কেন পছন্দ
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich fahre lieber mit dem Zug.
-উচ্চারণ: ইখ ফারে লিবার মিট ডেম ৎসুক।
-অর্থ: আমি ট্রেনে যেতে বেশি পছন্দ করি।
-05–10s — speak only this German sentence once; display all three caption lines:
-So kann ich unterwegs lesen.
-উচ্চারণ: জো কান ইখ উন্টারভেক্স লেজেন।
-অর্থ: এতে পথে পড়তে পারি।
+00–05s — AUDIO: Say German once: “Ich fahre lieber mit dem Zug.”
+05–10s — AUDIO: Say German once: “So kann ich unterwegs lesen.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 214
@@ -2037,20 +1597,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_214`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: নিজে রান্না কেন করেন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: নিজে রান্না কেন করেন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich koche gern selbst.
-উচ্চারণ: ইখ কোখে গের্ন জেল্পস্ট।
-অর্থ: নিজে রান্না করতে ভালোবাসি।
-05–10s — speak only this German sentence once; display all three caption lines:
-Dann weiß ich, was im Essen ist.
-উচ্চারণ: ডান ভাইস ইখ, ভাস ইম এসেন ইস্ট।
-অর্থ: তাহলে খাবারে কী আছে জানি।
+00–05s — AUDIO: Say German once: “Ich koche gern selbst.”
+05–10s — AUDIO: Say German once: “Dann weiß ich, was im Essen ist.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 215
@@ -2060,20 +1615,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_215`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: আপনার কাছে কী জরুরি
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: আপনার কাছে কী জরুরি
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Mir ist eine ruhige Wohnung wichtig.
-উচ্চারণ: মিয়া ইস্ট আইনে রুইগে ভোনুং ভিখ্টিখ।
-অর্থ: শান্ত বাসা আমার কাছে জরুরি।
-05–10s — speak only this German sentence once; display all three caption lines:
-Ich arbeite oft von zu Hause.
-উচ্চারণ: ইখ আরবাইটে অফ্ট ফন ৎসু হাউজে।
-অর্থ: আমি প্রায়ই বাসা থেকে কাজ করি।
+00–05s — AUDIO: Say German once: “Mir ist eine ruhige Wohnung wichtig.”
+05–10s — AUDIO: Say German once: “Ich arbeite oft von zu Hause.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 216
@@ -2083,20 +1633,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_216`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: দুটি জিনিস তুলনা করুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: দুটি জিনিস তুলনা করুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Diese Wohnung ist günstiger als die andere.
-উচ্চারণ: ডিজে ভোনুং ইস্ট গ্যুনস্টিগার আল্স ডি আনডেরে।
-অর্থ: এই বাসা অন্যটির চেয়ে সস্তা।
-05–10s — speak only this German sentence once; display all three caption lines:
-Dafür ist sie etwas kleiner.
-উচ্চারণ: ডাফ্যুর ইস্ট জি এটভাস ক্লাইনার।
-অর্থ: তবে এটা একটু ছোট।
+00–05s — AUDIO: Say German once: “Diese Wohnung ist günstiger als die andere.”
+05–10s — AUDIO: Say German once: “Dafür ist sie etwas kleiner.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 217
@@ -2106,20 +1651,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_217`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: নিজের মতামত দিন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: নিজের মতামত দিন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich finde den Vorschlag gut.
-উচ্চারণ: ইখ ফিন্ডে ডেন ফোরশ্লাক গুট।
-অর্থ: প্রস্তাবটা আমার ভালো লাগছে।
-05–10s — speak only this German sentence once; display all three caption lines:
-Wir sollten es einfach versuchen.
-উচ্চারণ: ভিয়া জল্টেন এস আইনফাখ ফেরজুখেন।
-অর্থ: আমাদের চেষ্টা করে দেখা উচিত।
+00–05s — AUDIO: Say German once: “Ich finde den Vorschlag gut.”
+05–10s — AUDIO: Say German once: “Wir sollten es einfach versuchen.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 218
@@ -2129,20 +1669,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_218`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: ভদ্রভাবে ভিন্নমত দিন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: ভদ্রভাবে ভিন্নমত দিন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich sehe das etwas anders.
-উচ্চারণ: ইখ জেয়ে ডাস এটভাস আনডার্স।
-অর্থ: আমি বিষয়টা একটু ভিন্নভাবে দেখি।
-05–10s — speak only this German sentence once; display all three caption lines:
-Können wir noch einmal darüber sprechen?
-উচ্চারণ: ক্যোনেন ভিয়া নখ আইনমাল ডারইউবার শ্প্রেখেন?
-অর্থ: এ নিয়ে আবার কথা বলতে পারি?
+00–05s — AUDIO: Say German once: “Ich sehe das etwas anders.”
+05–10s — AUDIO: Say German once: “Können wir noch einmal darüber sprechen?”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 219
@@ -2152,20 +1687,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_219`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: নিশ্চিত না হলে বলুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: নিশ্চিত না হলে বলুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich bin mir noch nicht sicher.
-উচ্চারণ: ইখ বিন মিয়া নখ নিখ্ট জিখার।
-অর্থ: আমি এখনো নিশ্চিত নই।
-05–10s — speak only this German sentence once; display all three caption lines:
-Ich möchte darüber nachdenken.
-উচ্চারণ: ইখ ম্যোখটে ডারইউবার নাখডেংকেন।
-অর্থ: আমি এটা নিয়ে ভাবতে চাই।
+00–05s — AUDIO: Say German once: “Ich bin mir noch nicht sicher.”
+05–10s — AUDIO: Say German once: “Ich möchte darüber nachdenken.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 220
@@ -2175,20 +1705,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_220`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: খরচ ভাগ করার প্রস্তাব
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: খরচ ভাগ করার প্রস্তাব
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Wir können uns die Kosten teilen.
-উচ্চারণ: ভিয়া ক্যোনেন উন্স ডি কোস্টেন টাইলেন।
-অর্থ: আমরা খরচ ভাগ করে নিতে পারি।
-05–10s — speak only this German sentence once; display all three caption lines:
-Dann wird es für alle günstiger.
-উচ্চারণ: ডান ভির্ট এস ফ্যুর আলে গ্যুনস্টিগার।
-অর্থ: তাহলে সবার খরচ কম হবে।
+00–05s — AUDIO: Say German once: “Wir können uns die Kosten teilen.”
+05–10s — AUDIO: Say German once: “Dann wird es für alle günstiger.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 221
@@ -2198,20 +1723,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_221`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: গতকালের কথা বলুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: গতকালের কথা বলুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Gestern habe ich lange gearbeitet.
-উচ্চারণ: গেস্টার্ন হাবে ইখ লাংগে গেআরবাইটেট।
-অর্থ: গতকাল অনেকক্ষণ কাজ করেছি।
-05–10s — speak only this German sentence once; display all three caption lines:
-Danach bin ich früh eingeschlafen.
-উচ্চারণ: ডানাখ বিন ইখ ফ্র্যু আইনগেশ্লাফেন।
-অর্থ: তারপর তাড়াতাড়ি ঘুমিয়ে পড়েছি।
+00–05s — AUDIO: Say German once: “Gestern habe ich lange gearbeitet.”
+05–10s — AUDIO: Say German once: “Danach bin ich früh eingeschlafen.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 222
@@ -2221,20 +1741,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_222`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: বাস মিস হলে বলুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: বাস মিস হলে বলুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich habe den Bus verpasst.
-উচ্চারণ: ইখ হাবে ডেন বুস ফেরপাস্ট।
-অর্থ: আমি বাস মিস করেছি।
-05–10s — speak only this German sentence once; display all three caption lines:
-Deshalb bin ich zu spät gekommen.
-উচ্চারণ: ডেসহাল্প বিন ইখ ৎসু শ্পেট গেকোমেন।
-অর্থ: তাই দেরি হয়েছে।
+00–05s — AUDIO: Say German once: “Ich habe den Bus verpasst.”
+05–10s — AUDIO: Say German once: “Deshalb bin ich zu spät gekommen.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 223
@@ -2244,20 +1759,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_223`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: প্রথম দিনের অভিজ্ঞতা
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: প্রথম দিনের অভিজ্ঞতা
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Am Anfang war ich sehr nervös.
-উচ্চারণ: আম আনফাং ভার ইখ জেয়া নেরভ্যোস।
-অর্থ: শুরুতে আমি খুব নার্ভাস ছিলাম।
-05–10s — speak only this German sentence once; display all three caption lines:
-Meine Kollegen haben mir geholfen.
-উচ্চারণ: মাইনে কোলেগেন হাবেন মিয়া গেহোলফেন।
-অর্থ: সহকর্মীরা আমাকে সাহায্য করেছেন।
+00–05s — AUDIO: Say German once: “Am Anfang war ich sehr nervös.”
+05–10s — AUDIO: Say German once: “Meine Kollegen haben mir geholfen.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 224
@@ -2267,20 +1777,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_224`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: বাসা পেয়ে জানিয়ে দিন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: বাসা পেয়ে জানিয়ে দিন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich habe endlich eine Wohnung gefunden.
-উচ্চারণ: ইখ হাবে এন্টলিখ আইনে ভোনুং গেফুন্ডেন।
-অর্থ: অবশেষে একটা বাসা পেয়েছি।
-05–10s — speak only this German sentence once; display all three caption lines:
-Nächsten Monat ziehe ich ein.
-উচ্চারণ: নেখস্টেন মোনাট ৎসিয়ে ইখ আইন।
-অর্থ: আগামী মাসে উঠব।
+00–05s — AUDIO: Say German once: “Ich habe endlich eine Wohnung gefunden.”
+05–10s — AUDIO: Say German once: “Nächsten Monat ziehe ich ein.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 225
@@ -2290,20 +1795,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_225`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: নতুন সাইকেলের কথা
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: নতুন সাইকেলের কথা
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich habe mir ein Fahrrad gekauft.
-উচ্চারণ: ইখ হাবে মিয়া আইন ফাররাট গেকাউফ্ট।
-অর্থ: আমি একটা সাইকেল কিনেছি।
-05–10s — speak only this German sentence once; display all three caption lines:
-Damit fahre ich jetzt zur Arbeit.
-উচ্চারণ: ডামিট ফারে ইখ ইয়েট্স্ট ৎসুর আরবাইট।
-অর্থ: এখন ওটা দিয়ে কাজে যাই।
+00–05s — AUDIO: Say German once: “Ich habe mir ein Fahrrad gekauft.”
+05–10s — AUDIO: Say German once: “Damit fahre ich jetzt zur Arbeit.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 226
@@ -2313,20 +1813,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_226`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: ছোট ভুলের কথা বলুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: ছোট ভুলের কথা বলুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich habe die falsche Adresse eingegeben.
-উচ্চারণ: ইখ হাবে ডি ফালশে আড্রেসে আইনগেগেবেন।
-অর্থ: আমি ভুল ঠিকানা লিখেছিলাম।
-05–10s — speak only this German sentence once; display all three caption lines:
-Zum Glück habe ich es rechtzeitig bemerkt.
-উচ্চারণ: ৎসুম গ্ল্যুক হাবে ইখ এস রেখ্টৎসাইটিখ বেমের্ক্ট।
-অর্থ: ভাগ্য ভালো, সময়মতো খেয়াল করেছি।
+00–05s — AUDIO: Say German once: “Ich habe die falsche Adresse eingegeben.”
+05–10s — AUDIO: Say German once: “Zum Glück habe ich es rechtzeitig bemerkt.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 227
@@ -2336,20 +1831,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_227`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: বন্ধুর সঙ্গে দেখা হওয়ার কথা
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: বন্ধুর সঙ্গে দেখা হওয়ার কথা
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Am Wochenende habe ich Sara getroffen.
-উচ্চারণ: আম ভোখেনএন্ডে হাবে ইখ জারা গেট্রফেন।
-অর্থ: ছুটির দিনে সারার সঙ্গে দেখা হয়েছিল।
-05–10s — speak only this German sentence once; display all three caption lines:
-Wir haben lange miteinander gesprochen.
-উচ্চারণ: ভিয়া হাবেন লাংগে মিটআইনানডার গেশ্প্রোখেন।
-অর্থ: আমরা অনেকক্ষণ কথা বলেছি।
+00–05s — AUDIO: Say German once: “Am Wochenende habe ich Sara getroffen.”
+05–10s — AUDIO: Say German once: “Wir haben lange miteinander gesprochen.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 228
@@ -2359,20 +1849,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_228`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: প্রথম অভিজ্ঞতা বলুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: প্রথম অভিজ্ঞতা বলুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich bin zum ersten Mal geflogen.
-উচ্চারণ: ইখ বিন ৎসুম এরস্টেন মাল গেফ্লোগেন।
-অর্থ: আমি প্রথমবার বিমানে চড়েছি।
-05–10s — speak only this German sentence once; display all three caption lines:
-Es war aufregender als erwartet.
-উচ্চারণ: এস ভার আউফরেগেন্ডার আল্স এরভার্টেট।
-অর্থ: প্রত্যাশার চেয়েও রোমাঞ্চকর ছিল।
+00–05s — AUDIO: Say German once: “Ich bin zum ersten Mal geflogen.”
+05–10s — AUDIO: Say German once: “Es war aufregender als erwartet.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 229
@@ -2382,20 +1867,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_229`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: কোর্স শেষের কথা বলুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: কোর্স শেষের কথা বলুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich habe meinen Deutschkurs abgeschlossen.
-উচ্চারণ: ইখ হাবে মাইনেন ডয়চকুর্স আপগেশ্লোসেন।
-অর্থ: আমার জার্মান কোর্স শেষ করেছি।
-05–10s — speak only this German sentence once; display all three caption lines:
-Jetzt möchte ich weiterlernen.
-উচ্চারণ: ইয়েট্স্ট ম্যোখটে ইখ ভাইটারলের্নেন।
-অর্থ: এখন আরও শিখতে চাই।
+00–05s — AUDIO: Say German once: “Ich habe meinen Deutschkurs abgeschlossen.”
+05–10s — AUDIO: Say German once: “Jetzt möchte ich weiterlernen.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 230
@@ -2405,20 +1885,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_230`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: ভুলের ভয় কাটান
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: ভুলের ভয় কাটান
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Früher hatte ich Angst vor Fehlern.
-উচ্চারণ: ফ্র্যুয়ার হাটে ইখ আংস্ট ফোর ফেলার্ন।
-অর্থ: আগে ভুল করতে ভয় পেতাম।
-05–10s — speak only this German sentence once; display all three caption lines:
-Heute spreche ich trotzdem Deutsch.
-উচ্চারণ: হয়টে শ্প্রেখে ইখ ট্রট্সডেম ডয়চ।
-অর্থ: এখন তবুও জার্মান বলি।
+00–05s — AUDIO: Say German once: “Früher hatte ich Angst vor Fehlern.”
+05–10s — AUDIO: Say German once: “Heute spreche ich trotzdem Deutsch.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 231
@@ -2428,20 +1903,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_231`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: নতুন কাজের পরিকল্পনা
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: নতুন কাজের পরিকল্পনা
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Nächste Woche fange ich einen neuen Job an.
-উচ্চারণ: নেখস্টে ভোখে ফাংগে ইখ আইনেন নয়েন জপ আন।
-অর্থ: আগামী সপ্তাহে নতুন চাকরি শুরু করব।
-05–10s — speak only this German sentence once; display all three caption lines:
-Ich bin schon sehr gespannt.
-উচ্চারণ: ইখ বিন শোন জেয়া গেশ্পান্ট।
-অর্থ: আমি খুব আগ্রহ নিয়ে অপেক্ষা করছি।
+00–05s — AUDIO: Say German once: “Nächste Woche fange ich einen neuen Job an.”
+05–10s — AUDIO: Say German once: “Ich bin schon sehr gespannt.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 232
@@ -2451,20 +1921,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_232`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: শেখার লক্ষ্য বলুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: শেখার লক্ষ্য বলুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich möchte jeden Tag zehn Minuten üben.
-উচ্চারণ: ইখ ম্যোখটে ইয়েডেন টাক ৎসেন মিনিটেন ইউবেন।
-অর্থ: প্রতিদিন দশ মিনিট অনুশীলন করতে চাই।
-05–10s — speak only this German sentence once; display all three caption lines:
-So bleibe ich beim Lernen dran.
-উচ্চারণ: জো ব্লাইবে ইখ বাইম লের্নেন ড্রান।
-অর্থ: এভাবে নিয়মিত শেখা চালিয়ে যাই।
+00–05s — AUDIO: Say German once: “Ich möchte jeden Tag zehn Minuten üben.”
+05–10s — AUDIO: Say German once: “So bleibe ich beim Lernen dran.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 233
@@ -2474,20 +1939,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_233`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: আবহাওয়া অনুযায়ী পরিকল্পনা
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: আবহাওয়া অনুযায়ী পরিকল্পনা
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Wenn es morgen sonnig ist, gehen wir wandern.
-উচ্চারণ: ভেন এস মর্গেন জনিখ ইস্ট, গেয়েন ভিয়া ভানডার্ন।
-অর্থ: কাল রোদ হলে হাঁটতে বেড়াব।
-05–10s — speak only this German sentence once; display all three caption lines:
-Sonst bleiben wir in der Stadt.
-উচ্চারণ: জনস্ট ব্লাইবেন ভিয়া ইন ডেয়া শ্টাট।
-অর্থ: নইলে শহরেই থাকব।
+00–05s — AUDIO: Say German once: “Wenn es morgen sonnig ist, gehen wir wandern.”
+05–10s — AUDIO: Say German once: “Sonst bleiben wir in der Stadt.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 234
@@ -2497,20 +1957,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_234`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: কাজ শেষে দেখা করার কথা
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: কাজ শেষে দেখা করার কথা
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Wenn ich früher fertig bin, rufe ich an.
-উচ্চারণ: ভেন ইখ ফ্র্যুয়ার ফের্টিখ বিন, রুফে ইখ আন।
-অর্থ: আগে কাজ শেষ হলে ফোন করব।
-05–10s — speak only this German sentence once; display all three caption lines:
-Dann können wir uns treffen.
-উচ্চারণ: ডান ক্যোনেন ভিয়া উন্স ট্রেফেন।
-অর্থ: তখন আমরা দেখা করতে পারব।
+00–05s — AUDIO: Say German once: “Wenn ich früher fertig bin, rufe ich an.”
+05–10s — AUDIO: Say German once: “Dann können wir uns treffen.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 235
@@ -2520,20 +1975,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_235`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: সহজ বইয়ের পরামর্শ চান
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: সহজ বইয়ের পরামর্শ চান
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Könntest du mir ein gutes Buch empfehlen?
-উচ্চারণ: ক্যোন্টেস্ট ডু মিয়া আইন গুটেস বুখ এমপ্ফেলেন?
-অর্থ: ভালো একটা বইয়ের পরামর্শ দেবে?
-05–10s — speak only this German sentence once; display all three caption lines:
-Es sollte leicht zu lesen sein.
-উচ্চারণ: এস জল্টে লাইখ্ট ৎসু লেজেন জাইন।
-অর্থ: পড়তে সহজ হলে ভালো হয়।
+00–05s — AUDIO: Say German once: “Könntest du mir ein gutes Buch empfehlen?”
+05–10s — AUDIO: Say German once: “Es sollte leicht zu lesen sein.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 236
@@ -2543,20 +1993,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_236`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: বেড়ানোর ইচ্ছা বলুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: বেড়ানোর ইচ্ছা বলুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich würde gern einmal nach Wien reisen.
-উচ্চারণ: ইখ ভ্যুর্ডে গের্ন আইনমাল নাখ ভিন রাইজেন।
-অর্থ: আমি একবার ভিয়েনায় যেতে চাই।
-05–10s — speak only this German sentence once; display all three caption lines:
-Dafür spare ich jeden Monat Geld.
-উচ্চারণ: ডাফ্যুর শ্পারে ইখ ইয়েডেন মোনাট গেল্ট।
-অর্থ: সেজন্য প্রতি মাসে টাকা জমাই।
+00–05s — AUDIO: Say German once: “Ich würde gern einmal nach Wien reisen.”
+05–10s — AUDIO: Say German once: “Dafür spare ich jeden Monat Geld.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 237
@@ -2566,20 +2011,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_237`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: কাজের কাছে থাকতে চান
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: কাজের কাছে থাকতে চান
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich möchte näher bei meiner Arbeit wohnen.
-উচ্চারণ: ইখ ম্যোখটে নেয়ার বাই মাইনার আরবাইট ভোনেন।
-অর্থ: কাজের জায়গার আরও কাছে থাকতে চাই।
-05–10s — speak only this German sentence once; display all three caption lines:
-Dann brauche ich morgens weniger Zeit.
-উচ্চারণ: ডান ব্রাউখে ইখ মর্গেন্স ভেনিগার ৎসাইট।
-অর্থ: তাহলে সকালে কম সময় লাগবে।
+00–05s — AUDIO: Say German once: “Ich möchte näher bei meiner Arbeit wohnen.”
+05–10s — AUDIO: Say German once: “Dann brauche ich morgens weniger Zeit.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 238
@@ -2589,20 +2029,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_238`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: কাজের প্রতিশ্রুতি দিন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: কাজের প্রতিশ্রুতি দিন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich kümmere mich morgen darum.
-উচ্চারণ: ইখ ক্যুমারে মিখ মর্গেন ডারুম।
-অর্থ: কাল আমি বিষয়টা দেখব।
-05–10s — speak only this German sentence once; display all three caption lines:
-Sobald ich fertig bin, melde ich mich.
-উচ্চারণ: জোবাল্ট ইখ ফের্টিখ বিন, মেল্ডে ইখ মিখ।
-অর্থ: শেষ হলেই যোগাযোগ করব।
+00–05s — AUDIO: Say German once: “Ich kümmere mich morgen darum.”
+05–10s — AUDIO: Say German once: “Sobald ich fertig bin, melde ich mich.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 239
@@ -2612,20 +2047,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_239`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: বিকল্প পরিকল্পনা বলুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: বিকল্প পরিকল্পনা বলুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Falls der Zug ausfällt, nehmen wir den Bus.
-উচ্চারণ: ফাল্স ডেয়া ৎসুক আউসফেল্ট, নেমেন ভিয়া ডেন বুস।
-অর্থ: ট্রেন বাতিল হলে বাসে যাব।
-05–10s — speak only this German sentence once; display all three caption lines:
-Wir kommen trotzdem rechtzeitig an.
-উচ্চারণ: ভিয়া কোমেন ট্রট্সডেম রেখ্টৎসাইটিখ আন।
-অর্থ: তবুও আমরা সময়মতো পৌঁছাব।
+00–05s — AUDIO: Say German once: “Falls der Zug ausfällt, nehmen wir den Bus.”
+05–10s — AUDIO: Say German once: “Wir kommen trotzdem rechtzeitig an.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 240
@@ -2635,20 +2065,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_240`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: ভবিষ্যতের ইচ্ছা বলুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: ভবিষ্যতের ইচ্ছা বলুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Später möchte ich eine Ausbildung machen.
-উচ্চারণ: শ্পেটার ম্যোখটে ইখ আইনে আউসবিল্ডুং মাখেন।
-অর্থ: পরে আমি কারিগরি প্রশিক্ষণ নিতে চাই।
-05–10s — speak only this German sentence once; display all three caption lines:
-Zuerst muss ich mein Deutsch verbessern.
-উচ্চারণ: ৎসুএরস্ট মুস ইখ মাইন ডয়চ ফেরবেসার্ন।
-অর্থ: আগে আমার জার্মান আরও ভালো করতে হবে।
+00–05s — AUDIO: Say German once: “Später möchte ich eine Ausbildung machen.”
+05–10s — AUDIO: Say German once: “Zuerst muss ich mein Deutsch verbessern.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 241
@@ -2658,20 +2083,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_241`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: জরুরি সাহায্য চান
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: জরুরি সাহায্য চান
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Bitte rufen Sie einen Krankenwagen.
-উচ্চারণ: বিটে রুফেন জি আইনেন ক্রাংকেনভাগেন।
-অর্থ: দয়া করে অ্যাম্বুলেন্স ডাকুন।
-05–10s — speak only this German sentence once; display all three caption lines:
-Hier braucht jemand dringend Hilfe.
-উচ্চারণ: হিয়া ব্রাউখ্ট ইয়েমান্ট ড্রিংগেন্ট হিলফে।
-অর্থ: এখানে একজনের জরুরি সাহায্য দরকার।
+00–05s — AUDIO: Say German once: “Bitte rufen Sie einen Krankenwagen.”
+05–10s — AUDIO: Say German once: “Hier braucht jemand dringend Hilfe.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 242
@@ -2681,20 +2101,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_242`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: চুরির অভিযোগ জানান
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: চুরির অভিযোগ জানান
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Mein Fahrrad wurde gestohlen.
-উচ্চারণ: মাইন ফাররাট ভুর্ডে গেশ্টোলেন।
-অর্থ: আমার সাইকেল চুরি হয়েছে।
-05–10s — speak only this German sentence once; display all three caption lines:
-Ich möchte den Diebstahl melden.
-উচ্চারণ: ইখ ম্যোখটে ডেন ডিপশ্টাল মেল্ডেন।
-অর্থ: আমি চুরির অভিযোগ করতে চাই।
+00–05s — AUDIO: Say German once: “Mein Fahrrad wurde gestohlen.”
+05–10s — AUDIO: Say German once: “Ich möchte den Diebstahl melden.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 243
@@ -2704,20 +2119,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_243`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: বুকিং সমস্যা বুঝিয়ে বলুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: বুকিং সমস্যা বুঝিয়ে বলুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Meine Reservierung ist nicht im System.
-উচ্চারণ: মাইনে রেজেরভিরুং ইস্ট নিখ্ট ইম জ্যুস্টেম।
-অর্থ: সিস্টেমে আমার বুকিং নেই।
-05–10s — speak only this German sentence once; display all three caption lines:
-Ich habe aber eine Bestätigung bekommen.
-উচ্চারণ: ইখ হাবে আবের আইনে বেশ্টেটিগুং বেকোমেন।
-অর্থ: কিন্তু আমি নিশ্চয়তার বার্তা পেয়েছি।
+00–05s — AUDIO: Say German once: “Meine Reservierung ist nicht im System.”
+05–10s — AUDIO: Say German once: “Ich habe aber eine Bestätigung bekommen.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 244
@@ -2727,20 +2137,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_244`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: টাকা ফেরত চাইতে বলুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: টাকা ফেরত চাইতে বলুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Der Artikel ist beschädigt angekommen.
-উচ্চারণ: ডেয়া আর্টিকেল ইস্ট বেশেডিগ্ট আনগেকোমেন।
-অর্থ: পণ্যটি নষ্ট অবস্থায় এসেছে।
-05–10s — speak only this German sentence once; display all three caption lines:
-Ich möchte mein Geld zurückbekommen.
-উচ্চারণ: ইখ ম্যোখটে মাইন গেল্ট ৎসুর্যুকবেকোমেন।
-অর্থ: আমি আমার টাকা ফেরত চাই।
+00–05s — AUDIO: Say German once: “Der Artikel ist beschädigt angekommen.”
+05–10s — AUDIO: Say German once: “Ich möchte mein Geld zurückbekommen.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 245
@@ -2750,20 +2155,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_245`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: ভুল বোঝাবুঝি পরিষ্কার করুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: ভুল বোঝাবুঝি পরিষ্কার করুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Das habe ich anders verstanden.
-উচ্চারণ: ডাস হাবে ইখ আনডার্স ফেরশ্টানডেন।
-অর্থ: আমি সেটা অন্যভাবে বুঝেছিলাম।
-05–10s — speak only this German sentence once; display all three caption lines:
-Können Sie es genauer erklären?
-উচ্চারণ: ক্যোনেন জি এস গেনাউয়ার এরক্লেয়ারেন?
-অর্থ: আরও স্পষ্ট করে বলবেন?
+00–05s — AUDIO: Say German once: “Das habe ich anders verstanden.”
+05–10s — AUDIO: Say German once: “Können Sie es genauer erklären?”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 246
@@ -2773,20 +2173,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_246`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: ভুলের জন্য ক্ষমা চান
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: ভুলের জন্য ক্ষমা চান
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich habe versehentlich Ihre Tasche genommen.
-উচ্চারণ: ইখ হাবে ফেরজেন্টলিখ ইরে টাশে গেনোমেন।
-অর্থ: ভুল করে আপনার ব্যাগ নিয়েছি।
-05–10s — speak only this German sentence once; display all three caption lines:
-Das war keine Absicht.
-উচ্চারণ: ডাস ভার কাইনে আপজিখ্ট।
-অর্থ: এটা ইচ্ছা করে করিনি।
+00–05s — AUDIO: Say German once: “Ich habe versehentlich Ihre Tasche genommen.”
+05–10s — AUDIO: Say German once: “Das war keine Absicht.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 247
@@ -2796,20 +2191,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_247`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: বিল আবার দেখতে বলুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: বিল আবার দেখতে বলুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich glaube, die Rechnung stimmt nicht.
-উচ্চারণ: ইখ গ্লাউবে, ডি রেখনুং শ্টিম্ট নিখ্ট।
-অর্থ: আমার মনে হয় বিলটা ঠিক নেই।
-05–10s — speak only this German sentence once; display all three caption lines:
-Könnten Sie bitte noch einmal nachrechnen?
-উচ্চারণ: ক্যোন্টেন জি বিটে নখ আইনমাল নাখরেখনেন?
-অর্থ: দয়া করে আবার হিসাব করবেন?
+00–05s — AUDIO: Say German once: “Ich glaube, die Rechnung stimmt nicht.”
+05–10s — AUDIO: Say German once: “Könnten Sie bitte noch einmal nachrechnen?”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 248
@@ -2819,20 +2209,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_248`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: কী চেষ্টা করেছেন বলুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: কী চেষ্টা করেছেন বলুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ich habe es schon zweimal versucht.
-উচ্চারণ: ইখ হাবে এস শোন ৎসভাইমাল ফেরজুখ্ট।
-অর্থ: আমি আগেই দুবার চেষ্টা করেছি।
-05–10s — speak only this German sentence once; display all three caption lines:
-Leider funktioniert es immer noch nicht.
-উচ্চারণ: লাইডার ফুংক্ৎসিওনির্ট এস ইমার নখ নিখ্ট।
-অর্থ: দুঃখিত, এখনো কাজ করছে না।
+00–05s — AUDIO: Say German once: “Ich habe es schon zweimal versucht.”
+05–10s — AUDIO: Say German once: “Leider funktioniert es immer noch nicht.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 249
@@ -2842,20 +2227,15 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_249`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: একসঙ্গে সমাধান খুঁজুন
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: একসঙ্গে সমাধান খুঁজুন
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Wir finden bestimmt eine Lösung.
-উচ্চারণ: ভিয়া ফিন্ডেন বেশ্টিম্ট আইনে ল্যোজুং।
-অর্থ: আমরা নিশ্চয়ই একটা সমাধান পাব।
-05–10s — speak only this German sentence once; display all three caption lines:
-Lassen Sie uns die Möglichkeiten ansehen.
-উচ্চারণ: লাসেন জি উন্স ডি ম্যোগলিখকাইটেন আনজেয়েন।
-অর্থ: চলুন সম্ভাব্য উপায়গুলো দেখি।
+00–05s — AUDIO: Say German once: “Wir finden bestimmt eine Lösung.”
+05–10s — AUDIO: Say German once: “Lassen Sie uns die Möglichkeiten ansehen.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```
 
 # Prompt 250
@@ -2865,18 +2245,13 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 **JSON key:** `prompt_250`
 
 ```text
-Create one standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate German. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): জার্মান শিখুন: সাহায্যের জন্য কৃতজ্ঞতা জানান
+Create a standalone 9:16 German lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+Speak clear, accurate German, once per sentence. No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): জার্মান শিখুন: সাহায্যের জন্য কৃতজ্ঞতা জানান
 
-00–05s — speak only this German sentence once; display all three caption lines:
-Ihre Hilfe hat mir viel bedeutet.
-উচ্চারণ: ইরে হিলফে হাট মিয়া ফিল বেডয়টেট।
-অর্থ: আপনার সাহায্য আমার জন্য অনেক মূল্যবান ছিল।
-05–10s — speak only this German sentence once; display all three caption lines:
-Jetzt weiß ich, wie es weitergeht.
-উচ্চারণ: ইয়েট্স্ট ভাইস ইখ, ভি এস ভাইটারগেট।
-অর্থ: এখন জানি কীভাবে এগোব।
+00–05s — AUDIO: Say German once: “Ihre Hilfe hat mir viel bedeutet.”
+05–10s — AUDIO: Say German once: “Jetzt weiß ich, wie es weitergeht.”
 
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```

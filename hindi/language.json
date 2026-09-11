@@ -14,13 +14,8 @@
   "instruction_language": "bn-BD",
   "target_video_duration_seconds": 10,
   "sentences_per_video": 2,
-  "caption_fields": [
-    "original_target_language",
-    "bangla_pronunciation",
-    "bangla_meaning"
-  ],
   "presenter": "Exceptionally beautiful, smart, confident adult female teacher; photorealistic appearance, elegant professional clothing, fluent Bangla and accurate target-language speech",
-  "bangla_support_mode": "Spoken Bangla meaning after each Hindi sentence; simultaneous original, Bangla pronunciation and meaning captions",
+  "bangla_support_mode": "Spoken Bangla meaning after each Hindi sentence; no on-screen text",
   "spoken_languages": [
     "hi-IN",
     "bn-BD"
@@ -31,16 +26,11 @@
     "hindi_sentence_2",
     "bangla_meaning_2"
   ],
-  "caption_layout": {
-    "rows_per_sentence": 3,
-    "row_order": [
-      "original_hindi_devanagari",
-      "pronunciation_bangla_only",
-      "meaning_bangla_only"
-    ],
-    "labels": false,
-    "wrapping": false,
-    "duplicate_rows": false,
-    "spoken_pronunciation_guide": false
-  }
+  "captions_enabled": false,
+  "on_screen_text_allowed": false,
+  "learning_support_fields": [
+    "original_target_language",
+    "bangla_pronunciation",
+    "bangla_meaning"
+  ]
 }

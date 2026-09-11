@@ -14,12 +14,14 @@
   "instruction_language": "bn-BD",
   "target_video_duration_seconds": 10,
   "sentences_per_video": 2,
-  "caption_fields": [
+  "presenter": "Exceptionally beautiful, smart, confident adult female teacher; photorealistic appearance, elegant professional clothing, fluent Bangla and accurate target-language speech",
+  "spoken_language": "ja-JP",
+  "bangla_support_mode": "Authoring reference only; never display text in the video",
+  "captions_enabled": false,
+  "on_screen_text_allowed": false,
+  "learning_support_fields": [
     "original_target_language",
     "bangla_pronunciation",
     "bangla_meaning"
-  ],
-  "presenter": "Exceptionally beautiful, smart, confident adult female teacher; photorealistic appearance, elegant professional clothing, fluent Bangla and accurate target-language speech",
-  "spoken_language": "ja-JP",
-  "bangla_support_mode": "Simultaneous on-screen pronunciation and meaning; original sentence spoken once"
+  ]
 }

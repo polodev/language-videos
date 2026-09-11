@@ -1,4 +1,4 @@
-"""Shared concise 10-second prompt and caption format."""
+"""Shared concise 10-second speech-only prompt format."""
 
 import json
 
@@ -24,56 +24,22 @@ def write_prompt_batches(folder, prompts):
     assert merged == prompts, "Split JSON must exactly match the main prompt collection"
 
 
-def caption_lines(sentence, field):
-    if field == "hindi":
-        lines = [sentence[field], sentence["bangla_pronunciation"], sentence["bangla_meaning"]]
-        assert len(set(lines)) == 3
-        assert all(line and "\n" not in line and "\r" not in line for line in lines)
-        return lines
-    return [sentence[field], f"উচ্চারণ: {sentence['bangla_pronunciation']}", f"অর্থ: {sentence['bangla_meaning']}"]
 
-
-def hindi_prompt(lesson):
+def full_prompt(lesson, language, field):
     beats = []
     for index, sentence in enumerate(lesson["sentences"]):
-        captions = "\n".join(caption_lines(sentence, "hindi"))
-        beats.append(f"""{index * 5:02d}–{(index + 1) * 5:02d}s
-AUDIO: Say Hindi once: “{sentence['hindi']}” Then say its Bangla meaning once: “{sentence['bangla_meaning']}”
-EXACT ON-SCREEN CAPTION — only these three rows:
-{captions}""")
-    return f"""Create a standalone 9:16 Hindi lesson, maximum 10 seconds. A very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches to camera with natural lip sync.
-Audio: clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. The pronunciation row is SILENT reading support: never speak or repeat it. No extra speech or music.
-Captions: EXACTLY THREE single-line rows at a time: (1) original Hindi in Devanagari, (2) Hindi pronunciation written ONLY in Bangla, (3) meaning written ONLY in Bangla. Copy the supplied text character for character; do not translate or transliterate it again. Never duplicate a row, add a fourth row, or add automatic subtitles, labels, numbering or titles. Do not wrap rows. Fit each complete row within the safe width using clear, readable lettering. Use white text on a dark panel below her face, clear of bottom/right controls, with generous spacing and no heavy outline. Keep each group static; replace all three rows together at 5 seconds. Check for spelling errors, mixed scripts and duplicate rows before finalizing.
-Upload title (metadata only, never on screen or spoken): {lesson['upload_title']}
+        speech = f"Say {language} once: “{sentence[field]}”"
+        if field == "hindi":
+            speech += f" Then say its Bangla meaning once: “{sentence['bangla_meaning']}”"
+        beats.append(f"{index * 5:02d}–{(index + 1) * 5:02d}s — AUDIO: {speech}")
+    audio = f"Speak clear, accurate {language}, once per sentence."
+    if field == "hindi":
+        audio = "Speak clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. Say each quoted utterance once, in order; do not repeat the Hindi as a separate pronunciation demonstration."
+    return f"""Create a standalone 9:16 {language} lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
+SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
+{audio} No extra speech, music, intro or outro.
+Upload title (creator metadata only; never show or speak it): {lesson['upload_title']}
 
 {chr(10).join(beats)}
 
-Only the exact caption blocks go on screen. Complete both Hindi → Bangla speech pairs and end by 10 seconds."""
-
-
-def full_prompt(lesson, language, field):
-    if field == "hindi":
-        return hindi_prompt(lesson)
-    blocks = []
-    for index, sentence in enumerate(lesson["sentences"]):
-        blocks.append(f"""{index * 5:02d}–{(index + 1) * 5:02d}s — speak only this {language} sentence once; display all three caption lines:
-{sentence[field]}
-উচ্চারণ: {sentence['bangla_pronunciation']}
-অর্থ: {sentence['bangla_meaning']}""")
-    return f"""Create one standalone 9:16 {language} lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate {language}. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
-Upload title (not spoken): {lesson['upload_title']}
-
-{chr(10).join(blocks)}
-
-Switch captions at 5 seconds; finish both sentences and end by 10 seconds."""
-
-
-def captions_markdown(lessons, language_bn, field):
-    out = [f"মূল {language_bn}, বাংলা উচ্চারণ ও বাংলা অর্থ একসঙ্গে দেখাতে হবে। সময়গুলো পরিকল্পিত ক্যাপশন উইন্ডো; তৈরি ভিডিও শুনে মিলিয়ে নিন।"]
-    for lesson in lessons:
-        out.extend([f"# Prompt {lesson['video_number']}", f"**আপলোড শিরোনাম:** {lesson['upload_title']}"])
-        for index, sentence in enumerate(lesson["sentences"]):
-            text = "\n".join(caption_lines(sentence, field))
-            out.append(f"**{index * 5:02d}–{(index + 1) * 5:02d} সেকেন্ড**\n\n```text\n{text}\n```")
-    return "\n\n".join(out) + "\n"
+Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout."""
