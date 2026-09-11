@@ -69,6 +69,9 @@ class SortingSafetyTests(unittest.TestCase):
         self.library.assign(2, 7)
         self.assertEqual((self.library.media / "7.mp4").read_bytes(), b"new")
         self.assertTrue((self.library.media / "7.json").exists())
+        self.library.scan()
+        self.assertEqual(self.library.asset(1)["present"], 0)
+        self.assertEqual(self.library.asset(2)["present"], 1)
         self.assertEqual(json.loads((self.library.local / "regeneration/prompts.json").read_text()), {})
 
     def test_empty_library_does_not_claim_all_prompts_need_regeneration(self):

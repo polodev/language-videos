@@ -241,8 +241,13 @@ class Library:
         self.export()
 
     def scan(self):
+        checksums = {}
         for asset in list(self.db.execute("SELECT * FROM assets")):
-            present = int(self.path(asset).is_file())
+            path = self.path(asset)
+            if path not in checksums:
+                checksums[path] = digest(path) if path.is_file() else None
+            # A regenerated take reuses the number, not the old asset's identity.
+            present = int(checksums[path] == asset["sha256"])
             if present != asset["present"]:
                 self.event(asset["id"], "found" if present else "missing", asset["path"])
                 self.db.execute("UPDATE assets SET present=? WHERE id=?", (present, asset["id"]))
