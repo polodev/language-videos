@@ -10,7 +10,7 @@
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: নিজের নাম বলুন
 
-**JSON key:** `prompt 1`
+**JSON key:** `prompt_1`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -34,7 +34,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: প্রথম পরিচয়ে কথা বলুন
 
-**JSON key:** `prompt 2`
+**JSON key:** `prompt_2`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -58,7 +58,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: কেমন আছেন বলুন
 
-**JSON key:** `prompt 3`
+**JSON key:** `prompt_3`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -82,7 +82,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: কোন দেশ থেকে এসেছেন
 
-**JSON key:** `prompt 4`
+**JSON key:** `prompt_4`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -106,7 +106,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: কোথায় থাকেন বলুন
 
-**JSON key:** `prompt 5`
+**JSON key:** `prompt_5`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -130,7 +130,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: বয়স বলুন
 
-**JSON key:** `prompt 6`
+**JSON key:** `prompt_6`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -154,7 +154,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: নতুন প্রতিবেশীর সঙ্গে পরিচয়
 
-**JSON key:** `prompt 7`
+**JSON key:** `prompt_7`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -178,7 +178,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: ভদ্রভাবে পরিচয় দিন
 
-**JSON key:** `prompt 8`
+**JSON key:** `prompt_8`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -202,7 +202,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: বন্ধুর পরিচয় দিন
 
-**JSON key:** `prompt 9`
+**JSON key:** `prompt_9`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -226,7 +226,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: বিদায় নিতে বলুন
 
-**JSON key:** `prompt 10`
+**JSON key:** `prompt_10`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -250,7 +250,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: বলুন আপনি হিন্দি শিখছেন
 
-**JSON key:** `prompt 11`
+**JSON key:** `prompt_11`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -274,7 +274,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: না বুঝলে আবার বলতে বলুন
 
-**JSON key:** `prompt 12`
+**JSON key:** `prompt_12`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -298,7 +298,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: ধীরে বলতে বলুন
 
-**JSON key:** `prompt 13`
+**JSON key:** `prompt_13`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -322,7 +322,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: শব্দের অর্থ জিজ্ঞেস করুন
 
-**JSON key:** `prompt 14`
+**JSON key:** `prompt_14`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -346,7 +346,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: হিন্দিে কীভাবে বলে
 
-**JSON key:** `prompt 15`
+**JSON key:** `prompt_15`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -370,7 +370,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: নামের বানান জিজ্ঞেস করুন
 
-**JSON key:** `prompt 16`
+**JSON key:** `prompt_16`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -394,7 +394,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: উচ্চারণ ঠিক কি না জানুন
 
-**JSON key:** `prompt 17`
+**JSON key:** `prompt_17`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -418,7 +418,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: আপনার ভাষার পরিচয় দিন
 
-**JSON key:** `prompt 18`
+**JSON key:** `prompt_18`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -442,7 +442,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: প্রতিদিন একটু শিখুন
 
-**JSON key:** `prompt 19`
+**JSON key:** `prompt_19`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -466,7 +466,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: প্রশ্ন করতে শিখুন
 
-**JSON key:** `prompt 20`
+**JSON key:** `prompt_20`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -490,7 +490,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: পরিবারের পরিচয় দিন
 
-**JSON key:** `prompt 21`
+**JSON key:** `prompt_21`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -514,7 +514,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: মায়ের কথা বলুন
 
-**JSON key:** `prompt 22`
+**JSON key:** `prompt_22`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -538,7 +538,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: বাবার কথা বলুন
 
-**JSON key:** `prompt 23`
+**JSON key:** `prompt_23`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -562,7 +562,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: বোনের কথা বলুন
 
-**JSON key:** `prompt 24`
+**JSON key:** `prompt_24`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -586,7 +586,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: ভাই কোথায় থাকেন
 
-**JSON key:** `prompt 25`
+**JSON key:** `prompt_25`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -610,7 +610,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: সন্তানের কথা বলুন
 
-**JSON key:** `prompt 26`
+**JSON key:** `prompt_26`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -634,7 +634,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: বৈবাহিক পরিচয় দিন
 
-**JSON key:** `prompt 27`
+**JSON key:** `prompt_27`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -658,7 +658,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: সঙ্গীর কথা বলুন
 
-**JSON key:** `prompt 28`
+**JSON key:** `prompt_28`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -682,7 +682,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: প্রিয় বন্ধুর পরিচয়
 
-**JSON key:** `prompt 29`
+**JSON key:** `prompt_29`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -706,7 +706,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: দাদা-দাদির সঙ্গে দেখা
 
-**JSON key:** `prompt 30`
+**JSON key:** `prompt_30`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -730,7 +730,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: বাসার বর্ণনা দিন
 
-**JSON key:** `prompt 31`
+**JSON key:** `prompt_31`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -754,7 +754,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: রান্নাঘর দেখান
 
-**JSON key:** `prompt 32`
+**JSON key:** `prompt_32`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -778,7 +778,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: শোবার ঘরের কথা বলুন
 
-**JSON key:** `prompt 33`
+**JSON key:** `prompt_33`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -802,7 +802,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: চাবি কোথায় আছে
 
-**JSON key:** `prompt 34`
+**JSON key:** `prompt_34`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -826,7 +826,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: ফোন খুঁজে নিন
 
-**JSON key:** `prompt 35`
+**JSON key:** `prompt_35`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -850,7 +850,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: জানালা খুলতে বলুন
 
-**JSON key:** `prompt 36`
+**JSON key:** `prompt_36`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -874,7 +874,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: দরজা বন্ধ করতে বলুন
 
-**JSON key:** `prompt 37`
+**JSON key:** `prompt_37`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -898,7 +898,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: বাতি জ্বালাতে বলুন
 
-**JSON key:** `prompt 38`
+**JSON key:** `prompt_38`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -922,7 +922,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: কাউকে বসতে বলুন
 
-**JSON key:** `prompt 39`
+**JSON key:** `prompt_39`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -946,7 +946,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: বাথরুম কোথায় জিজ্ঞেস করুন
 
-**JSON key:** `prompt 40`
+**JSON key:** `prompt_40`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -970,7 +970,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: সকালে ওঠার কথা বলুন
 
-**JSON key:** `prompt 41`
+**JSON key:** `prompt_41`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -994,7 +994,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: দিনের প্রস্তুতি নিন
 
-**JSON key:** `prompt 42`
+**JSON key:** `prompt_42`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -1018,7 +1018,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: সকালের নাশতার কথা
 
-**JSON key:** `prompt 43`
+**JSON key:** `prompt_43`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -1042,7 +1042,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: কাজে যাওয়ার কথা বলুন
 
-**JSON key:** `prompt 44`
+**JSON key:** `prompt_44`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -1066,7 +1066,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: কাজ শুরুর সময় বলুন
 
-**JSON key:** `prompt 45`
+**JSON key:** `prompt_45`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -1090,7 +1090,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: দুপুরের বিরতি নিন
 
-**JSON key:** `prompt 46`
+**JSON key:** `prompt_46`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -1114,7 +1114,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: বাসায় ফেরার কথা
 
-**JSON key:** `prompt 47`
+**JSON key:** `prompt_47`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -1138,7 +1138,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: সন্ধ্যার অবসরের কথা
 
-**JSON key:** `prompt 48`
+**JSON key:** `prompt_48`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -1162,7 +1162,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: ঘুমাতে যাওয়ার কথা
 
-**JSON key:** `prompt 49`
+**JSON key:** `prompt_49`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -1186,7 +1186,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: ঘুমের কথা বলুন
 
-**JSON key:** `prompt 50`
+**JSON key:** `prompt_50`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -1210,7 +1210,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: খিদে পেলে বলুন
 
-**JSON key:** `prompt 51`
+**JSON key:** `prompt_51`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -1234,7 +1234,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: পানি চাইতে শিখুন
 
-**JSON key:** `prompt 52`
+**JSON key:** `prompt_52`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -1258,7 +1258,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: চা না কফি বেছে নিন
 
-**JSON key:** `prompt 53`
+**JSON key:** `prompt_53`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -1282,7 +1282,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: দুধ চাইতে শিখুন
 
-**JSON key:** `prompt 54`
+**JSON key:** `prompt_54`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -1306,7 +1306,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: সাধারণ পানি চাইতে বলুন
 
-**JSON key:** `prompt 55`
+**JSON key:** `prompt_55`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -1330,7 +1330,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: ফলের পছন্দ বলুন
 
-**JSON key:** `prompt 56`
+**JSON key:** `prompt_56`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -1354,7 +1354,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: সবজি কেনার কথা বলুন
 
-**JSON key:** `prompt 57`
+**JSON key:** `prompt_57`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -1378,7 +1378,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: দুপুরের খাবারের কথা
 
-**JSON key:** `prompt 58`
+**JSON key:** `prompt_58`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -1402,7 +1402,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: পেট ভরে গেলে বলুন
 
-**JSON key:** `prompt 59`
+**JSON key:** `prompt_59`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -1426,7 +1426,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: আরও রুটি চাইতে বলুন
 
-**JSON key:** `prompt 60`
+**JSON key:** `prompt_60`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -1450,7 +1450,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: রেস্তোরাঁয় টেবিল চান
 
-**JSON key:** `prompt 61`
+**JSON key:** `prompt_61`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -1474,7 +1474,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: মেনু চাইতে শিখুন
 
-**JSON key:** `prompt 62`
+**JSON key:** `prompt_62`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -1498,7 +1498,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: কফি অর্ডার করুন
 
-**JSON key:** `prompt 63`
+**JSON key:** `prompt_63`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -1522,7 +1522,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: সহজ খাবার অর্ডার করুন
 
-**JSON key:** `prompt 64`
+**JSON key:** `prompt_64`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -1546,7 +1546,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: নিরামিষ খাবার চান
 
-**JSON key:** `prompt 65`
+**JSON key:** `prompt_65`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -1570,7 +1570,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: খাবারে শূকরের মাংস আছে কি
 
-**JSON key:** `prompt 66`
+**JSON key:** `prompt_66`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -1594,7 +1594,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: চামচ চাইতে শিখুন
 
-**JSON key:** `prompt 67`
+**JSON key:** `prompt_67`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -1618,7 +1618,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: বসার জায়গা খালি কি
 
-**JSON key:** `prompt 68`
+**JSON key:** `prompt_68`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -1642,7 +1642,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: রেস্তোরাঁয় বিল দিন
 
-**JSON key:** `prompt 69`
+**JSON key:** `prompt_69`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -1666,7 +1666,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: খাবার নিয়ে যেতে বলুন
 
-**JSON key:** `prompt 70`
+**JSON key:** `prompt_70`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -1690,7 +1690,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: দাম জিজ্ঞেস করুন
 
-**JSON key:** `prompt 71`
+**JSON key:** `prompt_71`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -1714,7 +1714,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: দোকানে রুটি খুঁজুন
 
-**JSON key:** `prompt 72`
+**JSON key:** `prompt_72`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -1738,7 +1738,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: আপেল কিনতে বলুন
 
-**JSON key:** `prompt 73`
+**JSON key:** `prompt_73`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -1762,7 +1762,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: ব্যাগ চাইতে শিখুন
 
-**JSON key:** `prompt 74`
+**JSON key:** `prompt_74`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -1786,7 +1786,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: নগদে টাকা দিন
 
-**JSON key:** `prompt 75`
+**JSON key:** `prompt_75`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -1810,7 +1810,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: রসিদ চাইতে বলুন
 
-**JSON key:** `prompt 76`
+**JSON key:** `prompt_76`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -1834,7 +1834,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: দাম বেশি হলে বলুন
 
-**JSON key:** `prompt 77`
+**JSON key:** `prompt_77`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -1858,7 +1858,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: পছন্দ হলে কিনুন
 
-**JSON key:** `prompt 78`
+**JSON key:** `prompt_78`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -1882,7 +1882,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: শুধু দেখছেন জানিয়ে দিন
 
-**JSON key:** `prompt 79`
+**JSON key:** `prompt_79`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -1906,7 +1906,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: দোকান খোলার সময় জানুন
 
-**JSON key:** `prompt 80`
+**JSON key:** `prompt_80`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -1930,7 +1930,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: সময় জিজ্ঞেস করুন
 
-**JSON key:** `prompt 81`
+**JSON key:** `prompt_81`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -1954,7 +1954,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: সাড়ে সাতটা বলতে শিখুন
 
-**JSON key:** `prompt 82`
+**JSON key:** `prompt_82`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -1978,7 +1978,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: দেখা করার সময় ঠিক করুন
 
-**JSON key:** `prompt 83`
+**JSON key:** `prompt_83`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -2002,7 +2002,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: আজ আর কাল কোন দিন
 
-**JSON key:** `prompt 84`
+**JSON key:** `prompt_84`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -2026,7 +2026,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: জন্মদিনের কথা বলুন
 
-**JSON key:** `prompt 85`
+**JSON key:** `prompt_85`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -2050,7 +2050,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: সাপ্তাহিক ছুটির কথা
 
-**JSON key:** `prompt 86`
+**JSON key:** `prompt_86`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -2074,7 +2074,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: সময় আছে জানিয়ে দিন
 
-**JSON key:** `prompt 87`
+**JSON key:** `prompt_87`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -2098,7 +2098,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: তাড়া আছে বলুন
 
-**JSON key:** `prompt 88`
+**JSON key:** `prompt_88`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -2122,7 +2122,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: আগে পৌঁছে গেলে বলুন
 
-**JSON key:** `prompt 89`
+**JSON key:** `prompt_89`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -2146,7 +2146,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: দেরি হলে দুঃখ প্রকাশ করুন
 
-**JSON key:** `prompt 90`
+**JSON key:** `prompt_90`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -2170,7 +2170,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: স্টেশন খুঁজে নিন
 
-**JSON key:** `prompt 91`
+**JSON key:** `prompt_91`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -2194,7 +2194,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: পথ জিজ্ঞেস করুন
 
-**JSON key:** `prompt 92`
+**JSON key:** `prompt_92`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -2218,7 +2218,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: সহজে পথ দেখান
 
-**JSON key:** `prompt 93`
+**JSON key:** `prompt_93`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -2242,7 +2242,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: বাসস্টপ খুঁজে নিন
 
-**JSON key:** `prompt 94`
+**JSON key:** `prompt_94`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -2266,7 +2266,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: টিকিট কিনতে বলুন
 
-**JSON key:** `prompt 95`
+**JSON key:** `prompt_95`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -2290,7 +2290,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: ট্রেনের প্ল্যাটফর্ম জানুন
 
-**JSON key:** `prompt 96`
+**JSON key:** `prompt_96`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -2314,7 +2314,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: বাস কোথায় যায় জানুন
 
-**JSON key:** `prompt 97`
+**JSON key:** `prompt_97`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -2338,7 +2338,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: ট্রেনে বসার জায়গা চান
 
-**JSON key:** `prompt 98`
+**JSON key:** `prompt_98`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -2362,7 +2362,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: নামার সময় বলুন
 
-**JSON key:** `prompt 99`
+**JSON key:** `prompt_99`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -2386,7 +2386,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: পথ হারালে সাহায্য চান
 
-**JSON key:** `prompt 100`
+**JSON key:** `prompt_100`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -2410,7 +2410,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: পোশাকের মাপ চাইতে বলুন
 
-**JSON key:** `prompt 101`
+**JSON key:** `prompt_101`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -2434,7 +2434,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: পোশাক পরখের ঘর খুঁজুন
 
-**JSON key:** `prompt 102`
+**JSON key:** `prompt_102`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -2458,7 +2458,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: আরও বড় মাপ চান
 
-**JSON key:** `prompt 103`
+**JSON key:** `prompt_103`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -2482,7 +2482,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: আরও ছোট মাপ চান
 
-**JSON key:** `prompt 104`
+**JSON key:** `prompt_104`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -2506,7 +2506,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: পছন্দের রং বাছুন
 
-**JSON key:** `prompt 105`
+**JSON key:** `prompt_105`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -2530,7 +2530,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: জুতা ঠিক হলে বলুন
 
-**JSON key:** `prompt 106`
+**JSON key:** `prompt_106`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -2554,7 +2554,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: শীতের পোশাক কিনুন
 
-**JSON key:** `prompt 107`
+**JSON key:** `prompt_107`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -2578,7 +2578,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: পোশাক ফেরত দিন
 
-**JSON key:** `prompt 108`
+**JSON key:** `prompt_108`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -2602,7 +2602,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: নষ্ট জিনিস বদলাতে বলুন
 
-**JSON key:** `prompt 109`
+**JSON key:** `prompt_109`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -2626,7 +2626,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: সুতির কাপড় চাইতে বলুন
 
-**JSON key:** `prompt 110`
+**JSON key:** `prompt_110`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -2650,7 +2650,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: রোদের কথা বলুন
 
-**JSON key:** `prompt 111`
+**JSON key:** `prompt_111`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -2674,7 +2674,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: বৃষ্টির জন্য প্রস্তুত হন
 
-**JSON key:** `prompt 112`
+**JSON key:** `prompt_112`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -2698,7 +2698,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: ঠান্ডা লাগলে বলুন
 
-**JSON key:** `prompt 113`
+**JSON key:** `prompt_113`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -2722,7 +2722,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: গরমে ছায়ায় থাকুন
 
-**JSON key:** `prompt 114`
+**JSON key:** `prompt_114`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -2746,7 +2746,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: তুষারপাতের কথা বলুন
 
-**JSON key:** `prompt 115`
+**JSON key:** `prompt_115`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -2770,7 +2770,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: বাতাসের কথা বলুন
 
-**JSON key:** `prompt 116`
+**JSON key:** `prompt_116`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -2794,7 +2794,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: বসন্তের পরিকল্পনা বলুন
 
-**JSON key:** `prompt 117`
+**JSON key:** `prompt_117`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -2818,7 +2818,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: শরতের কথা বলুন
 
-**JSON key:** `prompt 118`
+**JSON key:** `prompt_118`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -2842,7 +2842,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: আগামীকালের আবহাওয়া জানুন
 
-**JSON key:** `prompt 119`
+**JSON key:** `prompt_119`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -2866,7 +2866,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: ঝড় হলে পরিকল্পনা বদলান
 
-**JSON key:** `prompt 120`
+**JSON key:** `prompt_120`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -2890,7 +2890,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: অসুস্থ লাগলে বলুন
 
-**JSON key:** `prompt 121`
+**JSON key:** `prompt_121`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -2914,7 +2914,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: মাথাব্যথার কথা বলুন
 
-**JSON key:** `prompt 122`
+**JSON key:** `prompt_122`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -2938,7 +2938,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: গলাব্যথার কথা বলুন
 
-**JSON key:** `prompt 123`
+**JSON key:** `prompt_123`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -2962,7 +2962,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: জ্বরের কথা বলুন
 
-**JSON key:** `prompt 124`
+**JSON key:** `prompt_124`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
@@ -2986,7 +2986,7 @@ Switch captions at 5 seconds; finish both sentences and end by 10 seconds.
 
 **আপলোড শিরোনাম:** হিন্দি শিখুন: ডাক্তারের সময় নিন
 
-**JSON key:** `prompt 125`
+**JSON key:** `prompt_125`
 
 ```text
 Create one standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.

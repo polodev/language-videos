@@ -18,13 +18,13 @@
 | শিরোনাম, বাক্য, অর্থ ও উচ্চারণ | [videos.json](hindi/videos.json) | [videos.json](german/videos.json) |
 | সম্পাদনাযোগ্য ভাষা সহায়িকা | [bangla-support.txt](hindi/bangla-support.txt) | [bangla-support.txt](german/bangla-support.txt) |
 
-JSON keys are exactly `"prompt 1"` through `"prompt 250"`, each with a complete prompt string. Decode the value before pasting into Flow; do not paste the key, surrounding JSON quotes or literal newline escapes. Markdown code blocks already contain decoded text.
+JSON keys are exactly `"prompt_1"` through `"prompt_250"`, each with a complete prompt string. Decode the value before pasting into Flow; do not paste the key, surrounding JSON quotes or literal newline escapes. Markdown code blocks already contain decoded text.
 
 ```python
 import json
 from pathlib import Path
 prompts = json.loads(Path("hindi/flow-prompts.json").read_text())
-print(prompts["prompt 1"])
+print(prompts["prompt_1"])
 ```
 
 Use the supplied Bangla upload title on YouTube Shorts, Instagram Reels or Facebook Reels. It is creator metadata, not extra spoken content. Every prompt contains its own presenter, duration, two sentences and exact captions; no previous prompt is required.

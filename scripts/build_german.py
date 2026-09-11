@@ -72,7 +72,7 @@ def full_prompt(lesson):
 
 def main():
     lessons, sentences = load_lessons()
-    prompts = {f"prompt {v['video_number']}": full_prompt(v) for v in lessons}
+    prompts = {f"prompt_{v['video_number']}": full_prompt(v) for v in lessons}
 
     write_json(GERMAN / "sentences.json", sentences)
     write_json(GERMAN / "videos.json", lessons)
@@ -87,17 +87,17 @@ def main():
         for lesson in subset:
             number = lesson["video_number"]
             text.extend([f"# Prompt {number}", f"**আপলোড শিরোনাম:** {lesson['upload_title']}",
-                         f"**JSON key:** `prompt {number}`",
-                         "```text\n" + prompts[f"prompt {number}"] + "\n```"])
+                         f"**JSON key:** `prompt_{number}`",
+                         "```text\n" + prompts[f"prompt_{number}"] + "\n```"])
         (GERMAN / f"flow-prompts-{batch:02d}.md").write_text("\n\n".join(text) + "\n", encoding="utf-8")
 
     (GERMAN / "captions.md").write_text(captions_markdown(lessons, "জার্মান", "german"), encoding="utf-8")
 
     # Check the actual written files, including Unicode and prompt coverage.
     actual = json.loads((GERMAN / "flow-prompts.json").read_text(encoding="utf-8"))
-    assert list(actual) == [f"prompt {i}" for i in range(1, 251)]
+    assert list(actual) == [f"prompt_{i}" for i in range(1, 251)]
     for lesson in lessons:
-        prompt = actual[f"prompt {lesson['video_number']}"]
+        prompt = actual[f"prompt_{lesson['video_number']}"]
         assert lesson["upload_title"] in prompt
         assert prompt.count("display all three caption lines:") == 2
         for sentence in lesson["sentences"]:
