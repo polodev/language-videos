@@ -1,0 +1,16 @@
+<!DOCTYPE html><html lang="bn"><head><meta charset="utf-8"><meta name="viewport" content="width=720,height=1280"><title>Hindi captions — outlined</title>
+<script src="assets/gsap.min.js"></script><style>
+@font-face{font-family:Bangla;src:url('assets/bengali.ttf') format('truetype');font-weight:100 900;font-display:block}
+@font-face{font-family:Hindi;src:url('assets/devanagari.ttf') format('truetype');font-weight:100 900;font-display:block}
+*{box-sizing:border-box}body{margin:0;background:#000}#root{width:720px;height:1280px;position:relative;overflow:hidden}
+video{position:absolute;inset:0;width:720px;height:1280px;object-fit:contain}
+.caption{position:absolute;left:46px;right:70px;top:810px;z-index:2;text-align:center}
+.line{margin:0;font-family:Bangla,sans-serif;font-size:34px;font-weight:600;line-height:1.5;white-space:nowrap}
+.hi{font-family:Hindi,sans-serif;font-size:39px;font-weight:700;line-height:1.5}
+.caption{padding:24px 22px;background:#101820d9;border-radius:8px}.line{color:#fff;-webkit-text-stroke:1px #000;paint-order:stroke fill;text-shadow:0 2px 3px #000}.pron{color:#ffe28b}
+</style></head><body><div data-hf-id="hf-r60n" id="root" data-composition-id="hindi-caption" data-width="720" data-height="1280" data-duration="10" data-fps="24">
+<video data-hf-id="hf-sv2s" id="source-video" class="clip" src="assets/source.mp4" data-start="0" data-duration="10" data-track-index="0" muted playsinline></video>
+<audio data-hf-id="hf-eyf4" id="source-audio" src="assets/source.mp4" data-start="0" data-duration="10" data-track-index="1" data-volume="1"></audio>
+<section data-hf-id="hf-9ecw" id="sentence-1" class="clip caption" data-caption-layer="fg" data-start="0" data-duration="4.958333333333333" data-track-index="2"><p data-hf-id="hf-u0hs" class="line hi" lang="hi">मेरा नाम आशा है।</p><p data-hf-id="hf-2rn6" class="line pron" lang="bn">মেরা নাম আশা হ্যায়।</p><p data-hf-id="hf-19s5" class="line meaning" lang="bn">আমার নাম আশা।</p></section>
+<section data-hf-id="hf-61sk" id="sentence-2" class="clip caption" data-caption-layer="fg" data-start="4.958333333333333" data-duration="5.041666666666667" data-track-index="2"><p data-hf-id="hf-mqnw" class="line hi" lang="hi">तुम्हारा नाम क्या है?</p><p data-hf-id="hf-ircd" class="line pron" lang="bn">তুমহারা নাম ক্যা হ্যায়?</p><p data-hf-id="hf-v2j4" class="line meaning" lang="bn">তোমার নাম কী?</p></section>
+</div><script>document.fonts.ready.then(()=>{window.__timelines["hindi-caption"]=gsap.timeline({paused:true});});</script></body></html>
