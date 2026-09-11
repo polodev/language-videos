@@ -1,0 +1,22 @@
+{
+  "brand_title": "Hindi Pathshala Bd",
+  "handle": "@HindiPathshalaBd",
+  "tagline": "Learn Hindi easily through Bangla.",
+  "model": "gpt-image-2",
+  "quality": "medium",
+  "assets": [
+    {
+      "key": "logo",
+      "size": "1024x1024",
+      "output": "output/imagegen/hindi-facebook/logo.png",
+      "prompt": "Use case: logo-brand. Create one finished square Facebook profile logo for an adult language-learning channel named \"Hindi Pathshala Bd\". Brand personality: clear, welcoming, smart, trustworthy. Flat vector-style graphic, crisp clean edges, no mockup. Solid deep teal #132c31 background. A distinctive simple open-book symbol whose pages form two friendly conversation bubbles, in warm yellow #f8df9c and ivory #fffaf0, with a small abstract bridge connection between them to suggest learning Hindi through Bangla. Keep the icon bold and recognizable at small avatar size. Under the icon, include the exact words \"Hindi\" on a strong large line and \"Pathshala Bd\" on one smaller but clearly legible line. Exact spelling: Pathshala, with an h after t and an h after s; Bd, uppercase B lowercase d. Refined rounded geometric sans serif typography, carefully balanced spacing. Center the complete icon and wordmark inside the middle 70 percent of the square so a circular avatar crop preserves everything. Restrained flat color, generous negative space, no gradients, no shadows, no decorative badge rim, no flags, no country map, no people, no extra words, no tagline, no watermarks. Produce the final logo artwork, not a presentation sheet."
+    },
+    {
+      "key": "facebook-cover",
+      "size": "1648x720",
+      "output": "output/imagegen/hindi-facebook/facebook-cover.png",
+      "reference": "logo.png",
+      "prompt": "Use case: ads-marketing. Create exactly one polished horizontal Facebook Page cover image for \"Hindi Pathshala Bd\". Use the supplied logo image as a brand reference: preserve its exact open-book/conversation symbol and dark teal #132c31, warm yellow #f8df9c, ivory #fffaf0 palette. Make a new wide composition, not a stretched square logo. Warm ivory background, deep teal headline, subtle flat conversation-and-book motifs confined to the outer edges. Adult educational brand, editorial simplicity, generous breathing room, no photos or people. Keep all essential text and the small matching logo mark inside the central 65 percent of the width and central 60 percent of the height; leave the bottom-left corner and outer edges visually quiet for Facebook cropping and the profile picture. Display the brand title prominently in a single line: \"Hindi Pathshala Bd\". Directly beneath it, clearly typeset exactly: \"Learn Hindi easily through Bangla.\" Add one smaller line underneath: \"@HindiPathshalaBd\". The three lines must be centered, balanced, crisp and readable. Exact spelling: Pathshala, not Pathsala; Bd not BD. No other text. Refined friendly geometric sans serif, brand title bold, tagline regular. A cohesive cover matching the supplied profile logo, no fake browser frame, no mockup, no social-media icons, no gradients, no stock-photo decoration, no extra slogans or lettering. Final flat wide cover artwork only."
+    }
+  ]
+}
