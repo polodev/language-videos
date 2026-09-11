@@ -6,7 +6,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 PROJECT = ROOT / 'hindi/caption-project'
-OUTPUT = ROOT / 'hindi/caption-videos'
+OUTPUT = ROOT / 'caption-template/samples'
 STYLES = [(row['name'], row['css']) for row in json.loads((ROOT/'caption-template/variants.json').read_text())]
 
 def build():
@@ -40,7 +40,7 @@ BLOCKS
  for n,(name,css) in enumerate(STYLES,1):
   content=base.replace('STYLECSS',css).replace('STYLE',name).replace('BLOCKS','\n'.join(blocks))
   (PROJECT/'variants'/f'variant-{n}.html').write_text(content)
-  (OUTPUT/f'variant-{n}.json').write_text(json.dumps({'variant':n,'style':name,'source_prompt':'prompt_1','source_video':'../Videos/1.mp4','caption_switch_seconds':boundary,'word_highlighting':False,'caption_background':False,'outline':True,'lesson':lesson},ensure_ascii=False,indent=2)+'\n')
+  (OUTPUT/f'variant-{n}.json').write_text(json.dumps({'variant':n,'style':name,'source_prompt':'prompt_1','source_video':'../../hindi/Videos/1.mp4','caption_switch_seconds':boundary,'word_highlighting':False,'caption_background':n==4,'outline':n!=4,'lesson':lesson},ensure_ascii=False,indent=2)+'\n')
  (PROJECT/'index.html').write_text((PROJECT/'variants/variant-4.html').read_text())
  (PROJECT/'BRIEF.md').write_text('''---
 workflow: embedded-captions
@@ -50,9 +50,9 @@ language: Hindi and Bengali
 aspect: 9:16
 ---
 
-Create only ten rendered style variants of prompt 1 for user selection. Use the same original footage and audio, and three unlabeled lines per sentence: Hindi, Hindi pronunciation in Bengali script, Bangla meaning. No word highlighting, animation, subject matting or embedded text. Switch the entire block at the second Hindi sentence, using the existing offline Whisper-small transcript for timing. The explicit three-line, sentence-only brief overrides the workflow's two-line and animated verbatim defaults. User authorized ten test renders and wants to select multiple variants. Variant 4 is the first choice, saved at root caption-template; full-collection rendering awaits the final style choices.
+Create only ten rendered style variants of prompt 1 for user selection. Use the same original footage and audio, and three unlabeled lines per sentence: Hindi, Hindi pronunciation in Bengali script, Bangla meaning. No word highlighting, animation, subject matting or embedded text. Switch the entire block at the second Hindi sentence, using the existing offline Whisper-small transcript for timing. The explicit three-line, sentence-only brief overrides the workflow's two-line and animated verbatim defaults. User authorized ten test renders and wants to select multiple variants. Original Variant 4 with individual line backgrounds is the first choice, and current Variant 9 is approved as an alternative, saved at root caption-template; The full 250-video batch is authorized using original Variant 4 with individual line backgrounds.
 
-The original remains in Videos; the samples go to caption-videos. Typography uses local Noto Sans Devanagari and Noto Sans Bengali. Five outlined-text treatments: all white, yellow pronunciation, yellow Hindi, three colors, and bold white. Captions must NEVER have any background, box, panel, band or scrim. Only glyph outlines provide contrast. No browser previews; export MP4 files directly. Native 720×1280, 24fps, 10 seconds. All font files and GSAP are local at render time.
+The original remains in Videos; the samples go to root caption-template/samples. Typography uses local Noto Sans Devanagari and Noto Sans Bengali. Five outlined-text treatments: all white, yellow pronunciation, yellow Hindi, three colors, and bold white. The user approved the original Variant 4 with individual line backgrounds as the default, and outlined Variant 9 as an alternative. Variant 4 uses separate dark teal, warm yellow and ivory backgrounds. Other presets use outlines. No browser previews; export MP4 files directly. Native 720×1280, 24fps, 10 seconds. All font files and GSAP are local at render time.
 ''')
  print('Built',len(STYLES),'styles with caption boundary',boundary)
 

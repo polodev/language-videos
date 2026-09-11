@@ -3,7 +3,7 @@ import argparse,json,shutil,subprocess
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
 PROJECT=ROOT/'hindi/caption-project'
-OUTPUT=ROOT/'hindi/caption-videos'
+OUTPUT=ROOT/'caption-template/samples'
 p=argparse.ArgumentParser();p.add_argument('--start',type=int,default=1);p.add_argument('--end',type=int,default=5);args=p.parse_args()
 for n in range(args.start,args.end+1):
  work=ROOT/'hindi/.local/caption-renders'/f'variant-{n}';work.mkdir(parents=True,exist_ok=True)

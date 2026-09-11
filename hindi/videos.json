@@ -103,7 +103,7 @@
       {
         "sentence_number": 9,
         "hindi": "मैं दिल्ली में रहती हूँ।",
-        "bangla_meaning": "আমি দিল্লিে থাকি।",
+        "bangla_meaning": "আমি দিল্লিতে থাকি।",
         "bangla_pronunciation": "ম্যাঁ দিল্লী মেঁ রহতী হুঁ।"
       },
       {
@@ -323,7 +323,7 @@
   },
   {
     "video_number": 15,
-    "upload_title": "হিন্দি শিখুন: হিন্দিে কীভাবে বলে",
+    "upload_title": "হিন্দি শিখুন: হিন্দিতে কীভাবে বলে",
     "duration_seconds": 10,
     "topic": "Learning Hindi",
     "approximate_level": "A1",
@@ -333,7 +333,7 @@
       {
         "sentence_number": 29,
         "hindi": "इसे हिंदी में क्या कहते हैं?",
-        "bangla_meaning": "এটা হিন্দিে কীভাবে বলে?",
+        "bangla_meaning": "এটা হিন্দিতে কীভাবে বলে?",
         "bangla_pronunciation": "ইসে হিন্দী মেঁ ক্যা কহতে হ্যাঁয়?"
       },
       {
@@ -563,7 +563,7 @@
       {
         "sentence_number": 49,
         "hindi": "मेरा भाई मुंबई में रहता है।",
-        "bangla_meaning": "আমার ভাই মুম্বাইে থাকে।",
+        "bangla_meaning": "আমার ভাই মুম্বাইয়ে থাকে।",
         "bangla_pronunciation": "মেরা ভাই মুম্বঈ মেঁ রহতা হ্যায়।"
       },
       {
@@ -3691,7 +3691,7 @@
       {
         "sentence_number": 321,
         "hindi": "क्या शर्मा जी से बात हो सकती है?",
-        "bangla_meaning": "শর্মাজিের সঙ্গে কথা বলতে পারি?",
+        "bangla_meaning": "শর্মাজির সঙ্গে কথা বলতে পারি?",
         "bangla_pronunciation": "ক্যা শর্মা জী সে বাত হো সকতী হ্যায়?"
       },
       {
@@ -4479,7 +4479,7 @@
       {
         "sentence_number": 390,
         "hindi": "इसे मुंबई जाना है।",
-        "bangla_meaning": "এটা মুম্বাইে যাবে।",
+        "bangla_meaning": "এটা মুম্বাইয়ে যাবে।",
         "bangla_pronunciation": "ইসে মুম্বঈ জানা হ্যায়।"
       }
     ]

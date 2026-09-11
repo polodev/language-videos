@@ -1,20 +1,20 @@
 {
-  "name": "Three-line outlined captions",
+  "name": "Three-line individual caption bands",
   "preferred_variant": 4,
   "default": true,
-  "caption_background": false,
+  "caption_background": true,
   "word_highlighting": false,
   "animation": false,
   "alignment": "center",
   "outline": {
     "color": "#111111",
-    "width_at_720": 3.5
+    "width_at_720": 0
   },
   "layout": {
     "left_fraction": 0.06388888888888888,
     "right_fraction": 0.09722222222222222,
-    "top_fraction": 0.6515625,
-    "horizontal_padding_fraction": 0.022222222222222223
+    "top_fraction": 0.6328125,
+    "horizontal_padding_fraction": 0
   },
   "lines": [
     {
@@ -24,30 +24,35 @@
       "color": "#ffffff",
       "size_at_720": 39,
       "weight": 700,
-      "line_height": 1.5
+      "line_height": 1.5,
+      "background": "#132c31"
     },
     {
       "key": "bangla_pronunciation",
       "language": "bn",
       "font": "Bangla",
-      "color": "#ffe28b",
+      "color": "#2f2715",
       "size_at_720": 34,
       "weight": 600,
-      "line_height": 1.6
+      "line_height": 1.6,
+      "background": "#f8df9c"
     },
     {
       "key": "bangla_meaning",
       "language": "bn",
       "font": "Bangla",
-      "color": "#b9ffdc",
+      "color": "#172525",
       "size_at_720": 34,
       "weight": 600,
-      "line_height": 1.6
+      "line_height": 1.6,
+      "background": "#fffaf0"
     }
   ],
   "timing": "Keep all three lines visible through each Hindi sentence and its Bangla meaning. Switch the whole block at the next Hindi sentence. Use reviewed audio timing, never an assumed five-second split.",
   "selected_variants": [
-    4
+    4,
+    9
   ],
-  "selection_status": "Variant 4 is the first choice; additional variants await user selection."
+  "selection_status": "Approved: original Variant 4 with individual line backgrounds for all Hindi videos; current outlined Variant 9 saved as alternative.",
+  "background_mode": "individual-lines"
 }

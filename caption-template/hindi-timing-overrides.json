@@ -1,0 +1,56 @@
+[
+  {
+    "number": 15,
+    "source_sha256": "7606948d23b45885f9e2d3910782d1d2ba454a245412b83fcb241439043a49b2",
+    "switch_seconds": 5.5,
+    "timing_method": "Reviewed word onset, corrected for a split/misrecognized word or local small-model retry"
+  },
+  {
+    "number": 89,
+    "source_sha256": "4852749fe411e0b69624418b3175bfe92145f69af0e2464d50c8e4a7b83c9be0",
+    "switch_seconds": 3.0,
+    "timing_method": "Reviewed word onset, corrected for a split/misrecognized word or local small-model retry"
+  },
+  {
+    "number": 115,
+    "source_sha256": "5db7cfd46a1def003acd3bfe307f277fd5221e33701aff1a9dccf4d7d3b8874b",
+    "switch_seconds": 5.5,
+    "timing_method": "Reviewed word onset, corrected for a split/misrecognized word or local small-model retry"
+  },
+  {
+    "number": 117,
+    "source_sha256": "56ecfaf0a1fb8850366d0377d8328259aa900873a76dfafb206e052b9359a975",
+    "switch_seconds": 5.208333333333333,
+    "timing_method": "Reviewed word onset, corrected for a split/misrecognized word or local small-model retry"
+  },
+  {
+    "number": 192,
+    "source_sha256": "926db1fe28606b2981770028ea59d3e7660d1b32af376905054b7007c09360c4",
+    "switch_seconds": 5.0,
+    "timing_method": "Reviewed word onset, corrected for a split/misrecognized word or local small-model retry"
+  },
+  {
+    "number": 214,
+    "source_sha256": "f55278298af3c7dcab94c528936eba812eab1aeee973658ee8c60c48e3ea5c5a",
+    "switch_seconds": 4.458333333333333,
+    "timing_method": "Reviewed word onset, corrected for a split/misrecognized word or local small-model retry"
+  },
+  {
+    "number": 226,
+    "source_sha256": "b8a96301b9619c476272915c3195571f40c913de118efc1cbb5f6f53d43634ad",
+    "switch_seconds": 4.0,
+    "timing_method": "Reviewed word onset, corrected for a split/misrecognized word or local small-model retry"
+  },
+  {
+    "number": 234,
+    "source_sha256": "ba75eccb92e127ce05113df329cd20bdcefe479e45122bd1942c366c22426fbe",
+    "switch_seconds": 5.291666666666667,
+    "timing_method": "Reviewed word onset, corrected for a split/misrecognized word or local small-model retry"
+  },
+  {
+    "number": 249,
+    "source_sha256": "0fd502a93978b7deddd77a9ac319e362138bb3cb2d480536e0cd5f7c12e29ee6",
+    "switch_seconds": 5.166666666666667,
+    "timing_method": "Reviewed word onset, corrected for a split/misrecognized word or local small-model retry"
+  }
+]

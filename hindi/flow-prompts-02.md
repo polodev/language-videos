@@ -648,7 +648,7 @@ SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title card
 Speak clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. Say each quoted utterance once, in order; do not repeat the Hindi as a separate pronunciation demonstration. No extra speech, music, intro or outro.
 Upload title (creator metadata only; never show or speak it): হিন্দি শিখুন: ফোনে কথা শুরু করুন
 
-00–05s — AUDIO: Say Hindi once: “क्या शर्मा जी से बात हो सकती है?” Then say its Bangla meaning once: “শর্মাজিের সঙ্গে কথা বলতে পারি?”
+00–05s — AUDIO: Say Hindi once: “क्या शर्मा जी से बात हो सकती है?” Then say its Bangla meaning once: “শর্মাজির সঙ্গে কথা বলতে পারি?”
 05–10s — AUDIO: Say Hindi once: “मैं आशा सेन बोल रही हूँ।” Then say its Bangla meaning once: “আমি আশা সেন বলছি।”
 
 Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
@@ -1261,7 +1261,7 @@ Speak clear Hindi followed by natural Bangladeshi Bangla meaning for each senten
 Upload title (creator metadata only; never show or speak it): হিন্দি শিখুন: পার্সেল পাঠাতে বলুন
 
 00–05s — AUDIO: Say Hindi once: “मैं यह पार्सल भेजना चाहती हूँ।” Then say its Bangla meaning once: “আমি এই পার্সেল পাঠাতে চাই।”
-05–10s — AUDIO: Say Hindi once: “इसे मुंबई जाना है।” Then say its Bangla meaning once: “এটা মুম্বাইে যাবে।”
+05–10s — AUDIO: Say Hindi once: “इसे मुंबई जाना है।” Then say its Bangla meaning once: “এটা মুম্বাইয়ে যাবে।”
 
 Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
 ```

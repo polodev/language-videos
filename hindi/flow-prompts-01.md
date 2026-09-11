@@ -90,7 +90,7 @@ SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title card
 Speak clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. Say each quoted utterance once, in order; do not repeat the Hindi as a separate pronunciation demonstration. No extra speech, music, intro or outro.
 Upload title (creator metadata only; never show or speak it): হিন্দি শিখুন: কোথায় থাকেন বলুন
 
-00–05s — AUDIO: Say Hindi once: “मैं दिल्ली में रहती हूँ।” Then say its Bangla meaning once: “আমি দিল্লিে থাকি।”
+00–05s — AUDIO: Say Hindi once: “मैं दिल्ली में रहती हूँ।” Then say its Bangla meaning once: “আমি দিল্লিতে থাকি।”
 05–10s — AUDIO: Say Hindi once: “तुम कहाँ रहते हो?” Then say its Bangla meaning once: “তুমি কোথায় থাকো?”
 
 Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
@@ -260,7 +260,7 @@ Complete the specified speech and end by 10 seconds. Keep the picture text-free 
 
 # Prompt 15
 
-**আপলোড শিরোনাম:** হিন্দি শিখুন: হিন্দিে কীভাবে বলে
+**আপলোড শিরোনাম:** হিন্দি শিখুন: হিন্দিতে কীভাবে বলে
 
 **JSON key:** `prompt_15`
 
@@ -268,9 +268,9 @@ Complete the specified speech and end by 10 seconds. Keep the picture text-free 
 Create a standalone 9:16 Hindi lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera in a bright, quiet studio, with warm eye contact and natural lip sync.
 SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title cards or text overlays anywhere in the video. Use a plain background without signs or writing.
 Speak clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. Say each quoted utterance once, in order; do not repeat the Hindi as a separate pronunciation demonstration. No extra speech, music, intro or outro.
-Upload title (creator metadata only; never show or speak it): হিন্দি শিখুন: হিন্দিে কীভাবে বলে
+Upload title (creator metadata only; never show or speak it): হিন্দি শিখুন: হিন্দিতে কীভাবে বলে
 
-00–05s — AUDIO: Say Hindi once: “इसे हिंदी में क्या कहते हैं?” Then say its Bangla meaning once: “এটা হিন্দিে কীভাবে বলে?”
+00–05s — AUDIO: Say Hindi once: “इसे हिंदी में क्या कहते हैं?” Then say its Bangla meaning once: “এটা হিন্দিতে কীভাবে বলে?”
 05–10s — AUDIO: Say Hindi once: “कृपया इसे लिख दीजिए।” Then say its Bangla meaning once: “দয়া করে লিখে দিন।”
 
 Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.
@@ -450,7 +450,7 @@ SPEECH ONLY: No captions, subtitles, on-screen text, letters, labels, title card
 Speak clear Hindi followed by natural Bangladeshi Bangla meaning for each sentence. Say each quoted utterance once, in order; do not repeat the Hindi as a separate pronunciation demonstration. No extra speech, music, intro or outro.
 Upload title (creator metadata only; never show or speak it): হিন্দি শিখুন: ভাই কোথায় থাকেন
 
-00–05s — AUDIO: Say Hindi once: “मेरा भाई मुंबई में रहता है।” Then say its Bangla meaning once: “আমার ভাই মুম্বাইে থাকে।”
+00–05s — AUDIO: Say Hindi once: “मेरा भाई मुंबई में रहता है।” Then say its Bangla meaning once: “আমার ভাই মুম্বাইয়ে থাকে।”
 05–10s — AUDIO: Say Hindi once: “वह वहाँ विश्वविद्यालय में पढ़ता है।” Then say its Bangla meaning once: “সে সেখানে বিশ্ববিদ্যালয়ে পড়ে।”
 
 Complete the specified speech and end by 10 seconds. Keep the picture text-free throughout.

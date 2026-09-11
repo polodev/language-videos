@@ -44,7 +44,7 @@ All Hindi and German prompts request **no text anywhere in the video**: no capti
 
 Hindi speech remains: Hindi sentence 1 → Bangla meaning 1 → Hindi sentence 2 → Bangla meaning 2. Each quoted utterance is spoken once; do not repeat Hindi as a second pronunciation demonstration. German speech remains the two original German sentences, once each. Every video has a ten-second maximum.
 
-The original sentences, Bangla meanings and approximate pronunciation guides remain in `videos.json` and `bangla-support.txt` as authoring references. They are not text overlays. The obsolete caption Markdown files have been removed. Review generated videos for correct speech, timing and a completely text-free picture; no rendered video has been verified here.
+The original sentences, Bangla meanings and approximate pronunciation guides remain in `videos.json` and `bangla-support.txt` as authoring references. Flow generates the raw footage without text. Reviewed lesson text is then added locally in the Hindi captioning workflow below; the obsolete caption Markdown files have been removed.
 
 ## Content notes
 
@@ -88,4 +88,10 @@ The scripts regenerate the sentence array, video records, JSON prompts, two Mark
 
 ## Local Hindi video sorting
 
-See [Hindi sorting instructions](hindi/SORTING.md). Imported videos live in `hindi/Videos/`, and the local mapping database is `hindi/library.sqlite3`; both are excluded from Git. Matching uses cached offline Whisper small. Current work is sorting only; HyperFrames and actual regeneration are deferred.
+See [Hindi sorting instructions](hindi/SORTING.md). Imported videos live in `hindi/Videos/`, and the local mapping database is `hindi/library.sqlite3`; both are excluded from Git. Matching uses cached offline Whisper small. The initial 250 videos have been sorted, and 17 replacements were matched to their original prompt numbers. Raw videos remain in this folder for future caption revisions.
+
+## Hindi captioned exports
+
+The approved default is **original Variant 4: three separate line backgrounds**. Hindi is white on dark teal, Bengali pronunciation is dark on warm yellow, and Bangla meaning is dark on ivory. Current outlined Variant 9 is saved as an alternative. See [the root caption template](caption-template/README.md).
+
+The 250-video batch writes `hindi/caption-videos/1.mp4` through `250.mp4`, with matching JSON sidecars. HyperFrames renders the caption layers; FFmpeg applies them at individually reviewed sentence timings and copies the original audio. Captions change as whole three-line blocks without word highlighting or animation. All output videos, intermediate media and SQLite records remain excluded from Git.

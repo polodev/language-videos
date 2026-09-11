@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build a reusable HyperFrames project with the chosen outlined caption style."""
+"""Build a reusable HyperFrames project with the chosen three-line caption style."""
 import argparse
 import html
 import json
@@ -33,7 +33,7 @@ def build(number, switch, output, variant=None):
  for n,(start,end) in enumerate([(0,switch),(switch,duration)]):
   text=''.join(f'<p class="line line-{i} {("hi","pron","meaning")[i]}" lang="{line["language"]}">{html.escape(lesson["sentences"][n][line["key"]])}</p>' for i,line in enumerate(config['lines']))
   blocks.append(f'<section id="sentence-{n+1}" class="clip caption" data-caption-layer="fg" data-start="{start}" data-duration="{end-start}" data-track-index="2">{text}</section>')
- content=f'''<!doctype html><html lang="bn"><head><meta charset="utf-8"><title>Hindi {number} — outlined captions</title><script src="assets/gsap.min.js"></script><style>
+ content=f'''<!doctype html><html lang="bn"><head><meta charset="utf-8"><title>Hindi {number} — three-line captions</title><script src="assets/gsap.min.js"></script><style>
  @font-face{{font-family:Bangla;src:url('assets/bengali.ttf');font-weight:100 900;font-display:block}}
  @font-face{{font-family:Hindi;src:url('assets/devanagari.ttf');font-weight:100 900;font-display:block}}
  *{{box-sizing:border-box}}body{{margin:0}}#root{{width:{width}px;height:{height}px;position:relative;overflow:hidden}}
@@ -47,7 +47,7 @@ def build(number, switch, output, variant=None):
  {''.join(blocks)}</div><script>document.fonts.ready.then(()=>{{window.__timelines["hindi-caption"]=gsap.timeline({{paused:true}});}});</script></body></html>'''
  (output/'index.html').write_text(content)
  (output/'hyperframes.json').write_text(json.dumps({'authoringSkill':'embedded-captions','media':{'autoProxy':True}},indent=2))
- (output/'package.json').write_text(json.dumps({'name':'outlined-caption','private':True,'scripts':{'check':'npx --yes hyperframes@0.8.34 check','render':'npx --yes hyperframes@0.8.34 render'}},indent=2))
+ (output/'package.json').write_text(json.dumps({'name':'three-line-caption','private':True,'scripts':{'check':'npx --yes hyperframes@0.8.34 check','render':'npx --yes hyperframes@0.8.34 render'}},indent=2))
  (output/'caption.json').write_text(json.dumps({'prompt_number':number,'template':config,'variant':variant,'variant_name':preset['name'],'switch_seconds':switch,'lesson':lesson},ensure_ascii=False,indent=2))
  print(output)
 
