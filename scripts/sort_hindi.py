@@ -267,10 +267,12 @@ class Library:
             prompts.append(entry)
             if state == "needs_regeneration" or (include_unmatched and state == "unresolved"):
                 regeneration[entry["prompt_key"]] = row["prompt"]
-            if linked:
+            if any(a["present"] for a in linked):
                 dump(self.media / f"{row['id']}.json", {**entry, "assets": linked,
                      "caption_text_source": "Reviewed lesson text, not Whisper transcription",
                      "caption_lines": [[s["hindi"], s["bangla_pronunciation"], s["bangla_meaning"]] for s in lesson["sentences"]]})
+            elif linked:
+                (self.media / f"{row['id']}.json").unlink(missing_ok=True)
         inventory = {"prompts": prompts, "assets": assets,
                      "unmatched_asset_ids": [a["id"] for a in assets if a["prompt_id"] is None],
                      "summary": {"assets": len(assets), "present_assets": sum(a["present"] for a in assets),
@@ -302,7 +304,7 @@ class Library:
 <code>python3 scripts/sort_hindi.py review {asset['id']} --state captioned</code></article>""")
         (self.local / "review.html").write_text("""<!doctype html><meta charset="utf-8"><title>Hindi video review</title>
 <style>body{font:16px system-ui;background:#eee;padding:24px}main{display:grid;grid-template-columns:repeat(auto-fill,minmax(310px,1fr));gap:20px}article{background:white;padding:16px;border-radius:12px;overflow-wrap:anywhere}video{width:100%;height:380px;background:#111}h2{font-size:19px}code{display:block;background:#eee;padding:8px}</style>
-<h1>Hindi video matching and review</h1><p>Review the actual video for embedded text. Candidate scores are suggestions. Mark captioned takes with the command shown, or delete the numbered file yourself and run scan. Files are never automatically deleted.</p><main>""" + "\n".join(cards) + "</main>", encoding="utf-8")
+<h1>Hindi video matching and review</h1><p>Review the actual video for embedded text. Candidate scores are suggestions. Mark captioned takes with the command shown, or delete the numbered file yourself and run scan. Videos are never automatically deleted; JSON sidecars for missing videos are removed during scan/export.</p><main>""" + "\n".join(cards) + "</main>", encoding="utf-8")
 
 
 def main():

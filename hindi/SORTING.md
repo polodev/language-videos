@@ -59,7 +59,7 @@ This maps asset 12 to `prompt_37` and names its local video `37.mp4` (preserving
 python3 scripts/sort_hindi.py scan
 ```
 
-Scanning records missing numbered files; it never deletes videos. Import a regenerated download, transcribe it and match it again to recover the same number. The old mapping remains in SQLite's history.
+Scanning records missing numbered files and removes their matching JSON sidecars; it never deletes videos. Later exports keep those sidecars absent until a replacement video is registered. Prompt identities and transcripts remain saved in SQLite. Import a regenerated download, transcribe it and match it again to recover the same number. The old mapping remains in SQLite's history.
 
 Optional later review commands can mark an existing clip without deleting it:
 
