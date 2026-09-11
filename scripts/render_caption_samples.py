@@ -1,11 +1,11 @@
-"""Render the five authorized sample styles with HyperFrames, validating each first."""
+"""Render the authorized sample styles with HyperFrames, validating each first."""
 import argparse,json,shutil,subprocess
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
 PROJECT=ROOT/'hindi/caption-project'
 OUTPUT=ROOT/'hindi/caption-videos'
-p=argparse.ArgumentParser();p.add_argument('--start',type=int,default=1);args=p.parse_args()
-for n in range(args.start,6):
+p=argparse.ArgumentParser();p.add_argument('--start',type=int,default=1);p.add_argument('--end',type=int,default=5);args=p.parse_args()
+for n in range(args.start,args.end+1):
  work=ROOT/'hindi/.local/caption-renders'/f'variant-{n}';work.mkdir(parents=True,exist_ok=True)
  shutil.copy2(PROJECT/'variants'/f'variant-{n}.html',work/'index.html')
  for name in ('hyperframes.json','package.json','BRIEF.md'):shutil.copy2(PROJECT/name,work/name)

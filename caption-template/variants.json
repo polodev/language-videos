@@ -1,0 +1,52 @@
+[
+  {
+    "variant": 1,
+    "name": "white-outline",
+    "css": ".line{color:#fff}"
+  },
+  {
+    "variant": 2,
+    "name": "yellow-pronunciation",
+    "css": ".line{color:#fff}.pron{color:#ffe28b}"
+  },
+  {
+    "variant": 3,
+    "name": "yellow-hindi",
+    "css": ".line{color:#fff}.hi{color:#ffe28b}"
+  },
+  {
+    "variant": 4,
+    "name": "three-colors",
+    "css": ".hi{color:#fff}.pron{color:#ffe28b}.meaning{color:#b9ffdc}"
+  },
+  {
+    "variant": 5,
+    "name": "bold-white",
+    "css": ".line{color:#fff;font-weight:700;-webkit-text-stroke:4.5px #111}.hi{font-weight:800}"
+  },
+  {
+    "variant": 6,
+    "name": "mint-pronunciation",
+    "css": ".line{color:#fff}.pron{color:#b9ffdc}"
+  },
+  {
+    "variant": 7,
+    "name": "gold-and-sky",
+    "css": ".hi{color:#ffe28b}.pron{color:#bcecff}.meaning{color:#fff}"
+  },
+  {
+    "variant": 8,
+    "name": "left-aligned-colors",
+    "css": ".caption{text-align:left;padding:0 28px}.hi{color:#fff}.pron{color:#ffe28b}.meaning{color:#b9ffdc}"
+  },
+  {
+    "variant": 9,
+    "name": "bold-three-colors",
+    "css": ".line{font-weight:700;-webkit-text-stroke:4.5px #111}.hi{color:#fff;font-size:43px;font-weight:800}.pron{color:#ffe28b;font-size:37px}.meaning{color:#b9ffdc;font-size:37px}"
+  },
+  {
+    "variant": 10,
+    "name": "spaced-white-and-gold",
+    "css": ".line{color:#fff;line-height:1.9}.meaning{color:#ffe28b}.hi{line-height:1.7}"
+  }
+]

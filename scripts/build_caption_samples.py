@@ -1,4 +1,4 @@
-"""Build five static three-line HyperFrames caption samples for Hindi prompt 1."""
+"""Build outlined three-line HyperFrames caption samples for Hindi prompt 1."""
 import html
 import json
 import shutil
@@ -7,13 +7,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 PROJECT = ROOT / 'hindi/caption-project'
 OUTPUT = ROOT / 'hindi/caption-videos'
-STYLES = [
- ('dark-card', '.caption{background:#142020;border-radius:22px;padding:24px 22px;box-shadow:0 8px 25px #0005}.hi{color:#fff}.pron{color:#f8da82}.meaning{color:#fff}'),
- ('light-card', '.caption{background:#fffaf0;border:2px solid #ddd2bc;border-radius:18px;padding:24px 22px;box-shadow:0 8px 25px #0004}.hi{color:#172525}.pron{color:#675025}.meaning{color:#172525}'),
- ('outlined', '.caption{padding:24px 22px;background:#101820d9;border-radius:8px}.line{color:#fff;-webkit-text-stroke:1px #000;paint-order:stroke fill;text-shadow:0 2px 3px #000}.pron{color:#ffe28b}'),
- ('line-bands', '.caption{display:flex;flex-direction:column;align-items:center;gap:8px;padding:0}.line{background:#132c31;border-radius:8px;padding:8px 22px;align-self:center}.hi{color:#fff}.pron{background:#f8df9c;color:#2f2715}.meaning{background:#fffaf0;color:#172525}'),
- ('left-panel', '.caption{background:#142020;border-left:6px solid #f1d182;border-radius:0 16px 16px 0;padding:24px 28px;text-align:left}.hi{color:#fff}.pron{color:#f8da82}.meaning{color:#fff}'),
-]
+STYLES = [(row['name'], row['css']) for row in json.loads((ROOT/'caption-template/variants.json').read_text())]
 
 def build():
  PROJECT.mkdir(exist_ok=True);OUTPUT.mkdir(exist_ok=True)
@@ -34,8 +28,8 @@ def build():
 @font-face{font-family:Hindi;src:url('assets/devanagari.ttf') format('truetype');font-weight:100 900;font-display:block}
 *{box-sizing:border-box}body{margin:0;background:#000}#root{width:720px;height:1280px;position:relative;overflow:hidden}
 video{position:absolute;inset:0;width:720px;height:1280px;object-fit:contain}
-.caption{position:absolute;left:46px;right:70px;top:810px;z-index:2;text-align:center}
-.line{margin:0;font-family:Bangla,sans-serif;font-size:34px;font-weight:600;line-height:1.5;white-space:nowrap}
+.caption{position:absolute;left:46px;right:70px;top:834px;z-index:2;text-align:center;padding:0 16px;background:transparent}
+.line{margin:0;font-family:Bangla,sans-serif;font-size:34px;font-weight:600;line-height:1.6;white-space:nowrap;-webkit-text-stroke:3.5px #111;paint-order:stroke fill;background:transparent}
 .hi{font-family:Hindi,sans-serif;font-size:39px;font-weight:700;line-height:1.5}
 STYLECSS
 </style></head><body><div id="root" data-composition-id="hindi-caption" data-width="720" data-height="1280" data-duration="10" data-fps="24">
@@ -46,8 +40,8 @@ BLOCKS
  for n,(name,css) in enumerate(STYLES,1):
   content=base.replace('STYLECSS',css).replace('STYLE',name).replace('BLOCKS','\n'.join(blocks))
   (PROJECT/'variants'/f'variant-{n}.html').write_text(content)
-  (OUTPUT/f'variant-{n}.json').write_text(json.dumps({'variant':n,'style':name,'source_prompt':'prompt_1','source_video':'../Videos/1.mp4','caption_switch_seconds':boundary,'word_highlighting':False,'lesson':lesson},ensure_ascii=False,indent=2)+'\n')
- (PROJECT/'index.html').write_text((PROJECT/'variants/variant-1.html').read_text())
+  (OUTPUT/f'variant-{n}.json').write_text(json.dumps({'variant':n,'style':name,'source_prompt':'prompt_1','source_video':'../Videos/1.mp4','caption_switch_seconds':boundary,'word_highlighting':False,'caption_background':False,'outline':True,'lesson':lesson},ensure_ascii=False,indent=2)+'\n')
+ (PROJECT/'index.html').write_text((PROJECT/'variants/variant-4.html').read_text())
  (PROJECT/'BRIEF.md').write_text('''---
 workflow: embedded-captions
 flow: automation
@@ -56,10 +50,10 @@ language: Hindi and Bengali
 aspect: 9:16
 ---
 
-Create only five rendered style variants of prompt 1 for user selection. Use the same original footage and audio, and three unlabeled lines per sentence: Hindi, Hindi pronunciation in Bengali script, Bangla meaning. No word highlighting, animation, subject matting or embedded text. Switch the entire block at the second Hindi sentence, using the existing offline Whisper-small transcript for timing. The explicit three-line, sentence-only brief overrides the workflow's two-line and animated verbatim defaults. User explicitly authorized five test renders; full-collection rendering awaits their chosen variant.
+Create only ten rendered style variants of prompt 1 for user selection. Use the same original footage and audio, and three unlabeled lines per sentence: Hindi, Hindi pronunciation in Bengali script, Bangla meaning. No word highlighting, animation, subject matting or embedded text. Switch the entire block at the second Hindi sentence, using the existing offline Whisper-small transcript for timing. The explicit three-line, sentence-only brief overrides the workflow's two-line and animated verbatim defaults. User authorized ten test renders and wants to select multiple variants. Variant 4 is the first choice, saved at root caption-template; full-collection rendering awaits the final style choices.
 
-The original remains in Videos; the five samples go to caption-videos. Typography uses local Noto Sans Devanagari and Noto Sans Bengali. Five static treatments: dark card, light card, outlined, line bands, left panel. Native 720×1280, 24fps, 10 seconds. All font files and GSAP are local at render time.
+The original remains in Videos; the samples go to caption-videos. Typography uses local Noto Sans Devanagari and Noto Sans Bengali. Five outlined-text treatments: all white, yellow pronunciation, yellow Hindi, three colors, and bold white. Captions must NEVER have any background, box, panel, band or scrim. Only glyph outlines provide contrast. No browser previews; export MP4 files directly. Native 720×1280, 24fps, 10 seconds. All font files and GSAP are local at render time.
 ''')
- print('Built five styles with caption boundary',boundary)
+ print('Built',len(STYLES),'styles with caption boundary',boundary)
 
 if __name__=='__main__':build()
