@@ -121,8 +121,17 @@
       "bangla_meaning"
     ],
     "presenter": "Exceptionally beautiful, smart, confident adult female teacher; photorealistic appearance, elegant professional clothing, fluent Bangla and accurate target-language speech",
-    "spoken_language": "hi-IN",
-    "bangla_support_mode": "Simultaneous on-screen pronunciation and meaning; original sentence spoken once"
+    "bangla_support_mode": "Spoken Bangla meaning after each Hindi sentence; simultaneous original, Bangla pronunciation and meaning captions",
+    "spoken_languages": [
+      "hi-IN",
+      "bn-BD"
+    ],
+    "speech_order": [
+      "hindi_sentence_1",
+      "bangla_meaning_1",
+      "hindi_sentence_2",
+      "bangla_meaning_2"
+    ]
   },
   {
     "name": "Japanese",

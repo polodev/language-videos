@@ -44,6 +44,9 @@ def load_lessons():
         title, de1, bn1, pron1, de2, bn2, pron2 = support
         assert [de1, de2] == original.pop("originals"), (number, "Hindi source mismatch")
         assert all(re.search(r"[\u0980-\u09ff]", text) for text in (title, bn1, pron1, bn2, pron2))
+        # Danda punctuation (U+0964/U+0965) is shared with Bangla.
+        assert all(not re.search(r"[\u0900-\u0963\u0966-\u097fA-Za-z]", text)
+                   for text in (title, bn1, pron1, bn2, pron2)), (number, "Mixed script in Bangla text")
         sentences = []
         for position, (de, bn, pron) in enumerate(((de1, bn1, pron1), (de2, bn2, pron2))):
             assert de[-1] in "।?!" and len(re.findall(r"[।!?]", de)) == 1
@@ -119,8 +122,8 @@ def main():
           "two Markdown batches, all specifying complete 10-second videos.")
     print("Approximate level distribution by video:", dict(levels))
     print("Longest complete lesson speech:", max(
-        sum(len(s['hindi'].split()) for s in v['sentences'])
-        for v in lessons), "space-delimited target-language words.")
+        sum(len((s['hindi'] + ' ' + s['bangla_meaning']).split()) for s in v['sentences'])
+        for v in lessons), "space-delimited words across Hindi and spoken Bangla meanings.")
 
 
 if __name__ == "__main__":

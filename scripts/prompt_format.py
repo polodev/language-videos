@@ -2,14 +2,23 @@
 
 
 def full_prompt(lesson, language, field):
+    caption_rules = ""
+    if field == "hindi":
+        caption_rules = "\nCAPTION RULES: Copy verbatim; never re-transliterate. Line 1: Devanagari only. Lines 2–3: Bangla script only; never insert Hindi characters into Bangla. Use clear Bengali lettering on a solid dark panel, generous spacing and no heavy outline. Keep each group static for five seconds."
     blocks = []
     for index, sentence in enumerate(lesson["sentences"]):
-        blocks.append(f"""{index * 5:02d}–{(index + 1) * 5:02d}s — speak only this {language} sentence once; display all three caption lines:
+        speech = f"speak only this {language} sentence once"
+        if field == "hindi":
+            speech = f"say Hindi: “{sentence[field]}” THEN say its meaning in Bangla: “{sentence['bangla_meaning']}”"
+        blocks.append(f"""{index * 5:02d}–{(index + 1) * 5:02d}s — {speech}; display all three caption lines:
 {sentence[field]}
 উচ্চারণ: {sentence['bangla_pronunciation']}
 অর্থ: {sentence['bangla_meaning']}""")
+    audio = f"Speak clear, accurate {language}."
+    if field == "hindi":
+        audio = "Speak Hindi 1 → Bangla meaning 1 → Hindi 2 → Bangla meaning 2. All four quoted lines must be audible, in clear Hindi and natural Bangladeshi Bangla. Do not read pronunciation guides or labels aloud."
     return f"""Create one standalone 9:16 {language} lesson, maximum 10 seconds. One very beautiful, smart, confident adult female teacher (25–35), photorealistic and elegantly dressed, teaches directly to camera with warm eye contact and natural lip sync.
-Audience: Bangla-only beginners. Speak clear, accurate {language}. Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.
+Audience: Bangla-only beginners. {audio} Show original writing, Bangla pronunciation and Bangla meaning together: large, high-contrast, correctly shaped, neatly wrapped below her face, clear of bottom/right controls. Preserve text exactly. Bangla pronunciation is approximate; model the native sound. No extra speech, music, intro or outro.{caption_rules}
 Upload title (not spoken): {lesson['upload_title']}
 
 {chr(10).join(blocks)}

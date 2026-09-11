@@ -2,7 +2,7 @@
 
 **হিন্দি ও জার্মান—প্রতিটিতে ৫০০ বাক্য এবং ২৫০টি সম্পূর্ণ প্রম্পট। প্রতিটি ভিডিও সর্বোচ্চ ১০ সেকেন্ড।**
 
-একজন অত্যন্ত সুন্দরী, স্মার্ট, আত্মবিশ্বাসী প্রাপ্তবয়স্ক নারী উপস্থাপক দুটি বাক্য শেখাবেন। প্রথম বাক্য ০–৫ সেকেন্ডে, দ্বিতীয়টি ৫–১০ সেকেন্ডে। তিনি শুধু মূল ভাষার বাক্য বলবেন; একই সময়ে ক্যাপশনে মূল বাক্য, বাংলা উচ্চারণ ও বাংলা অর্থ দেখা যাবে। দর্শকের ইংরেজি বা নতুন ভাষার অক্ষর জানার দরকার নেই।
+একজন অত্যন্ত সুন্দরী, স্মার্ট, আত্মবিশ্বাসী প্রাপ্তবয়স্ক নারী উপস্থাপক দুটি বাক্য শেখাবেন। প্রথম বাক্য ০–৫ সেকেন্ডে, দ্বিতীয়টি ৫–১০ সেকেন্ডে। হিন্দি ভিডিওতে তিনি প্রথমে হিন্দি বাক্য, তারপর তার বাংলা অর্থ বলবেন; দ্বিতীয় বাক্যেও একই ক্রম থাকবে। জার্মান ভিডিওতে মূল ভাষার বাক্য বলা হবে। একই সময়ে ক্যাপশনে মূল বাক্য, বাংলা উচ্চারণ ও বাংলা অর্থ দেখা যাবে। দর্শকের ইংরেজি বা নতুন ভাষার অক্ষর জানার দরকার নেই।
 
 ## Markdown না JSON?
 
@@ -47,7 +47,7 @@ At 05–10 seconds, replace that group with:
 অর্থ: তোমার নাম কী?
 ```
 
-Show all three lines together in large, high-contrast text below the face and clear of bottom/right platform controls. Wrap long lines neatly. Preserve Devanagari vowel signs and conjuncts, German special letters and Bangla glyphs. Pronunciation guides are visual support: audio models the original language, not a literal reading of Bangla transliteration. Caption windows are planned; review actual speech, spelling and readability before upload. Videos have not been generated, timed or visually verified.
+Show all three lines together in large, high-contrast text below the face and clear of bottom/right platform controls. Wrap long lines neatly. Preserve Devanagari vowel signs and conjuncts, German special letters and Bangla glyphs. Hindi audio follows this order: Hindi sentence 1, Bangla meaning 1, Hindi sentence 2, Bangla meaning 2. Pronunciation guides and caption labels are visual support and are not read aloud. Hindi caption prompts explicitly require Devanagari only in the original line and Bangla script only in the other two lines; generated text still needs review. Caption windows are planned; review actual speech, spelling and readability before upload. Videos have not been generated, timed or visually verified.
 
 ## Content notes
 
