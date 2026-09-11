@@ -15,11 +15,12 @@ hindi/
     2.json
   .local/
     inventory.json
+    original_downloads/  # Preserved originals from the initial Finder import
     transcripts/
     review.html
 ```
 
-Numbering is by **prompt identity**, not download order. A missing prompt leaves a gap; other videos are never renumbered to fill it. Duplicate or ambiguous takes remain in `incoming/` for review. Original downloads are copied and left untouched. SHA-256 verifies copied bytes; the tool refuses to overwrite an existing numbered video.
+Numbering is by **prompt identity**, not download order. A missing prompt leaves a gap; other videos are never renumbered to fill it. Duplicate or ambiguous takes remain in `incoming/` for review. The import command copies original downloads without modifying them. For the initial 250-video Finder import, the originals are preserved in `.local/original_downloads/`; `Videos/` contains the working copies. SHA-256 verifies copied bytes; the tool refuses to overwrite an existing numbered video.
 
 ## Import and identify
 
@@ -40,7 +41,7 @@ python3 scripts/sort_hindi.py import hindi/Videos
 
 The cached **multilingual Whisper small** model runs through `faster-whisper`, locally on CPU with INT8. Both offline environment settings and `local_files_only=True` prevent model downloads during transcription; no audio is sent to an API. The current machine has the small model cached. Hindi is specified for recognition to identify the Hindi sentences; mixed Bangla may be transcribed imperfectly. Do not use this transcript as the source of future caption spelling. The authoritative text remains `videos.json`.
 
-Use `--limit 5` to try the first five pending clips. Completed transcripts are persisted individually and skipped on subsequent runs. The model supports word timestamps, which are saved for later inspection. [Faster Whisper documentation](https://github.com/SYSTRAN/faster-whisper).
+Use `--limit 5` to try the first five pending clips. For separate workers, use nonoverlapping asset ranges such as `--start-asset 1 --end-asset 125` and `--start-asset 126 --end-asset 250`. Completed transcripts are persisted individually and skipped on subsequent runs. The model supports word timestamps, which are saved for later inspection. [Faster Whisper documentation](https://github.com/SYSTRAN/faster-whisper).
 
 Both expected Hindi sentences contribute to matching. Automatic naming requires a high fuzzy similarity score, a clear lead over the next candidate, and no competing take. These conservative heuristic thresholds have not yet been calibrated on your downloads; they may leave many clips unresolved. This is preferable to giving a video the wrong prompt number.
 

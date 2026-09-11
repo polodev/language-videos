@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Local-only Hindi video import, Whisper matching, review and regeneration queue."""
 import argparse
+import dataclasses
 import hashlib
 import html
 import json
@@ -19,7 +20,7 @@ EXTENSIONS = {".mp4", ".mov", ".m4v", ".webm"}
 def dump(path, data):
     path = Path(path)
     path.parent.mkdir(parents=True, exist_ok=True)
-    temporary = path.with_name(path.name + ".tmp")
+    temporary = path.with_name(path.name + f".{os.getpid()}.tmp")
     temporary.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     temporary.replace(path)
 
@@ -128,12 +129,12 @@ class Library:
         self.export()
         return {"discovered": len(found), "imported": imported, "skipped": skipped}
 
-    def transcribe(self, model_name="small", limit=None):
+    def transcribe(self, model_name="small", limit=None, start_asset=1, end_asset=2147483647):
         # Never upload audio, fetch weights or silently select an English-only model.
         os.environ["HF_HUB_OFFLINE"] = "1"
         os.environ["HF_HUB_DISABLE_TELEMETRY"] = "1"
         from faster_whisper import WhisperModel
-        pending = list(self.db.execute("SELECT * FROM assets WHERE transcript IS NULL AND present=1 ORDER BY id"))
+        pending = list(self.db.execute("SELECT * FROM assets WHERE transcript IS NULL AND present=1 AND id BETWEEN ? AND ? ORDER BY id", (start_asset, end_asset)))
         if limit is not None:
             pending = pending[:limit]
         if not pending:
@@ -148,9 +149,12 @@ class Library:
                 segments, info = model.transcribe(str(self.path(asset)), language="hi", task="transcribe",
                                                  beam_size=5, temperature=0, word_timestamps=True,
                                                  condition_on_previous_text=False, vad_filter=False)
-                segments = [segment._asdict() for segment in segments]
+                segments = [dataclasses.asdict(segment) if dataclasses.is_dataclass(segment)
+                            else segment._asdict() for segment in segments]
                 for segment in segments:
-                    segment["words"] = [word._asdict() for word in segment.get("words") or []]
+                    segment["words"] = [word if isinstance(word, dict) else
+                                        dataclasses.asdict(word) if dataclasses.is_dataclass(word) else word._asdict()
+                                        for word in segment.get("words") or []]
                 payload = {"text": " ".join(s["text"].strip() for s in segments), "segments": segments,
                            "language": info.language, "model": model_name, "offline": True}
                 self.db.execute("UPDATE assets SET transcript=?,model=?,candidates=NULL WHERE id=?",
@@ -197,13 +201,13 @@ class Library:
                     continue
                 if self.db.execute("SELECT 1 FROM assets WHERE prompt_id=? AND present=1 AND review NOT IN ('captioned','bad-audio')", (prompt_id,)).fetchone():
                     continue
-                self.assign(asset_id, prompt_id, method="high-confidence-heuristic")
+                self.assign(asset_id, prompt_id, method="high-confidence-heuristic", refresh=False)
                 assigned += 1
         self.export()
         return {"high_confidence_proposals": len(proposals), "assigned": assigned,
                 "note": "Scores are fuzzy similarity, not calibrated probabilities; visual/audio review remains required."}
 
-    def assign(self, asset_id, prompt_id, method="manual"):
+    def assign(self, asset_id, prompt_id, method="manual", refresh=True):
         asset = self.asset(asset_id)
         if not self.db.execute("SELECT 1 FROM prompts WHERE id=?", (prompt_id,)).fetchone():
             raise ValueError(f"Unknown prompt {prompt_id}")
@@ -226,7 +230,8 @@ class Library:
                         (str(destination.relative_to(self.root)), prompt_id, method, asset_id))
         self.event(asset_id, "assign", f"prompt_{prompt_id}: {method}")
         self.db.commit()
-        self.export()
+        if refresh:
+            self.export()
 
     def review(self, asset_id, state, note=""):
         self.asset(asset_id)
@@ -309,6 +314,8 @@ def main():
     transcription = commands.add_parser("transcribe")
     transcription.add_argument("--model", choices=("small", "medium"), default="small")
     transcription.add_argument("--limit", type=int)
+    transcription.add_argument("--start-asset", type=int, default=1)
+    transcription.add_argument("--end-asset", type=int, default=2147483647)
     matcher = commands.add_parser("match"); matcher.add_argument("--apply-confident", action="store_true")
     assigner = commands.add_parser("assign"); assigner.add_argument("asset", type=int); assigner.add_argument("prompt", type=int)
     reviewer = commands.add_parser("review"); reviewer.add_argument("asset", type=int)
@@ -321,7 +328,7 @@ def main():
     try:
         library = Library(args.root)
         if args.command == "import": result = library.import_folder(args.source)
-        elif args.command == "transcribe": result = library.transcribe(args.model, args.limit)
+        elif args.command == "transcribe": result = library.transcribe(args.model, args.limit, args.start_asset, args.end_asset)
         elif args.command == "match": result = library.match(args.apply_confident)
         elif args.command == "assign": result = library.assign(args.asset, args.prompt)
         elif args.command == "review": result = library.review(args.asset, args.state, args.note)
